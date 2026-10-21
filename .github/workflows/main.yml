@@ -1,0 +1,106 @@
+
+name: PULSE 자동 뉴스 업데이트
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */2 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 뉴스 수집
+        run: |
+          pip install feedparser
+          python - <<'PY'
+          import feedparser, json, re, os
+          from datetime import datetime, timezone
+          from urllib.parse import quote
+
+          queries = [
+              ('kr','한국 증시 코스피 코스닥 주식','ko','KR'),
+              ('kr','삼성전자 SK하이닉스 반도체','ko','KR'),
+              ('us','US stock market Nasdaq earnings','en','US'),
+              ('us','Nvidia Tesla Apple stocks','en','US')
+          ]
+          stocks = [
+              ('삼성전자','005930','삼성전자'),
+              ('SK하이닉스','000660','SK하이닉스'),
+              ('엔비디아','NVDA','Nvidia'),
+              ('테슬라','TSLA','Tesla'),
+              ('애플','AAPL','Apple'),
+              ('마이크로소프트','MSFT','Microsoft')
+          ]
+          articles = []
+          seen = set()
+          for kind,q,lang,country in queries:
+              url = ('https://news.google.com/rss/search?q='
+                  +quote(q)+'&hl='+lang+'&gl='+country
+                  +'&ceid='+country+':'+lang)
+              feed = feedparser.parse(url)
+              for e in feed.entries[:20]:
+                  title = e.get('title','')
+                  if not title or title in seen: continue
+                  seen.add(title)
+                  found = [
+                      {'name':n,'ticker':t}
+                      for n,t,k in stocks
+                      if k.lower() in title.lower()
+                  ]
+                  pub = e.get('published_parsed')
+                  date = (
+                      datetime(*pub[:6],tzinfo=timezone.utc).isoformat()
+                      if pub else datetime.now(timezone.utc).isoformat()
+                  )
+                  articles.append({
+                      'type':kind,
+                      'title':title,
+                      'url':e.get('link',''),
+                      'source':e.get('source',{}).get('title','뉴스'),
+                      'published':date,
+                      'stocks':found,
+                      'sentiment':'중립/불명'
+                  })
+          if not articles:
+              raise SystemExit('수집 실패, 기존 뉴스 유지')
+          articles.sort(key=lambda x:x['published'],reverse=True)
+          counts={}
+          for a in articles:
+              for s in a['stocks']:
+                  n=s['name']
+                  counts[n]=counts.get(n,0)+1
+          top=[
+              {'name':n,'mentions':v}
+              for n,v in sorted(
+                  counts.items(),
+                  key=lambda p:p[1],
+                  reverse=True
+              )[:10]
+          ]
+          os.makedirs('PULSE_AUTO',exist_ok=True)
+          with open('PULSE_AUTO/news.json','w',encoding='utf-8') as f:
+              json.dump({
+                  'updated_at':datetime.now(timezone.utc).isoformat(),
+                  'articles':articles[:80],
+                  'top_stocks':top
+              },f,ensure_ascii=False,indent=2)
+          PY
+
+      - name: 자동 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add PULSE_AUTO/news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "뉴스 자동 갱신"
+            git push
+          fi
