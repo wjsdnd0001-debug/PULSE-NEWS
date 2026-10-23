@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-23T02:39:56.211172+00:00",
+  "updated_at": "2026-10-23T04:39:31.385146+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "[AI 투자 경고등 ②] AI 거품 경고에 K-반도체 긴장···900조 투자 시험대 - 서울파이낸스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxU0xiTURRYksxbzJ4Z3RTU0E3Z2JybTNTV3ByczdHbGtfTkpYWWZIdjl2UWNOTy1wd2dMSjF6VzQ3MS1jZ3BLMWFfZnltRjJqMjdXZ05MY093bzZjbUZPUUFGOE1XMEx3X3c?oc=5",
+      "source": "서울파이낸스",
+      "published": "2026-10-23T03:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "코스피, 대외 악재에 흔들.. 삼성전자·SK하이닉스 일제 하락 > 뉴스 - 지데일리",
@@ -75,15 +84,6 @@
     },
     {
       "type": "kr",
-      "title": "최태원·이재용 빠진 국감…호남 반도체 투자계획 검증 ‘미완’ - 에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wNlF2UzdxUFU0cnVzbFY3WFd4Ty14MzVyM1JYLUYxNUpKY29XYURmNmpiamlLaFpQdjE1YWNzMHNoYllXcVVvQXdzQnNaY2txTlQ5REtfWmllN0U?oc=5",
-      "source": "에너지경제신문",
-      "published": "2026-10-23T00:41:27+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "[특징주] 美 빅테크발 한파에 삼성·SK 핵심 7종목 줄줄이 하락 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmUGx5azVIZ0xsZTRnVWdhVFBvdmwteTNoQ2swQmF2YWRCN1g0NHVVc2FYc2EweXpQVW01T2tTWXpSY1RfbDl3WXc0ek1XbGpEOVNPdzFlcFg5bkhn?oc=5",
       "source": "뉴스핌",
@@ -107,6 +107,24 @@
       "source": "한국경제",
       "published": "2026-10-23T00:19:47+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "美 반도체 급락에 장 초반 삼성전자 3%↓SK하이닉스2%↓[핫스탁] - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ROHFnY2RCcWU0WUd3ZUxacU1lNUdxdV92eWtLSHRkQVFFeWc1YVpjeFJCWEUxUE41MWw1MDdidXhSUDhtM3U1RGoyN2FuRXhoVUNmdk02NVRvZzUybXZUc9IBeEFVX3lxTE5jMTVTVGk3bEVveTRwdmhOVWxaUzAzUkZzZHRkcG5mdjRIbHNDQzFGdGVFX1RTNURaeUhUTjJ4N0tGM1daRG5JYm9VR0x5aDl6Zl9UUnpiTXk2X0ozSWpEbUpjZ1RwMzh2MThsck5EamxJUzE2Qi1Zbw?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-23T00:04:16+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -265,24 +283,6 @@
     },
     {
       "type": "kr",
-      "title": "삼성전자·SK하이닉스, 55조 자사주 매입 완료…이달 말 주주환원 발표에 이목 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZU2E2cmt5YWhoUTJ1ZnlSTEkyVGozWEZLMEQwYktJWFhnZ1VSOVhUNHVzNUFOVXBuZ0dRUkxTOXJMcXJFd3VsWFdUbWUwTFR2ZlEtdHhsakRiYXcwX3NJT9IBeEFVX3lxTE5BT3BlcVEybGpydjlmYWVhRVkyR2s3YVNXUHgtQ1dTcFpNbE12Z0l0LUVsNkZRUXZCYWhneGprUTV6MVplcWdrX2pBaWhjTU96ejBvaXpuajZfeU12ekZrVUZmMWlGdWFTWmowcmJiTkNhbVJwVXJOYg?oc=5",
-      "source": "뉴시스",
-      "published": "2026-10-22T09:15:40+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "반등이 무색해진 증시…코스피·코스닥, 외인·기관 매도에 3%대 동반 급락 - 프리진경제",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XYm9JVXhoQS03Tl9ZVFA0RHZ6VGNZampIRDBLSkNENl9PbDBob3kwODRxM0dicTIwT19lakt4Z0RkR04xSzQtaTREVkliWERiMHF6UExIb1F3dE1tOENON1U4am05NDNLeTY2ag?oc=5",
       "source": "프리진경제",
@@ -333,24 +333,6 @@
       "source": "뉴스핌",
       "published": "2026-10-22T06:40:00+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "일론 머스크 반도체 공장 '테라팹' 메모리 생산부터 추진하나, 삼성전자·SK하이닉스 경쟁자 부각 가능성 - 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tNTlaODVUcGNQbnZZMEs5X2hsNEhoeWpRYWlBdXhiLS15ZG5KV1BhcXVya1BWSS1JYWoxZzNXN3REWEpTWnN5Z0FGUThETVI0dFhoM2V4Wm9XUnYxVlN1RDN4aEhHNk41cXhHNC02Vkt4bU0?oc=5",
-      "source": "비즈니스포스트",
-      "published": "2026-10-22T06:12:21+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -418,19 +400,19 @@
     },
     {
       "type": "us",
-      "title": "Stocks Set for Worst Day Since July as Bonds Rally: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-10-21T22:13:33+00:00",
+      "title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-21T23:11:13+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
       "type": "us",
-      "title": "US Stock Futures Point Higher as Investors Assess Earnings and Await Major Technology Results: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGJNV3dEbUNfdHVkX2NSUzduZlIwOEtaeGlKOWNxNFdpSzJZaVNsRmhBZllGbjhVSnV4dzl0TWdLSGVVd2I0c0lyMFRNVDY0YmNmaWtNRHJVWllzbkJRQWl4R0tLMmJSakJrQlUyTFFHVHhLbjRVY183eEdlRWdadEJTdVc?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-10-21T13:21:38+00:00",
+      "title": "Stocks Set for Worst Day Since July as Bonds Rally: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-10-21T22:13:33+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -500,6 +482,24 @@
       "source": "WSJ",
       "published": "2026-10-20T21:06:00+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "[특징주] 삼성전자·SK하이닉스, 美 기술주 훈풍에도 약세 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OMUFEZ2RJd2l4NU5LQm9pcEVWQWVIM0k3M0hDOGVPSFdfaHd4N1JYU0RFMEs1UFV3cUhZbV95YU02SWE1ZVlFcHdBSnBSeUd1SmpBT0laRjZCSHBD?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-10-20T00:35:00+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
