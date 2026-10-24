@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-10-24T14:38:08.133854+00:00",
+  "updated_at": "2026-10-24T16:39:01.579939+00:00",
   "articles": [
     {
-      "type": "us",
-      "title": "U.S. Stocks Fall as Tech Selloff Deepens - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5",
-      "source": "WSJ",
-      "published": "2026-10-24T08:34:38+00:00",
+      "type": "kr",
+      "title": "외국인·기관, SK하이닉스 2.3조 던졌다…개인은 삼전·삼성전기 '사자' - 뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SU0l6S0phTWxTREgxa1Qxbjg4WnRYNWxqcm5YNHhySVNGTUVHR2JXZjFCSEVVdGVsZDYyaDFaLWlGRUxGR0RseURkM2hCQTdmU3loSU1rRFlxS2hubHc?oc=5",
+      "source": "뉴스투데이",
+      "published": "2026-10-24T15:25:57+00:00",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼전닉스, 바닥론에 거품론까지…다음 주자는 소부장株? - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNTjFMMXFPWWdnYVFyc2phbFo3a24wRGZocjdwR080UkVBZ1BoVzBLUHFGd2hrZFZYVWU1T184Nk55M01NT2V3RzI4UFhUS2UzYTlQNzdlRlNVTmc0Q1pzdzJTMA?oc=5",
+      "source": "더구루",
+      "published": "2026-10-24T15:00:08+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -44,15 +58,6 @@
           "ticker": "000660"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼전닉스 성과급 7억 vs 대만 마이크론 1.5억.. 차이 큰 이유는 [반도체플러스] - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YTFFOc0JlT2J4U1B4X1dGNnhxZHlZbHlsdlljTlNPRm41cDc4MWlzNzl0SlVuYjlmbDZHSnVaR2ZhOVI2WEp0cHhzNUF1d3JDdEF3M3lR?oc=5",
-      "source": "매일경제",
-      "published": "2026-10-24T06:20:49+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -183,6 +188,15 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
       "source": "Reuters",
       "published": "2026-10-22T20:06:34+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "U.S. Stocks Fall as Tech Selloff Deepens - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5",
+      "source": "WSJ",
+      "published": "2026-10-22T18:42:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -323,9 +337,9 @@
     },
     {
       "type": "us",
-      "title": "Stocks Set for Worst Day Since July as Bonds Rally: Markets Wrap - Bloomberg",
+      "title": "Stocks Set for Worst Day Since July as Bonds Rally: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published": "2026-10-21T22:13:33+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
@@ -499,24 +513,6 @@
       "source": "Reuters",
       "published": "2026-10-19T23:31:42+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "美 반도체 반등…프리마켓 삼성전자 1%↑·SK하이닉스 강보합 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IZ3hDblpwaHdCN0c4RE9UQ2J5YlpEc1dWSTdnVC1OVXNHQmhFZVd6bFJldWpIRk1XNE1MZHZ4cXRjakNXMjMzZWNjWThKUDdoal9RbWU1bVQzME5NSllv?oc=5",
-      "source": "뉴스1",
-      "published": "2026-10-19T23:19:23+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -1065,16 +1061,16 @@
       "mentions": 15
     },
     {
-      "name": "삼성전자",
-      "mentions": 14
-    },
-    {
       "name": "엔비디아",
       "mentions": 14
     },
     {
       "name": "테슬라",
       "mentions": 14
+    },
+    {
+      "name": "삼성전자",
+      "mentions": 13
     },
     {
       "name": "마이크로소프트",
