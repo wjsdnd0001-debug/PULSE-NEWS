@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-26T04:42:16.948101+00:00",
+  "updated_at": "2026-10-26T06:53:16.608867+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "[삼전닉스는 지금] 3분기 어닝 시즌 개막…합산 영업익 185조원 넘을까 - 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wNFlodU9tZnJwY0ZrbDRCQkh3NHpQN0Rmenh2WjhPeklJc3drSmxlLWxNcHpIWktxTVFfclR6ZHo1OEJoeFNzamdKNV9zTXlweGNwWUw4MnZhZGhBTnM5MXYxRGE2RkFw?oc=5",
+      "source": "녹색경제신문",
+      "published": "2026-10-26T06:46:27+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "멜콘, 삼성·SK 이어 美 ’M사‘ 공급망까지 뚫는다…글로벌 메모리 빅3·세계 최대 파운드리까지 영토 확장 - 파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xTFhqXzFNLVV0SVJtRFpvVHZOMnV6OXRIbl9rN3FUX2xfWnZVUEZjaHRCQk9BQjJ5R21mZE5rN3NoNVNrRUo2OFdWQ3pGVmlONnRLZG41T0RIZ1dYdTFIampkdE1NVzZBNlVFazhUdWVGUjhZ?oc=5",
+      "source": "파이낸셜포스트",
+      "published": "2026-10-26T05:31:50+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "[영상]삼전닉스, 3분기 영업익 184조원 전망…주가 반등 계기 마련할까? - 비즈니스플러스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pb1pkeVNzaHlGbUNhWTdaeUFDQnJhSkpYaWc5SEtheU5EUjJTU2N6NVYyenFOVm5XUHlmSWNFcDZLbk1vYVIwbERhS19IUklOakJsMUFlUEVha2pJMzhCUk5Od3BNcU1xcnRSQ2JR?oc=5",
+      "source": "비즈니스플러스",
+      "published": "2026-10-26T05:06:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성전자·SK하이닉스, ‘역대 최대 실적’ 넘어 내년 성장에 쏠린 눈 - 브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ETmlEZlpSRFNzSVFrZUJKWlg2QzFhMWJhZVRYWXZBdHBKN0gxWC15YzRPWnFwWFFaRGtCbFltbWNkUTMtT21CX2wzM0p2X2lsRE5FeUJqOHFJZw?oc=5",
+      "source": "브릿지경제",
+      "published": "2026-10-26T04:58:00+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "코스피·코스닥 낙폭 확대…SK하이닉스, 장중 하락 전환 - 뉴스핌",
@@ -20,7 +65,7 @@
       "title": "시총 절반이 삼전닉스…코스피 살린 AI 반도체 '양날의 칼' - 이코노미스트",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WM3FvQWFQSnRjMjFHNkpvd1Z0VU05VFU4Vk0tdGlYeldCVTJ2cl80dWtSaDcwRlFaWDVfb3pCT0dkbjB2bksxS083SU1Uc1kzLWF3dG45aEhIWVpsNHRTNk1R?oc=5",
       "source": "이코노미스트",
-      "published": "2026-10-26T03:02:30+00:00",
+      "published": "2026-10-26T03:07:24+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -90,29 +135,6 @@
       "source": "신아일보",
       "published": "2026-10-26T01:35:13+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "하이닉스·삼전 쓸어담고 상한가 루닛은 차익실현 [주식 초고수는 지금] - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01N2JlYlNVNjEtYzUxYkhmRE5RekFzZHlPdHJmaVZKR3RlejlQUEJmX2U3TzZzbDZFemhxTHVTRUpnYmFveXdYdl85bzdVLVZINGc?oc=5",
-      "source": "매일경제",
-      "published": "2026-10-26T01:31:23+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성·SK하이닉스, HBM4 앞세워 3분기 영업익 185조 전망 - 내외뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuQk9xTXpaQmxzbC1vS25GMUNyUFZ4S0pLcjJsNFhtRlh6UllRRERBSi04NDhrMUdET05taU1nYUNkMFh0UTE4RlVlY3ZsV3RMMERpZ3YxNGpGUUd5UGhPN3hISGR1N2pjS3BBMtIBcEFVX3lxTE9tUW0yNkpzcEFkYTU4a1F2Zkk0N09kYnQxeWl5bmx0WWVHTzZOUjFWMHI2NE9RWTc0ektxaFFaVjNiOUhwRkZKYlFnQ09tTjFpRWFkYjFlYUg4emVIbjdHelZYQ1hkQ19wQktJN0t6a0Q?oc=5",
-      "source": "내외뉴스통신",
-      "published": "2026-10-26T01:22:17+00:00",
-      "stocks": [
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -203,6 +225,15 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "PayPal (NASDAQ:PYPL) vs Robinhood (NASDAQ:HOOD): Which Stock Faces the Bigger Earnings Test? - Stocks Down Under",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iT0VFWDlTckpvY216UDZodUlLZ3Z5SUoyejBfaVNaNXh2WXh0ZGYxYU1RczFWWnkwdHNlLVkyR3hDdnQ5UHFFQURiVGtqS0Z4N3htN3JPVkZzQXZYYXBweE02YnhWSXJTR18yTkhuMDZ3TWFSU1E?oc=5",
+      "source": "Stocks Down Under",
+      "published": "2026-10-25T22:03:23+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "삼성은 테일러·SK는 인디애나…美 반도체 공급망 구축 속도 - 아이뉴스24",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PVkVNUFlKc09rcXJxOGg5WFdZYVRyTDZ1clJqQVBSRm15YWFFVmVTaFJ4QTFuWXpyWVczeHZRdk1RdEY5NVhTRWxQQQ?oc=5",
@@ -249,38 +280,11 @@
     },
     {
       "type": "kr",
-      "title": "삼전닉스 3분기 영업익 180조원대 전망…‘추가 주주환원’에 쏠린 눈 - 한겨레",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01N2RwVUtxeDhnUmttU05EeXdadllxSFRVSG1mN0hxdVUzQ2FLS2xldTdmQ2ZIanVYeWNKRDN1Q3VXdVd1SVY2bEUzY0pPdUQzZFZiV0p4UThQMjZJYUx5MlRMNXFPYmVVcWc?oc=5",
-      "source": "한겨레",
-      "published": "2026-10-25T10:43:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "삼성·하이닉스 3분기 합산 영업익 180조 돌파 전망…반도체 호황, 주가 반등 이끌까 - 문화일보",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHNGZ1SWZrQnRlUXdUb0ZJbFVDVlAxTDZZeWZBNU45bEFGR3g5SmJpcGFna0ZGYm85bWhYcFJlaTdVekQtSGZlN0NZNGI3MVFW?oc=5",
       "source": "문화일보",
       "published": "2026-10-24T22:51:48+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성전자·SK하이닉스 주가 왜 급등락하나…AI 반도체 호황 속 5가지 변수 - 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LMDk5V3FBaU1XcjlrMEtwUXVKcEl5VWZKQ0FsXzZsNWJfdDNGVXRUbFVSMnVYTE5pNmlKWFlYV1FPVWd2ZU1tVmw0ZjEtQ0U5c0tFQjhDMXpDQmEyTC1sc1Rid2JYMzA3MW84NEZQQ1k3Zw?oc=5",
-      "source": "톱스타뉴스",
-      "published": "2026-10-24T07:01:37+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -389,20 +393,6 @@
       "source": "Nasdaq",
       "published": "2026-10-22T12:35:00+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as oil climbs, investors weigh Tesla, Meta earnings - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXJjNWgxTzlXaXBEejRVWmJFVFBISzd6QkFvSTZxX0x3UWllaFJaTVVlOXQtZDlQTV9XZVQ3eWhVckdpLUhJZTVJUl9PSXU3dmtoSWZfM2xSUDZ3SXFVNFN3LWRhREx2NDVmbjhhdlJuM1pETkZ1RGowUjRFaWFReWRoVXdYRVlsdm9pMmdHSFV0N01mN3RIWUhwVEp2eG5PQzdEWTBhZ3dXaFF0MTl5ZVNfblF6Y0VsUmk4Qk1B?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-22T11:23:44+00:00",
-      "stocks": [
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -689,28 +679,6 @@
     },
     {
       "type": "us",
-      "title": "Securitize Launches Tokenized Apple, Nvidia and Tesla Stocks on Solana - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVZVeUtTS0lSN1poNmdnVUVLbVNrTWxfSzRoWmVYbEdIeGEwVWc4T0p2RkhfRkdqRENDX3JseDBCeFFUUXhQZkNubEJRejBKc2xiX0JCMW5PRDBnR1Ezd0l0M01ycWtJM1hLcm5uWVZPZVZCZ1RVbnlVZVoxNHV6R0dTLTFwWU82c1Q4ejIwRWZaNTNuZ25oNmh5cEFqcmhYV2hmQ3B6UzZSRVFLdWxBYVBmbGRhVkc4Zk9n?oc=5",
-      "source": "The Defiant",
-      "published": "2026-10-08T07:00:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Dan Ives names Apple, Nvidia among top tech picks for 2027 (NASDAQ:TSLA) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObjJ2RGF4N1hJcDkwQ2NsQl9BSVNZWTZLUmVHYzJDOFZTdDZzRllfQ0RENjlES0w1S3VEMFBnaDNtSGFVUWhkOHY5U015YlpvZVNCLUJ2bU40WGxyUWppZjJ4ZXlCUnplVTA5UVJFU1pLMDIwNXF2SVRYOExDRjhIRlJTb0M?oc=5",
       "source": "Seeking Alpha",
@@ -919,6 +887,28 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "Here are Tuesday's biggest analyst calls: SpaceX, Nvidia, Tesla, Apple, Best Buy, Boeing, First Solar & more - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjdRR0NWTF9aVGl6bGxpaXlCLUtraElRMVJmc3p0UTM4WHllUDhwTFJxOUVUZk9qRWczZ2dZeU80UGhwSnVqU0RDczBXVjZsV19mTE11ckt5bTNpYjVUbEZhbGdzaGhJZUNtOS0tYVUya1JNVEpNQ2JvMWY2ekxOUVF6REJ0cmNxalM5Mw?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-11T07:00:00+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        },
+        {
+          "name": "테슬라",
+          "ticker": "TSLA"
+        },
+        {
+          "name": "애플",
+          "ticker": "AAPL"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄 - 기호일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lRTV5cEZPNVFTU2tYUFk1T1R1WTB0RDgxQ2RvNGRLdjZvdjJDekZTSDZTWG9VSzloNk9TRDk0bzl2MU5tNHlUWFYwOGxMd0tENVlRWWh2c1RBSTl4ejE5TlJIS21jSzEtLURiVWxiOA?oc=5",
@@ -1020,11 +1010,11 @@
     },
     {
       "name": "테슬라",
-      "mentions": 14
+      "mentions": 13
     },
     {
       "name": "SK하이닉스",
-      "mentions": 12
+      "mentions": 11
     },
     {
       "name": "삼성전자",
