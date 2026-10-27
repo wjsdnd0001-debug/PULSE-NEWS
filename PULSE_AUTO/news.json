@@ -1,6 +1,65 @@
 {
-  "updated_at": "2026-10-27T12:51:25.559890+00:00",
+  "updated_at": "2026-10-27T14:54:19.868143+00:00",
   "articles": [
+    {
+      "type": "us",
+      "title": "Nasdaq Gains Over 150 Points; Coca-Cola Posts Upbeat Earnings - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXVqSXhMQWE4YzV6VF9nbUVpTGo4bmxQZFhBa2ZfQkdXdm9OaWM0eXdVMVh1YTNjLVFYdUctLS1WYk9WTl95NXhMUGJWMFhCUmQ5TE1sMmpwUXoyeS1sTm5kM2JTeWpaMjJ1bnNERG1kckVlaWdiUGJRa3dRbXFUT2VRV3hSSTlSUEJaLUxVY1BWbE9vUUdPWjB3NlVjZ0RraWdXdzVzLTVFQUxqN0REelEzM2o3bWJNRlVVdGdxQlk?oc=5",
+      "source": "Benzinga",
+      "published": "2026-10-27T13:52:55+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "US Stock Market Today: S&P, Nasdaq Jump As Wall Street Traders Eye Big Tech, Brent Cools - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQamNHNlRoWG0yYkFUbFVNQTVGdkR2bUh0dzNielJVSlMySU80S0ZfUkpwVGNRdUZ6OER4X1FTU1g2NENmZTZNbVZrS2ltVzlmWW1mUVF1d3RPZlBmcmRvb1Y3NUFRYTEzb0JPWjljS0R1TEJpMGZjbDZuRG9pUGkwTnc4bFFabXNIeFUyMVVVTDM3U0Q4OXMzSUVuUnN5bnZMWTNsSUR1Ni1QbHRHd1RtRUpOTXBUZEJqbjVOc2lONWp1ZEJndUxMQtIB0AFBVV95cUxNUzc3dy1VaGRER3BTMUFOb2Q4ejJ4NHF3UGVqZGtKS093MlJPWTV6UVppYzdkZFZwNGpwQTZQWTBhblBCMncybXpfY2FPXzkzVTl3RzQ2NVNPajZ3UGYyWFhBSHlaN3lTOXpIemJlSVZqUlpSNVZJMWU4WEFxVGRJR2pBRWkwNkZpcVRyNW9kYlhiOUxCQnJXNXkwZzI3Q2ZEYUJWam9HWDVqTk1NcWlQUjMwUFJGRXh3NGVPMC1pdDBmM2ZCT19rOVJrcFlaTEg3?oc=5",
+      "source": "NDTV Profit",
+      "published": "2026-10-27T13:39:15+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "U.S. Stock Futures Point Higher as AI Developments and Earnings Support Market Recovery: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLUpWa0hvUnc1d0F5OXpVWVBxTUJyZHNaV1hucl8tX1ZmZXZiZ0tWcmp2ZHJmUm1UNEhIT21QNVhZOV9VelZueEVWYWpxU05KNDJpZVhsQXpfQTNybEYxOTNBZjc5ODUtTF9vLXRPOXl3QmpERjdlYVloU0kxdWU3Q3lUTkZ1LTVRS2pYU1pFZy1oWnRwTVM1VA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-27T13:34:33+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성전자, HBM 매출 하이닉스 첫 추월 가능성…\"주가 재평가\" [분석+] - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ab2hfTXhyMlQ1c1ROcHpKRFQ0WU1nTHRTazNhT0txM1NEUW1CTjB4TUd5STloX1VUT3VkV3U3Qm9hZXdvNUIzZUVrZkJKSVA0ZzFwR19MZTNDdw?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-27T13:15:01+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Wall Street points higher in heavy week of earnings; GM heads to Nasdaq after 115 years on the NYSE - Chico Enterprise-Record",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUaGtja0xfTWIxZ2lhOWxoYnNpT21QUHlBQUxYSXQ4VmpiMU1seTVabm9CSkJpLWt6YTl5d0VFYV9odE9KYldNUlZ6a3Y4Ykl6UGE1T1FZeTIxdVYwTUlwVjdvRHlST3JRbWVV?oc=5",
+      "source": "Chico Enterprise-Record",
+      "published": "2026-10-27T13:10:18+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Euronet Worldwide (NASDAQ:EEFT) reports sales below analyst estimates in Q3 2026 earnings - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWnBqQzNGdzdjTVBlSWYyT2RLUTNnbGUtYzBzWExpRVdBcHNVdERqYmhTWE44LXR5VVAwT1c4MmhzeGtQd1JuUnNYcDBtY0VWaVB5QjBaVnlxZnNzTF8zdVF0M291MGRWZ0g0UEJkSi1jSU9WX1hIc0FfYUJhaExFSVBBNE92X2JJQm1hY1FCREx6aXk0RkVwMVVHQkMzOWFNUk1pVmlfaTljUE5VQ0pUZmxLR2pDTTRvTW15azBwYlZzY3VXaTFaelF0Y2d6bFdLM2tSejIxSnpIaUVpY25hZmV3?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-27T12:17:25+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "us",
       "title": "US Stock Futures Edge Lower as Anthropic IPO Filing, Boeing Earnings and Fed Meeting Draw Attention: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
@@ -43,15 +102,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4T1BJdlNlOWlkQ0VMQktxVVByMTFSY05ZY2UtUjNTMHVMazhPZVprb3BmQTVuYkROQlVlSnlybUszRHFtMTBzWlpMMThVODk4U2ltX1pkU1dTUQ?oc=5",
       "source": "한국경제",
       "published": "2026-10-27T06:09:32+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "[기획]글로벌 AI 투자 위축 우려…반도체가 살린 K-산업 비상 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GSThBdEkzZmNleDhROGFwT1k5Y0s2dGRwWjJJRmlqQlBmVk1ZYUt4TUlxcmlKd0hZZ2NRNm5uOFBzZVhmOW1zMEdmdmZHU2xOTWlUN1JuUElYS1dVUWVlZDRyU0I?oc=5",
-      "source": "매일일보",
-      "published": "2026-10-27T05:32:21+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -310,19 +360,19 @@
     },
     {
       "type": "us",
-      "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3RTRlNsOTFYUnBDYk9QRGs5VFdLLWlEVEtEa1VidkpOeTF5NTlyYjJkWkdhSTdybnl0NlZtejlnZnhWUE5NUHBxTFJVSHQ0QXFMN201QnBBUkpBTGlmdG5aT0E5T2JzMXlBLXNNX1Q2MDRNZ21ST3NwNDM4c3BVYWNZQk5GdVI2alFBQi1malBOcTRC?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-26T20:24:49+00:00",
+      "title": "Alphabet Earnings Dilemma: Organic Traffic Slowdown Meets Unstoppable CapEx (NASDAQ:GOOG) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVdOMFZGMHJPRlFHZF9LT3lWdTB6eHBaeHY0cHVPRUZ5TU5xSGxRWlFmTmFfY3R2N3lHN0d0UTlNTnlRNnk5dTgyb3VzTHh1NEJVTmdlajJCaTFtNHhQRTZ2YWRBVjFoelVtc1U2Rk1rOG80WU9FemE5NVhmYjB3R2c5N1RJQnBiQTFzYzk1M1dFOXFwdEkzLWF6akJWcE5CenNSQmhjTTEwekFGQTNUSTh0clVEZw?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-10-26T21:05:04+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
       "type": "us",
-      "title": "U.S. stocks advance ahead of key tech earnings, Fed decision - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0hfS1lxYXdFclRJLWQ5X1ZOQnBiQk1ZUVNzMU51UEtLbHMwbWJQcmNWcWthRkpYcUVGR3BsSTVUMVZjV2JmRzVFY04ybE9nbmY1UkdyOEdPRWZyNnlfWTJSQ0tRVTlNdTQ2bVZ3NUJZdTFtalFWOWJmTFliMHNnR29Ydm9BNzdm?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-10-26T17:24:00+00:00",
+      "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3RTRlNsOTFYUnBDYk9QRGs5VFdLLWlEVEtEa1VidkpOeTF5NTlyYjJkWkdhSTdybnl0NlZtejlnZnhWUE5NUHBxTFJVSHQ0QXFMN201QnBBUkpBTGlmdG5aT0E5T2JzMXlBLXNNX1Q2MDRNZ21ST3NwNDM4c3BVYWNZQk5GdVI2alFBQi1malBOcTRC?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-26T20:24:49+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -444,12 +494,25 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "\"계좌 보기 무섭다\" 또 패닉…코스피·코스닥 '동반 서킷브레이커' [종합] - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWE1kNnBBOHU4NXVOd19VbVh1ZGVSZkZtekd1T2hfZUxlZHdqMHhNWlI2MS1OMVBqT19UTURHWWY2SExTSk56Y0Nlb1Z2MUJKTFo3SGx1WjFJZw?oc=5",
-      "source": "한국경제",
-      "published": "2026-10-15T07:00:00+00:00",
-      "stocks": [],
+      "type": "us",
+      "title": "Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here’s why it’s Beating NVIDIA, Tesla, and Amazon - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUNnNklzNWFtUFRWQWpOTlFmZGpIdEZ5YVJMRkNrSUpfQUhaeEZVMWpLVzE2OXhONTctZEdvWlUzUUM3bkllWXpSQ3k5TGczeHNNZjNtSlV4VGRBcnRsQkwxWEFhOGhTX0t6Sjl3Q1BnNnE1WkQ1NU1SSWFGaW9XY3N0VG9ZY00wRnJJ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T07:00:00+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        },
+        {
+          "name": "테슬라",
+          "ticker": "TSLA"
+        },
+        {
+          "name": "애플",
+          "ticker": "AAPL"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -499,15 +562,6 @@
           "ticker": "AAPL"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Tech stocks drop after report that OpenAI’s revenue is lower than expected | CNN Business - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BOTNlajdpNk5VanVGYmx1ZDZBZUpSZGtoWktCQmhzcDVNQ3BtUzBDb3d3MlNndUQyVnFLMThGX3FTZ0RjWDIxM1EyUTJZbU5nM2Z1VFBLRFQxV1o3dFRkdHFzM0tLRHVJT1c1dG9B?oc=5",
-      "source": "CNN",
-      "published": "2026-10-08T07:00:00+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -588,24 +642,6 @@
       "source": "Reuters",
       "published": "2026-10-05T07:00:00+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jaTNFNXpLUkRJcy1sZTdVR1VhLTVOWXY0WGFhU0hHNDJHUk5oMHByWjNqNDROOGZJbGFmdlctcm8tSXF1VHJvUUxsUjZuM2szZXYyUVNRUkY?oc=5",
-      "source": "Cryptonews.net",
-      "published": "2026-10-05T07:00:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -822,29 +858,11 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "S&P 500 ends higher as investors await tech earnings - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkhJQS14Y3d3QkMxeG5XZmR3cldUel9CSk9pdDZrSDFkc0gydEgxSXQ1d0xzTi1OR29xVWEwUjJtV1k4V1p3WlZJeUZCbnB2MzJOYjBHRExWTmVobWlibGFqajlUcWx5emx2M01vYmNwcHlDM2FvYjRwU3o2M0szNVpyM3JwakJyRkZReUMyVk5GUklTWWczOXdFSUcwNkh1clFNVWJn?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-28T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "2026년 하반기 국내 증시 전망 | 반도체 급락 이후 주목할 업종은? - KB Think",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KYzVreDhFQ1h6Mks4bExaSS02U1lGYmd2LUpwc0dXUVlzMXpHZl9sM3V0OEg1dEo4aGZIM0xCZnhYbEtjSm92Z0dxTm5MSkJrSE4yWkQwRmlxV2YtQnVyUmU2enVnV19pU2dtNmVYNERGMWc?oc=5",
       "source": "KB Think",
       "published": "2026-07-23T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-20T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -881,15 +899,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "Wall Street ends higher as investors turn to earnings season - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjluWjNOdGZuYndpR0lTLThCLUx1UFYwaElxZFBIQmZSZjM5YWFJekxqdmhGU3lZVENKYkdSTGxjRzJ3eVhnSlZFelVyYUhPdG4yMHQ2ZVRINjh2TlZYRG1ZR2FWN2tnMExQRnRKYVo1ZTNWNlEyUE96NUJLcjEtcnpOSkpyU2E4bFRranlybjlwbFV6c2V5X0toYnU5ZWVJRDJyUElhRWtnMmM1YS1EX2xMV3dDbHVPVEVJcV8wNkoyTjBUREF0ZE02SlhXNVk?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-10T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "서킷브레이커 발동…코스피·코스닥 폭락 속 전 업종 무차별 하락 - 인포스탁데일리",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YSGk5Yl9KLV85VjV3WFVGREhiWm8tRzZMNUVKWmk1NnJPM0YxVklORUtoczJ5bVNkdGdxbWxtQWxxUFpEUlQ0U0JEMEUxdTVhUVZtWGFTYXoteERZRktJeV9aYm04dVA3ZmI1U2NWQzFRenByc0E?oc=5",
@@ -922,15 +931,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYdUR3Rk1MNG4xWHpBU3ZicWs3WHFSR0hxTjJwWk5Ta25jNTQ3cnlDajd6LWNuQjBpSVAwTlc5eW9MbzBlWGY5eVcyZFlZRTg0R3VXTVdJM1o2UQ?oc=5",
       "source": "네이버페이 머니스토리",
       "published": "2026-05-06T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "April 2026 Review and Outlook - Nasdaq",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00LW02d2dnbXFqSlZIdTBibDlfYUJxTXZidUd6QlRvN2pIUTh1U0o3aVlKSUtkQlJIbXJHRmlBT3FNdGNGQjgwR2FRa0xEWHlPaHg3YU9xNmMtYnNBQkpVbkFtOUdFUmlBSEZrRjhR?oc=5",
-      "source": "Nasdaq",
-      "published": "2026-05-04T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -990,6 +990,15 @@
     },
     {
       "type": "kr",
+      "title": "‘아듀 2025 증시’ ... 숫자로 보는 2025년 한국 증시 기록들 - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xaGRtSXlGY3dOZUNiMlhkQkVCbDlmaDdtNzVHVnJNNVBkZ1BhbU1PdFYxRVZDS2FNdEFtSWlsOWY5VEx4aU1jbFhVWGFFN0N5?oc=5",
+      "source": "문화일보",
+      "published": "2025-12-31T08:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
       "title": "[2025 증시 결산] ①\"꼴찌에서 1등으로\"…세계 최고수익률 코스피 - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsS214MEpfNDlPSmxIdG1Pa1JmekN5dmI3cHRDbjQ5UTdyUURvU01sR0p2NTBacUw5dDgyUDNpSTk0UFUyeUt2RlZHejJIUWhqRkUzcnNiSlJrTlXSAWBBVV95cUxOMUljR2NWNU93UWdjdjlpb3JHVG8wTXpacHhHWVRKdGNJZnNhRllWSWhFbkhiSFNVWFpfcEFzRTltdzNvb1pSbEFKRVFVTm1yX1E3Zk9mdUJaTjFmUWl1VzE?oc=5",
       "source": "연합뉴스",
@@ -1001,7 +1010,7 @@
   "top_stocks": [
     {
       "name": "애플",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "name": "엔비디아",
@@ -1013,7 +1022,7 @@
     },
     {
       "name": "삼성전자",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "name": "SK하이닉스",
