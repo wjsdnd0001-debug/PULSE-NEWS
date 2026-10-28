@@ -1,31 +1,53 @@
 {
-  "updated_at": "2026-10-28T14:58:59.848156+00:00",
+  "updated_at": "2026-10-28T16:56:56.633256+00:00",
   "articles": [
     {
       "type": "us",
-      "title": "US Stocks Mixed; GE Vernova Earnings Top Views - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWI1T09YMUJTdm1pZXB5S1V3U0dSaE5sZWJPYTQ1cjJ5cHBvTXpCa01kWHpyeFdVNmNlTk81NXR1YzMzNml6VXhDWG1EMzcyc0l2MjhGMjBERmk5dHhlQWh3N1g4cG5IcTBhdDRsNDBmd0toSVJNaU9QelNucnRSaGhlZ3dqOUI3WS04RDVDanZ6SVhlaFdzRzVyc3B1VjgxeWNSVnlOMXc5Z1V5?oc=5",
-      "source": "Benzinga",
-      "published": "2026-10-28T14:02:55+00:00",
+      "title": "Wall St treads water as chips rise, megacaps fall ahead of Fed, Big Tech earnings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-28T16:15:38+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
       "type": "us",
-      "title": "Nasdaq futures rise as SK Hynix sparks chips rally; Fed decision, earnings ahead By Investing.com - Investing.com South Africa",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVEptampCZlBOc0tidWEzdUhSZW90U01fclJlQVhhTFZXQ2hxaXBrTU9NY21NeVZJSGpuV0VwX1hrcWxyb24xMFNhY08tTU5HVDU0aG5OZ1NKRW9XNGtmV1NzQ3lrcnhmcTM3aHpLbWdHMkRNWHBnUllOMkR2OWRaQzg4cTFLbmxCNFRpaGx4T2pUaUVkZlk0Wms2RG1KZS1mRWFOZm9yelQ0VHFkNkx4QnZOajdVSVdQOHp4QlBHTWRCTzdHdWI2cQ?oc=5",
-      "source": "Investing.com South Africa",
-      "published": "2026-10-28T12:26:12+00:00",
+      "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-10-28T15:05:17+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "[단독] \"삼전닉스 면접날 단체 연차\"…‘슈퍼갑 3대장’ 이탈 조짐 - JTBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00R1Z5MHRKU19KcnVGZWk0UlpUS1MyUVVxRkpxd1BoR0Vkbnd1bTdIengxZERtcWx3S2pKYmVxUzRpZUtjbHNQWVJfUzY1WnB1RDQ2WQ?oc=5",
-      "source": "JTBC",
-      "published": "2026-10-28T11:01:00+00:00",
+      "type": "us",
+      "title": "Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZktFQ2UzRnJZcVE5N1gzczRfZnY1Zmx3TzUtV0dtUTZpVFR6ZktfcG5jYW9YbGE4Wmx2cjVQcjY4OEM4cjVCTzVJTndicWFPb0xuN1k2a0xXVTBaRkEwdVJfUHlPVDMwWUlnQ21QNHZ1ak9JaHdJbmQySDAzNzdBaFdvMmpfUkZJMjItMmR0b2VHTHo5blZTMjhBVkx1YUZtYUZ2Sy1jR09UalFqZWp2OWlsczMwR1R4VFk5SWRWcW81ZDU4Q1lBMUJjcFlkalZMVXlwTUNQVjktcXNXVkhxRGlfbVc?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-28T13:05:08+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEdaSS0tYlp0MXdodkRZd3ZHWFhSbTBYUHhuclRjeGV2eU5hbW9MejJmejlVNEhvUTdwTXpYVTU1UENHYXdzQzNfSDYtX3B2V2xkbkhnbXFWcjN4LVEyeDg0UXFWR0lOMGNsRlk4eldqSmVFbzdKUmVrNFBlMDR0SjRfYkhYbW1xbGhYbU9tUm5mZTE0bzRnWUNRV0dSMS04VnhBMlJPOWpUQQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-10-28T12:22:54+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        },
+        {
+          "name": "테슬라",
+          "ticker": "TSLA"
+        },
+        {
+          "name": "애플",
+          "ticker": "AAPL"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -53,11 +75,15 @@
     },
     {
       "type": "kr",
-      "title": "[비즈 인사이트] 삼성·SK하이닉스·LG전자 3분기 성적표…반도체 '초호황'·가전 '선방' - 서울타임즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVnFSMnZiVk5Yb1JjUmgyT3FCMm00dnJOeXE3bHB1c1pWdkFlY0Y5VmFJSTNSNzZXbWswZjd1QkxyXzdSdm9xeDFKZ3pBbUxrR0kyWE90UHB2RHV0b0ZCYUlGZUs0UFNNS2pz?oc=5",
-      "source": "서울타임즈뉴스",
-      "published": "2026-10-28T10:21:34+00:00",
+      "title": "코스피 6.63% 폭등, 외국인 순매수의 93%가 SK하이닉스·삼성전자에 몰렸다 (10.28) - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR0ZlZ3F1OTVoUC1SZFZOR3BHUHpJNmtlV3o4bENqdWlTVjB5eTc0eE44V3pxREdxYWgzRWtLY3Ayd1FkbWhNMjVCN0FWaURCUUs5QWZ3M1VrRFRNOFQ2dllfS0NfNHlIMW5DbnBvVDZOd2I5OHBITThEYXpLeXNidnRqLV9JWnVibFE?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-10-28T10:04:00+00:00",
       "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
         {
           "name": "SK하이닉스",
           "ticker": "000660"
@@ -67,19 +93,19 @@
     },
     {
       "type": "us",
-      "title": "Nasdaq futures rise as SK Hynix boosts chips before Fed decision, earnings - The Mighty 790 KFGO",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjlVeElMVmRWVVBvYWcyaEdZdW1UR3BFVm5wd3BSd2JDVEZxUXhKZzVzejhHdkxweXZPbUJMN2h4WXY0LWxFSnB6dVBTVngtVjkweWZ2MVU3NzFKQ1ZEeE1yS2FmblBabnVqT0hSR3VxYUN0THZtdExzMHBPRnFkYm04eHoxcmdsTFJiUUU5eFJRSzRvRHRlZUJLb3h4c3JESVZWTg?oc=5",
-      "source": "The Mighty 790 KFGO",
-      "published": "2026-10-28T09:58:44+00:00",
+      "title": "S&P 500, Nasdaq Futures Mixed Ahead Of Fed Decision, Big Tech Earnings: GOOGL, MSFT, HOOD, SOFI In Focus - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUmtEZTR3R1dabXFuZHBhU2dDdDlyOGNteU5hZHA2Tl9DSzdvYmRXUmtsODV5RWFGQWxRd25jVjlPazdIa1h1YVk0Q0cwWXgwWm05YzNodnRWMUNBUEkzb0FFejltcDliaElFSV9PbzhZazFUQlhtR3kxNTQ3YVRkUGpvVmVNem44YWFhaFhoR2laRzczVWhfVWZNdTM1ei1wMUpMcWtfdE1RbVlLWFo3VzRpYm0wa3NGYmpJWUhxa0thQXgxYUhWMWQ1NTlSRVlZVUVyYWVZdkRrOE1uTWRkVzVQOWV6TXlhWTI0WlhXTmFhSkFDZlVJQlZR?oc=5",
+      "source": "Stocktwits",
+      "published": "2026-10-28T09:52:16+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
       "type": "us",
-      "title": "S&P 500, Nasdaq Futures Mixed Ahead Of Fed Decision, Big Tech Earnings: GOOGL, MSFT, HOOD, SOFI In Focus - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjZwTGV3WDM1WGdBWUlMckZzMTJNUWhGeUJKU1R4SFBUNldhUXZKMkFPMWNPTnhhQ0pFTUJJTW9yeS1OMU5mVVcwTGZUaXpSRDhFV2lDbjNtN1B0ODdUZ1k5czgyMVg1VTlFR0kzR1Jod2RVd29Ea1J0elU1NU9vMW9qNU1SZVdzbTZQbzlnSXU5ejIyQXc?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-28T09:48:36+00:00",
+      "title": "Nasdaq Futures Rise as SK Hynix Boosts Chips Before Fed Decision, Earnings - U.S. News - Money",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczlCSkUtTEtmZnM4OTJhMmRlWnFqd2s4b1liV1R2Q3M3d3VET1ZMeEpUUHJBaC0yOVdZRjBUam5wQUxDWHh1b2dHbTJLTy1RT2pienlsdlNzbzJtcVR6Z1dIVTRSS1h6MEs1RVJ6bFlzOGNfZGc5TW9ZMmhZMnVjTVdCZjdSc1Y2S2xQSTNLc1NCRG8xamhMRFd5a0xfRTdxdDJkNjhFT2psdWpuR3RKNV9MTVNoZXJsRlJzR0N2dmJMdG01QkdzZlVRQjd3QQ?oc=5",
+      "source": "U.S. News - Money",
+      "published": "2026-10-28T09:49:07+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -102,21 +128,12 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "추미애, 삼성전자·SK하이닉스 방류수 수질관리 강화 행정지도 - 경기평화신문",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1pkX1A4UVR0X0lJYzg5aXNSS2ZScmJzU0tzUWNTZ0Z0WDVvaXBhc2xBYVVoVWIwbE1oR1cxSUhPbzFMMElYZU1CX0IxUTI0ZExLTUF0ZTlYRW1mRHpIYTBYTFV4UmRnRmFUaGNvM2dFUTVYM25XMGU0UjBsektzalpydURzam9IWTBV?oc=5",
-      "source": "경기평화신문",
-      "published": "2026-10-28T09:37:00+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
+      "type": "us",
+      "title": "Stock Market Today, Oct. 28 – Futures Mixed as Investors Await Mega-Cap Earnings and the Fed’s Policy Decision - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaGh2ZXNVbnl4WWxkYzl2ODI5TWtFYzRLZDFFQjhmQi1YT2dwekQzekhCQ0tleVFqWWdOdUNRSUh2dEszNmNaWTg3N2kwQlFoVElNMjByZVJDQmFxZGNITTJnMkZmNnlKYlhETlJHZFFCeG5CZmxGaUpNX3ZBeUJvZ05rcDE0M0ZlQ0lkRWxpNUV0SWxqMGxyWmhyTUk0Z3h4bk9DelhVTkR6bDV3RS1TWmYxN19tamVaNWctZFk2aDY2anhRbExZeXFZQzJrdmcz?oc=5",
+      "source": "TipRanks",
+      "published": "2026-10-28T09:35:13+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -130,9 +147,9 @@
     },
     {
       "type": "us",
-      "title": "NYSE to Launch All-or-Nothing Options on Apple, Nvidia and Tesla Shares - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1Y4a1ZJSnBZdDZaUWxzdmc1anRWUHM2WmZtZ2lZOFI5dVp2cE1QNE5yQkFhdWRvbU92TEtDeTNJRmtGWmJCMnVReEpQYldRbUN1OUhIZXdCNUFzSnpVSmpyTmc1cjIwbUY5eWpDYjRPcHc4TGJ1akpHai0tRUJUdjhpcFdEaHJoQWREODhPd00zMXNrV0d2cHZFTW9NckQzQ1BnQVIyWW9xTW9vUUJ6NGdLYkRGYjJKX0lydFVlTE9fZUxyaV9hblY0NmdnWktoeHc?oc=5",
-      "source": "TradingView",
+      "title": "NYSE to Launch All-or-Nothing Options on Apple, Nvidia and Tesla Shares - Finance Magnates",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHJaTEdIMmZieTVpWUF3ai02YXR2NXpuQkU5QW5haWFTMHFKZEZnb01BamNQNEM0TW5xbFdYYnlEbDFfS1I2Y1VwN3ZkMFdhS0tPbHVlWkF6VVN6Zk8wR282cnFXYVpCUmJZZThVbkVsN3ZselNyaG1SZlNITS1KTnhoRlo1cXNjNWotSWxTVGdVaWp0QjhZRXlVWFFFMm9yaFRsOG5TMGlGaHpSWlZWcXZMY0l3cVlQaXFWSXluVmE?oc=5",
+      "source": "Finance Magnates",
       "published": "2026-10-28T08:46:00+00:00",
       "stocks": [
         {
@@ -169,6 +186,20 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "Nasdaq set to advance ahead of Alphabet and Microsoft earnings - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQbnRLZ3BZMl9fMVlmM2pJMmpTM3ZpOG04QkNFYmhXSXJhV1oyTkhPYUFOWldQaGxsWXMzbjdEYTVKT2YzcmFrVTI4Q0puaVNhd2lCT3l6UHpQcUlCOVpLTEhQeXlhWlJwSzRNZWpxZnhlRHpYY3NXOUx1V1JYbU4tTExudDVubGs4MzY5X1lHX0tjSTBzZC1FLXdFUXhjeDkxQzhIcFNLMXExQWR6Q3N5eVlQdTZMeWhQbDVDOUU2WUVmN0tWXzJXeE42Tmd2SWdwOWRsenkxMW1BN19jbjNYV1hTLVNCT1BodlBSNzlLRHk5Tk1IOXBfOU1UNVRtZXNFMFd4Q1dtUUhpUENHcUczaUdrZ0N2VFpPZHZyQVVDZkJmeDhvRmx1MEZsSlc4T2hYcUVpZk5sWDNGVHJoQU01YlZoQkxUbUlQLV9YXzFR?oc=5",
+      "source": "MarketWatch",
+      "published": "2026-10-28T08:31:16+00:00",
+      "stocks": [
+        {
+          "name": "마이크로소프트",
+          "ticker": "MSFT"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "[특징주] 삼성전자·SK하이닉스 9~10%대 상승…외국인·기관 이틀째 순매수 - 한국면세뉴스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnRmFXR1JCOHMyRC1KSW43N1daajYzSnJPNkdKTzhUelpCTFVOMlRvbnRkS2VKeFBneXFROTdWd3BsRjl2aXE0eTFDa1A3Q21hQTZnT3NCbXhpS0JZUEw0UTN3NGhJcnpCSkE?oc=5",
@@ -184,15 +215,6 @@
           "ticker": "000660"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdW1udWVEcXJJV0t5VmNsMEFKSFZYTGdteVN5TF9vcnptRXBNOEhCYWZKamtxMGZBTG1iQ2N2bktnajZfMG1BT0U2MjcyaG9kVGpwenF0STFGZzFnRm43cDhrNHpQWWFVZ081dmc2b0h4ZVgtS3BIOU1LNkpQelE?oc=5",
-      "source": "AOL.com",
-      "published": "2026-10-28T08:06:42+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -373,6 +395,38 @@
     },
     {
       "type": "kr",
+      "title": "앤트로픽이 끌고 SK하이닉스가 밀고…반도체 투심 되살아나나 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTY1o0bnB2N042T0ZudTNWZkZ6R2cyYU80QWxxd3FybjI0VkppZFg1Tmh5WWs3aEFmaWNCNGlpbjVMSmRzV1JlOFBOYkhsdXp0MG44bHk5N0stWEHSAWBBVV95cUxOVEdkN3M3ZmNyWEhsekZrX2VabmowaW11SDg4elRCeEVqdU9EeWRvQ2xKSkFXVC1LSkRyNDhJcmI5TElUczR3SnNPbEx5OUhYa0NzTG9LOUo3YWRiMVRjZTk?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-28T01:51:41+00:00",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성전자·SK하이닉스 8% 안팎 급등…코스피 '매수 사이드카' 발동 - KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MMWgwaWFSUWhJOVpLR1NMN2Q3LU13S3k5UFZEekVXclBWSC14a1l6cXNDMVBBU1h1aVVwbHdhTU9ETzhoUlFIaUExWXhmWFBDaWhzQy1CRTRaR3A4d0pXZA?oc=5",
+      "source": "KBC광주방송",
+      "published": "2026-10-28T01:35:01+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
       "title": "삼성전자·SK하이닉스, 역대 최대 주주환원 기대…저평가 탈출 기대 - 조세일보",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83Y1FybWFJdEM1c1IybnZCX0cxN2xuOFRBUHVLaVhMa1dyQ21VcGlLRkg2N21aQkMyLWUzemw0Q2VtRUZUU2hyS1c1T3FSSl9aUTZDQnNsZmRWc0JmbG1Z?oc=5",
       "source": "조세일보",
@@ -387,15 +441,6 @@
           "ticker": "000660"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nasdaq 100 futures up as SK Hynix lifts chips; all eyes on Fed, Mag 7 earnings - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX2FQRmJjRHp3cEhwRWZwR0x2cGRpWmphMWNmVGdDbjRXT1UxVjMzMDkwU1JBZlVJX2RQazJkY1k0MUFqSjJ4ZEwtYUFfR3ZsU2VSYjFPTmhOTTlaSmhvWXRrY3dTVzlZaDEzS1BpNXhYcF83UWZESzl3V21aalNNTk5GNHlJa0s3V3ladjVjOE1ZZEwyNVp6by1vN3ViQW1NY2JmUU1oYXpRYnVTT0xpY1pOSU83VEdrcldPZmZBUkNBNHJEcnZfQXln?oc=5",
-      "source": "Investing.com",
-      "published": "2026-10-28T00:55:10+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -436,7 +481,7 @@
     },
     {
       "type": "us",
-      "title": "US Stocks Drift as Caution Sets In Ahead of Fed: Markets Wrap - Bloomberg.com",
+      "title": "S&P 500 Churns in Countdown to Fed, Tech Earnings: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-10-27T22:09:07+00:00",
@@ -463,20 +508,34 @@
     },
     {
       "type": "us",
-      "title": "Wall Street points higher in heavy week of earnings; GM heads to Nasdaq after 115 years on the NYSE - Santa Cruz Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VWjRPUHlVdkh3OGZxRnB2MDZhZjR5MjZUX1RQOVpHclM4dk1ieFBPakxNdThqRXItZWstaDM3ajlqbm00aVFpSXotU05kTkZEV2VfMTZTWWdhY2c3a3l2dE5lU1AtQ09QS2o3X0JTenNfTE9fNnZFNA?oc=5",
-      "source": "Santa Cruz Sentinel",
-      "published": "2026-10-27T13:20:44+00:00",
+      "title": "Wall Street points higher in heavy week of earnings; GM heads to Nasdaq after 115 years on the NYSE - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRU9BWWFHVTNYbWJVRGpmUTRuZFUzMzFncGc3cXBvZGllb2hTNEtYT3h2aVUybzA4M1FEVlhpUlR2dTNQTnlPczFJWVlUWS1ocFYwYmF0OWd5MHV3VXk1cnJqY2JPSE9WM1YwUjlVcDFfSE5oSnBEWExFVGlwOHJjR2lRUENGbWhIMkFsaEtOREc4Y29nMjFQYjlkWElEYW9GX3FqU1ZscGpibFlUOWY0ZllPVUpvV0VkbEsta3JiblE1SXZVUmdZeFRJNmM1b2xCTFJHQWVjT0ltMk9YYm1EMUZiN0MyZVpxNnlxLWRFRkU3ZVR4bHdMV3FMU0xKdE5qWHUtMlJFOWhQTmVw?oc=5",
+      "source": "LancasterOnline",
+      "published": "2026-10-27T12:30:33+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
       "type": "us",
-      "title": "US Stock Futures Edge Lower as Anthropic IPO Filing, Boeing Earnings and Fed Meeting Draw Attention: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUNNcVpOZUlrU21YOGhjTGs3VkJDdDFQTU13aE12U3lpY3p1b0dTajB3X3pSdDlqcXJ1c2J1T2ExaHJkVkRLS0xFek05czA0bnJES0lUbGprbWU1ZXI5M3RtbGpkeGVPeDNyMWxMWnZKbW9SXzhZaHpRZUNueHMyNkVnblcwNWIydk5VS0Vva0F4d3lWRmxN?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-27T10:23:29+00:00",
+      "title": "S&P 500, Nasdaq end higher as traders gear up for tech earnings, Fed this week - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2IzcThsNWdsOVkycWRIS2dQaGE2b25MdWtKS1NqdUZhU1BGaGJ3MzJNLWJ1eTI4aHdtelNueTVWRFVHRURyMFZOWnlObHB5ZzNkekJSeUphRGVtMV9fS2hvTmozNjFwcHpKUjVJWTVEbEw2MGZ4ekFBRF9qME9OUE5JdlU2SloyVHZEeHVzOVBYS1J5ZnU3QXRzeW1fQWp4bmVvUmZMNWwwTTYzTllfZndmekZ4UGV0WWtyMHljbjlSdjhmYmg0c2daS1E2UkU?oc=5",
+      "source": "Investing.com",
+      "published": "2026-10-27T00:12:57+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Nasdaq Charges Higher With Fed Meeting Next; Amazon, Microsoft Earnings Due - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWwzcHBmUUN6QzV4Q0RnQnQzcVNmRktUUjlIdmtmUkt6RFdTd2pfOGVscEt3U3NRZmdqYlp2azluQkpZclNZUWtKY0dOZ095LUhUR3NxejJudk9vWXVZVllGbnlnRjBEYkZCTDhjYjBlc3V2SUNhMU5KUmRpckRGeURkakI2UXJQcm9YcEYtOXJnUWZMSm1sRW5zSm04YWFCTXZxVVk0SHBCV1lJN2RQRXIzcw?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-10-26T23:12:00+00:00",
+      "stocks": [
+        {
+          "name": "마이크로소프트",
+          "ticker": "MSFT"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -490,19 +549,42 @@
     },
     {
       "type": "us",
-      "title": "Stock Market Today (Oct. 26, 2026): Nasdaq, S&P 500 jump after Anthropic IPO announcement; Fed and earnings anticipation - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqa3JTNXhJZlRoYUkyX0FvT3E1a3ZvRWhiUU9ta2c1ZkJHRHFUakJXNjRfNW45eVNubTVwQmo1OFJnX0VQb3JmeF90V1dTR2I2MnhmcWVxaW5GbXpGWDVPZG9nSThrWkEybnROYUNPVWZ1V1ZsUVhJT2FyZkpXaDg?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "published": "2026-10-26T13:46:26+00:00",
+      "title": "Tech Earnings Are the Market’s Biggest Story This Week: Here’s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market’s Next Move - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkIzdExDaG9RSm5Rek9FYnFFNkROM3pITFVGYXBsU1hzZUdESER5ZEFIdmVsU2gtSGJsZXExcjhFejJKYWItY0VRX1d3ZDdaUHFBVDFwSTZWQ0M5ejdOTU12QWNNMFFIaTZyUUtHZjBlZ1UyR0w3WWtrRTBQZzd4SjlMLVZibExs?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-26T21:15:14+00:00",
+      "stocks": [
+        {
+          "name": "마이크로소프트",
+          "ticker": "MSFT"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "U.S. stocks advance ahead of key tech earnings, Fed decision - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0hfS1lxYXdFclRJLWQ5X1ZOQnBiQk1ZUVNzMU51UEtLbHMwbWJQcmNWcWthRkpYcUVGR3BsSTVUMVZjV2JmRzVFY04ybE9nbmY1UkdyOEdPRWZyNnlfWTJSQ0tRVTlNdTQ2bVZ3NUJZdTFtalFWOWJmTFliMHNnR29Ydm9BNzdm?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-10-26T17:24:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
       "type": "us",
-      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-22T23:54:52+00:00",
+      "title": "Dow Jones, Nasdaq, S&P 500 weekly preview: Markets brace for pivotal earnings week - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2ZvdTh2eEZDbVpMeHE1cWctZ2tjdnctYy1kY053T0I5OGstZWY0dDJNOEdjbzRLa25QRTU4TVBzdVFvOUxveXY2bUM3X19LdXk2UklleEhZaGUxdU9YRENSRldLVWwtQ2l2QmE1UEZUenlRMzBqV2JYMTRGeWFwTHRIejJlcmRkX01xYlgzVlo?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-26T12:03:59+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Earnings Calendar for: - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05V1RmR2JtbjVQMU41V1FFTXhndmlBUy1QN0FvdHo2bFVRbkRXLWRXVVVaNmVTcXVMd3ljbTRHc21FYkxqWDFYUGVPU0taUUFwc0FhM3lLWQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-25T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -512,33 +594,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Md2FDeUxXeERJZzNxR25zYzFzRC1hM2M2Y0Vpc25WX2tGQVlraC0waGE2QkQyVlhLZGVpUnF6T0JWS1dEM2FvLWo1d3RKU1licDJDSFNMSzFhc2ph?oc=5",
       "source": "뉴스핌",
       "published": "2026-10-22T00:30:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nasdaq climbs as chip and AI-linked stocks bounce back - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-19T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-13T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-12T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -584,15 +639,6 @@
           "ticker": "AAPL"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nasdaq notches record high close as investors focus on earnings - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV09jSm4zWHp2ODd2SmNPRHdJcUhDcjNzZ3dwYkwzZ3NSVHdyVUdUVEI0TWltb3RKQUZucVVNa2l1UzAxWmtSd0hQSWFjVXV0WVZiUjJFNGJDeEZQVlhoWDJ5WWpxLWxuc3ZVYXBLR0QxSzdZMVFjSklpUTB2Q2YwdE12VFl0bUw2RGRjZ3VoUmFlMkp4UUstYy1R?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-05T07:00:00+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -796,38 +842,11 @@
     },
     {
       "type": "kr",
-      "title": "증시 급등에 코스피·코스닥 동시 매수 사이드카 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNG9vTjN3WDBCa0cwQ1g4R3RrLXRDVWtIdVlLWnBoeVlrR0FGa1pVUTd4bjJyRlhGY3VrOVZBMjdjT0ZnVmpYcVRNT3cyaDZvcUtSWExleVRVQUnSAWBBVV95cUxOTUI2SEZqcFROX2NYVEM2RVF4WHlqWGJjMjV2NEdWSXpVZlQ5b3NEdm9jYkxoS1VFLUw2WkR5TXFCbTh5clJIdFhiOUVIOUExdXZnZjRUaTV6UFBLbURJNXU?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-07-31T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "[주식시황]\"역대급 증시 패닉\"…코스피·코스닥 8% 폭락, 사상 첫 이틀 연속 서킷브레이커 - 남도일보",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05UVhDRHJvSXlUSTlLTzRtMHIzUk9JNlIwWGx5Zlg4a0I2ckszR0lOWkUzU1N5dERxTVQxYnU2MzhoaS1xX0VONWczZzVFUGhuX2ltWDF2c2VrV0hIay1fNEtxdWZPOWoxdmhKVtIBcEFVX3lxTE9Vby1oLTRMb0FxVTFFT0hPSXUzM3VkeUFFNHZjMFFVa0F3cVVMT0luTmhGZ093bUlqSUJYVGlybkMtM3ZlYlFBRXNNXzZwMXYxb0xUY1lia202MXhwRWRUMHc3VFBSbE9VQ0hLMHRZcnU?oc=5",
       "source": "남도일보",
       "published": "2026-07-29T07:00:00+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Apple vs. Nvidia: Which Stock Is the Better Buy Now That AAPL Has Reclaimed the Top Market Cap Spot? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkVCOFJyOVlLUDhEelRlZ0ppQjdQNTRBd0dZNnllOTl6TmNHXzk2bjUwVDdMYWVJYzI2R2kwRGZSNXRCRXNfSzhMRHdjZXA1MHhaUTRtN1pnODlLVlNZQk1lZnV6RlFqbVhrXy1GMWFmaXpWZm82cUJsWEoxSlZqTTJRRVJfZ05pRjVvT3hEQnJSTldabW9nOXdqYVJSSTN5MjYtQ2sxR2JJX3dENU9YbnFyZzhBdHdDY3lBTFhGOV9VUkFXOFkyd0l0ODFQWFlEbW1fZXNEalo?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-28T07:00:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -899,6 +918,24 @@
     },
     {
       "type": "us",
+      "title": "Best Investments Over the Last 100 Years? Almost All Are Tech Companies. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2hnNmFnZlBldWxlYmRFVFVpQzJWRjM0eUpERE9fN0VIbWI2Rm1icmpNN2MwbnA4R29yT0E3WWs5VVpDbVVjQXVjZEE4anFWVHRTUUJOZE0wb1NfM1I2Wl9Ld2tUVkJ4QjQ2SElZQldZUUYwU1YxQnBEam80ZVctXzg2MnpfM01jZHB3STNOa252QTFadUFGbGJTMA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-06-26T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "코스피 코스닥 지수 급락과 급등 /6월달 왜이렇게 변동성이 큰 걸까? - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZnBpcmdIZ3JNamR0d1prWHVhYWJiQ3hmbmpBN2ZUZkpyMndfWm9BRVVnZVZtcDVMMlZ3RGxYSVMySUItUV9mYlhNajI2M3puSXVMRlhHZnpqd3R0VG9HWW1HM3RodjBnX09fV1lQdTltWDRLWThhY3paSFBNaUtTY3h3?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-06-10T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "Here are Wednesday's biggest analyst calls: Nvidia, Tesla, Cava, Netflix, Chipotle, Pfizer, Nike, SharkNinja & more - CNBC",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalFlMTB2RGhkV2E3bDQtT2I2QWZ0ZzRfV281OTg5Ul93WEljWVNna3VXX1c3NThfOVVhbkl6cmRTT3l5cnEtWUdJUXpsY3ZuNUMtWjNBcm9VbDlRUm9FOXpyamUxaTQxOFV0anhaUWZtVFFBMUFqZjRiRVdOYW51ZFFiamtDU05IR05XUkVVRXd5d19T?oc=5",
       "source": "CNBC",
@@ -948,28 +985,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1FfYmNqbUVPNDNJbU5fbEVubldSck9UYlBkbmZuRmlkejNOUTZ3cldENVFyU3lpQkhYbzQ5MTlmRE1UV2pyclBIanNKejdrdW9RQzNHclRYU2pWSmFqX0ZCY3Jnc1ZqSW9RbklOTHVDNW9LNFBPM1ItRUpPZ1JFNUlQXzRqTHFDcC1OenZRMA?oc=5",
       "source": "CNBC",
       "published": "2026-04-21T07:00:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Here are Friday's biggest analyst calls: Nvidia, Tesla, Apple, Nike, Netflix, Shake Shack & more - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWxiTnNFOTNEV3FDcTZHODAxYlhkNWxGVVZqLXhFcXRHbnNhSlg3T2FxVzFMWGxpM1lXaEdnYjRYclZRWlJlNzJncWtyNjhlUzhzc2xfR2MwWUdscllzbXJYaldDdnZ4cXZ5dlZOTmdBMXlaeldEeFJVbks2NDFTOEdkVU1Nc0Fy?oc=5",
-      "source": "CNBC",
-      "published": "2026-04-10T07:00:00+00:00",
       "stocks": [
         {
           "name": "엔비디아",
@@ -1132,19 +1147,19 @@
   "top_stocks": [
     {
       "name": "엔비디아",
-      "mentions": 20
-    },
-    {
-      "name": "애플",
       "mentions": 19
     },
     {
       "name": "SK하이닉스",
+      "mentions": 19
+    },
+    {
+      "name": "애플",
       "mentions": 18
     },
     {
       "name": "삼성전자",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "name": "테슬라",
@@ -1152,7 +1167,7 @@
     },
     {
       "name": "마이크로소프트",
-      "mentions": 3
+      "mentions": 6
     }
   ]
 }
