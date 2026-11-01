@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T08:52:56.388417+00:00",
+  "updated_at": "2026-11-01T10:46:15.948688+00:00",
   "articles": [
     {
       "type": "kr",
@@ -107,15 +107,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "Alphabet Stock Sinks, Dragging Nasdaq Lower - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEt3QnZYMW5WSVBNMUNqQ3pOUEV6RVVoM2xLa2RfV0VEQ1YyTzE2MFIwTnNGdTRFelljM3gtM3lORnhLYW5nT1VaSk5IVV85NlBIeGFlWlhaOHFIcHZhTm1ER1FsZzdZRElZUHl0Mm4ya04tMjZ2WV9ZbzVJLUhocktXVVFYVy1lbEJOWVF4eFVHdVNsbEQ4Tg?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-01T02:21:09+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "삼성전자, 반도체 폐수 유해물질 저감 기술 개발...내년 평택사업장 적용 - M이코노미뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0d2ZKa0gtSVJRRDRlUnM4VDJsUEZaZ1JwSHNlZ19RUEJoaXJLZEtEN3NOd3dHRUxmZHktQ0l6MWstSVlTbllWOW5VSkluYWE2TktHdmcyVElNODVvaGM0MTJidHh3R1E?oc=5",
@@ -125,24 +116,6 @@
         {
           "name": "삼성전자",
           "ticker": "005930"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "코스피 10월 16% 폭락, 11월 반등할까…삼성전자·SK하이닉스와 미국 뉴욕증시 전망 - 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9md2ZuWC1HcjFtVDcxNVVUQTBCaFZHZzBFQUljZGRpeUNORUFUaUpsWXpKM0JVQjhaMGlLeW1ZWkZMaUlfTDAyN2M1TXVsbWxGa0FrSVpabGJSMWoyNVFoRkIwRkdOMWx4a1lGYi1xZzlpQQ?oc=5",
-      "source": "톱스타뉴스",
-      "published": "2026-10-31T23:06:19+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
         }
       ],
       "sentiment": "중립/불명"
@@ -271,9 +244,9 @@
     },
     {
       "type": "us",
-      "title": "Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets - Bloomberg.com",
+      "title": "Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2hWVEFoNDNKaGNxWFRDTUxBZms0MmhXa1hMaGI2ck1jRUlOQzIyUzdHT09DMjQxNFBjNHRXRGV3NWdDZlBLR21TbFhyMXg5dVhhWkM4Q1FuTGdKWENyRmNWa2FqMkJHU0VpNUJQZlcxSG9UdWNOMHByRE94THJXeTNZSmhzX2ZHeTJ2VHA1UzM3WkRwNTQtVUYtM1Q3eGRrQ2Q5RWg4dXdCMzUzSlpIbWc2d1NMVjQ3XzJmN242dkIzUGkw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published": "2026-10-30T18:57:15+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
@@ -383,6 +356,24 @@
     },
     {
       "type": "us",
+      "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZS1LektXY2xjaGVlZFhXckZrRFZFelBDOEVKX2tKWVpQVmk4THRhbmlYOEZKV1h3ZHdZOTFPbWFuelU0SENDVlN2U0VHaDhUNGNQRDhVSmZ6d0k4SElZMXlncGhZRnNPRWZxZUMtYnVVQnFWZEEzS1ljaklDcmpVS2FoaVJrc2tQY3cxNEtQRmhVVlJKa3lIdkkyaw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-29T20:29:46+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "US tech stocks fall after earnings fuel AI spending concerns - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbExUUERrc3pMSURHSFEyYTkzaHdoc19pQTV1dDN1cEpRcmxzSXZWQTJ5aVNHZXg3bjRLLVk3Y0xkVEVyTUpYT2hPRnJsQVJJUEh1YnZKeUdIY1BzdWN2a1pMbGJvU3VSMk5ocHdULTNFc1NFLU5qUFdBcVowSTNnVUgyNUI?oc=5",
+      "source": "Financial Times",
+      "published": "2026-10-29T20:10:36+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "U.S. Stock Futures Decline as Alphabet Shares Fall and Investors Assess Economic Data: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEZUYXBBaTFvUGZ0M3JMVEV3Q0JYMEFFV2xsdlE5MHoxNDJIb3I2SmUzeXlHMFNVeTZFY2NQRGV3V2paMWNrVU1PZk5tMFRiRW94eUl6S1dmQ2lacXhMQ0JQdzRVTGx2a20wRWNrRFppUlFob1hCbEtfaW4tUDM1WkRVZkVkSlBaX3BPejFXZnpRMnhKR3E5VS1jVlhwdw?oc=5",
       "source": "Yahoo Finance",
@@ -465,10 +456,10 @@
     },
     {
       "type": "us",
-      "title": "Nasdaq closes over 1% lower as post-earnings slide in Alphabet weighs on AI trade - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdjB0N1U5ZjdmTVFTOHFuVWJmdUl3SzBERUZhd25hbEIzc0F1bTFBb2hhb1pjcmNkWF9JYWFQMF9VNVItUkpjcXBYdzZ5SF83Tko4X010MGkxZldTSmxEckZyNXI5V2pET0lodW5rS3V2N2k5UXF3dDRuQ0FmbnJQTE5oWFlLdWxwLTJaUTFuNzVVUnlVcU51dEhEbmtNM2x2N2dtSEhObnZxQlpJR2RmRTdfZWJvUEtfNXJucEd6T2FsNFFRTENhSkJR?oc=5",
-      "source": "Investing.com",
-      "published": "2026-10-29T00:32:46+00:00",
+      "title": "Nasdaq closes over 1% lower as post-earnings slide in Alphabet weighs on AI trade - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0JPdmw5aV85YjQyM0MwV0x1WE1qT0dZZElJSkNVcGJKQ29yNG4wdmhBVFFaMllITGwtSW9XMWlwRGFxRk82VV84dzZJdmFsQVF0aTh1bm1nWm1kTnNGUm8wVUNMbDVfZC1YWTg2dUNNVExVb3JYb2lSMjhwbDllb3NHRG9MQ0c2UUU5aHdOdW83T3EyYmEwd3Bn?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-29T01:01:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -526,12 +517,21 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "U.S. Stocks Add to Gains Ahead of Earnings, Fed Statement - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbXFITkNuNWUwVzRMV055bkVYaTZWMmpSZTFCSnN1MGh4dWZJb0wyQVI3c1c1c0EyZFZRZHlsbWRVajExeEJzc0lDQWtUY2VFRE1QRE1zM0ZJak93QllaNjlvQTZKaG81STFFelRWNnpDd204ZFRWYnB1T3ppdXFHT1JTTndZYV80R3N5SFUwdFJwTXJpRWtBanNCOWwxU0pC?oc=5",
-      "source": "WSJ",
-      "published": "2026-10-27T20:45:00+00:00",
-      "stocks": [],
+      "type": "kr",
+      "title": "추미애, 삼성전자·SK하이닉스에 세 번째 행정지도… 반도체 방류수 수질 개선 요구 - 경기도뉴스포털",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWZybHdXREN0M2VpNGVVYnJzd1Z5cF9oNHJfQjVIdER6WkZ0N3pQWEZhQUtzWUw3a3VwX1Rpa3ZicUtJek5Ub0ZsZUxiczJTX3hOQTV2QTdLODFyOHNDNTh6bGU2QkpwSXB3MUgwYWlOaW0zaDEzU1J3R0tobnZ0ZjRRVXc?oc=5",
+      "source": "경기도뉴스포털",
+      "published": "2026-10-28T04:08:26+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
