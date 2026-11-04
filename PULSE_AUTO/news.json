@@ -1,21 +1,30 @@
 {
-  "updated_at": "2026-11-04T20:57:56.510425+00:00",
+  "updated_at": "2026-11-04T22:53:17.832213+00:00",
   "articles": [
     {
-      "type": "kr",
-      "title": "소부장 협력 넘어 인재 확보까지…삼전·닉스, 日서 R&D 역량 키운다 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XLXFsZUJsSXdVV1lrbDdDUExkNGJ2TXhYeTNoem1HMmZVX2tFM3lOMGVHYTZIWnVNdTA4Y1IxVnh3Njh6LWxmVXpmYTZHRnozUHVFdFBYY0pFMTNXOHNsd9IBeEFVX3lxTE54eGVTSF9BcWMyZGlGVlUwOXJCY0ktZlRYSUxyclBsS1EtMjktYUNjNmdRMVVXc1F2SlRjM2txNmszZnVLUHJSN011SUxPQzFnYzhiSmV0SjJ4QlBoVXJtX3Y3NUYtYUZaTXRuZlRROGVSU3pyUXFwSA?oc=5",
-      "source": "뉴시스",
-      "published": "2026-11-04T20:30:00+00:00",
+      "type": "us",
+      "title": "US Equity Futures Inch Higher as Investors Await Midterm Results - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJXWTQ2RjFoeU9maDJNSE53U3o3WmdfeUFyUktDbzRuZGswVE44M1doYjh6d21BZEdGemVBVU4wclliR3ZST0hnZWMtcm9yTnhqUmRtc0NjNnB2NVdjSTBmRlFQbU44NlRYVVZZc1NlSklhci1PRjhSb1F2MWR5LXBULUNWSnpqN1NyZUh1RjBfdm1BajdjWGphYTIwMmpoUzQtcy1LN0Y1d0RuWjE2RG1GeUhSUQ?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-04T21:44:13+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "US Equity Futures Inch Higher as Investors Await Midterm Results - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJXWTQ2RjFoeU9maDJNSE53U3o3WmdfeUFyUktDbzRuZGswVE44M1doYjh6d21BZEdGemVBVU4wclliR3ZST0hnZWMtcm9yTnhqUmRtc0NjNnB2NVdjSTBmRlFQbU44NlRYVVZZc1NlSklhci1PRjhSb1F2MWR5LXBULUNWSnpqN1NyZUh1RjBfdm1BajdjWGphYTIwMmpoUzQtcy1LN0Y1d0RuWjE2RG1GeUhSUQ?oc=5",
-      "source": "Bloomberg",
-      "published": "2026-11-04T18:50:59+00:00",
+      "type": "kr",
+      "title": "美 장비 규제에 삼성·SK 中 공장 고도화 변수 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzWnN6VE42bVZBVXV4WkdMdlZVRkZoUF90T2tZWFN5ZzU5eGhxTFU2c01XN0UxcVZZb0hQQmZ6M2FObmRoVjcxS2p0U3lpTnFPMXpMaEtGYlNmT3JXb29JdnVfTmVDQ0p3QTJQbGItRHDSAXRBVV95cUxQUHpFQ050RFltTkNoMzI1dU5vbzhEbUxDcFZRY3NpcHRqSzFKZ3JJdDFfQ2twSG54dW9PT1BtanJSZ3hmcHJNOGctMTV6RzhqMkpYY1FUc3h0ZVZqQklyN0NGaXRMRUhhRVltaFJ0R1ljd3FZMQ?oc=5",
+      "source": "IT조선",
+      "published": "2026-11-04T21:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성·SK가 연 수출 1조달러 시대…성장축 다변화 과제 - PRESS9",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIRHpoTHdLU19OeVkySnlyeEVnLWNPbzRSQW9EMFppSzBvcWdmWGd0dFdNOWM1YkpWV0w2QmdtUkpMR19Ga2tQUGEyTmtJN21VQ182bE1sbUY2RzM0NWl5R1lKR00?oc=5",
+      "source": "PRESS9",
+      "published": "2026-11-04T21:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -35,6 +44,28 @@
       "source": "Kalkine Media",
       "published": "2026-11-04T18:21:00+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdFNlSnBWU1oxVG56SkdEZEVwUmx5TWVZLWVMSFZfdDh1ZUNPQ01hZGxZcFd3Sy12SUhjcWZ2bGw5aXB2RDRzQ2FGb1dWd1gzc0lxUC0yNWJxd3UwbU56RURkb21zcm4xaFhaTnpsTnVycUlfMGUzcktyZ196ZzBWRjVkMWNSamgybTdYOWJFNk5FNlJQVGZPV3RIYnc?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-04T17:06:03+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        },
+        {
+          "name": "테슬라",
+          "ticker": "TSLA"
+        },
+        {
+          "name": "마이크로소프트",
+          "ticker": "MSFT"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -260,24 +291,6 @@
     },
     {
       "type": "kr",
-      "title": "美 반도체 반등…SK하이닉스 4%·삼성전자 2%↑[핫종목] - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EbDlLdWFYeldjRERuNTN0Mzdma2tXTmlrNUxXc1ZHdDc2YXlMbVB6cW1fWTFZQU5TSW9hLTYtcGdHTTFxNGpNa0VTSzI0MXQ2Snd2RFFvTU1HOG96enc4?oc=5",
-      "source": "뉴스1",
-      "published": "2026-11-04T00:21:58+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "[특징주] 美 반도체 훈풍⋯삼성전자 3%·SK하이닉스 4%↑ - 아이뉴스24",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92RVJhdU81QTJTbDlIUk9kWWwxbWVrNlRsR2wtRXQwMTdyTUpZQWdKV2E0OTRHbjIyM1EtTURycjB1Y3FvM1NxZTFsYw?oc=5",
       "source": "아이뉴스24",
@@ -425,15 +438,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "S&P 500, Nasdaq end higher as AI trade rebounds on U.S. midterm elections day - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWlSTDN0T3BSMGpscFRDcTRpWTJoRHJ4RXpxV0IxTmtHMHhFSlVlYnF2YkNvRlJkS01GdThmZE1HM2VBaUF3ZXpOaEVZb2drcW4zeFphVWV6VUV5bzZoSDQwa25Kc3NBcVhXYjlUYmRrVjBHdHdUSG5ZWjVJZ3lNNldSSkVHWWE0YnlPcTlXaU9hTDZQdnA5cExfZFhaaW9vTmtKd2cyMHIzZE9FWHBSWHZ3?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-03T01:02:03+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "[뉴스픽] 삼성전자·SK하이닉스, 주주환원 평가 엇갈린 이유 - DealSite경제TV",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnUExpY28xZ3AyZ2k4dElIN2pZY2Jrd3FuUF9mXzR3OUZxUDhlc2cyd1VuXzBtUDliSVZFcHZFRlAxTTNNWDNQRmNJaUJITTdRX1RRbjlB?oc=5",
@@ -465,28 +469,6 @@
         {
           "name": "SK하이닉스",
           "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Securitize lists Apple, Nvidia, Tesla as tokens on Solana, boosting interest in tokenized stocks. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1dGSXh4Z2tLQjBseUJ2ZFFGOFh6SUw3amFGOEVsOGlRVl9GSGQ1RUxLRUJfZGlMN2dmX2ROVER0d2VHNFdYYjU5VENmOTJNbUdqZnQyeFRMTnl2aVdRZDE4LUE3MjBkUXB3RnZEVjktWk85MS1ibXlJcDUtZW9vSXRoMlpFa0RWTHpPbHpwdVhrcms0V1FTSm9FbXQ5akNxS1pPWEowazRraGc?oc=5",
-      "source": "Pluang",
-      "published": "2026-10-23T07:00:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
         }
       ],
       "sentiment": "중립/불명"
@@ -634,6 +616,32 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "The \"Magnificent Seven\" Stocks Explained: Apple, Microsoft, Nvidia, Alphabet, Amazon, Meta, and Tesla. Here's the 1 I'm Selling. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXpuNU1yNWRGWGhTZC02QUVGa2gzeGVDdXlEQklHVjV3Y28xNzI4MWNsY0t1bVBmSjRwV05tTV9ZWjZEQkhUT1I2YVRsVF9SVUx5V3dSUDJmQmpZQ053ZlRPaTVCX01yQmZ1VnFrWjVFbWZPVHdpYkdIcURqU2ZTNExyam5TZktSQV80VGd3?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-09-26T07:00:00+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        },
+        {
+          "name": "테슬라",
+          "ticker": "TSLA"
+        },
+        {
+          "name": "애플",
+          "ticker": "AAPL"
+        },
+        {
+          "name": "마이크로소프트",
+          "ticker": "MSFT"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "“퇴근하고도 주식 산다”…오늘부터 국내 증시 밤 8시까지 열린다 - 경기일보",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90dC1jZU54SjZ3SDNxYXlmdlYxR2lkRGJpaENxaVFoMi1SdlBDQzI5RzBnRHlxR1RTNzhudDRyaEFNQnRBdElRUmF1a3gxQnJ3Y2hpZ0w2Tk1tNjQ?oc=5",
@@ -706,6 +714,24 @@
     },
     {
       "type": "us",
+      "title": "Here are Friday's biggest analyst calls: Nvidia, Apple, SpaceX, SanDisk, JPMorgan, Dell, Wayfair, Micron & more - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzZ0MFlkd0FMTldwTER0Q25UUnpVNXh5Qkt5M25NZnJGRmFVZnF5REZoZldIZnRRZlY1d0VZVDM4dUVSZy0wODUxWnRYWUpKUjVYU0pXQS12d1BlMjhFZTE2S2ZCbVZlOF9wTUVDV3NyUVgzZzNUODRwY2lEeDlVbDZyaEFsM29BNXVXcVVfVHdfdW1NOTZoT2NyX0MzQndXc2M2bFJR?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-14T07:00:00+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        },
+        {
+          "name": "애플",
+          "ticker": "AAPL"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
       "source": "Reuters",
@@ -741,32 +767,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "Zacks Investment Ideas feature highlights: Apple, Microsoft, Meta, Amazon, Nvidia and Tesla - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXVQUEd4VUdfZ0c1eUN4NnhjMUwxbG1XZUtISkFHN0ZuUFBrNDJvUE5FeUVISFdNNEVqN2p1NU9HbXhTTEM4ZHdMeTh2TVRlXzJ0eHp1WUxhUjlXUWxMa19sSEEyUUhXVXk5Q3RGRl9ENlAyYzVyUVN3T2dmUlFJUTZFdEFycjNkeXNVN2IxUmo3Z0MwQy1TY25UZFVjaHRPUzB4U2VJN2hfQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-08-03T07:00:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
-        },
-        {
-          "name": "마이크로소프트",
-          "ticker": "MSFT"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "[주식시황]\"역대급 증시 패닉\"…코스피·코스닥 8% 폭락, 사상 첫 이틀 연속 서킷브레이커 - 남도일보",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05UVhDRHJvSXlUSTlLTzRtMHIzUk9JNlIwWGx5Zlg4a0I2ckszR0lOWkUzU1N5dERxTVQxYnU2MzhoaS1xX0VONWczZzVFUGhuX2ltWDF2c2VrV0hIay1fNEtxdWZPOWoxdmhKVtIBcEFVX3lxTE9Vby1oLTRMb0FxVTFFT0hPSXUzM3VkeUFFNHZjMFFVa0F3cVVMT0luTmhGZ093bUlqSUJYVGlybkMtM3ZlYlFBRXNNXzZwMXYxb0xUY1lia202MXhwRWRUMHc3VFBSbE9VQ0hLMHRZcnU?oc=5",
@@ -782,6 +782,24 @@
       "source": "Reuters",
       "published": "2026-07-28T07:00:00+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Apple vs. Nvidia: Which Stock Is the Better Buy Now That AAPL Has Reclaimed the Top Market Cap Spot? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkVCOFJyOVlLUDhEelRlZ0ppQjdQNTRBd0dZNnllOTl6TmNHXzk2bjUwVDdMYWVJYzI2R2kwRGZSNXRCRXNfSzhMRHdjZXA1MHhaUTRtN1pnODlLVlNZQk1lZnV6RlFqbVhrXy1GMWFmaXpWZm82cUJsWEoxSlZqTTJRRVJfZ05pRjVvT3hEQnJSTldabW9nOXdqYVJSSTN5MjYtQ2sxR2JJX3dENU9YbnFyZzhBdHdDY3lBTFhGOV9VUkFXOFkyd0l0ODFQWFlEbW1fZXNEalo?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-28T07:00:00+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        },
+        {
+          "name": "애플",
+          "ticker": "AAPL"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -947,54 +965,10 @@
     },
     {
       "type": "us",
-      "title": "Here are Friday's biggest analyst calls: Nvidia, Tesla, Apple, Nike, Netflix, Shake Shack & more - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWxiTnNFOTNEV3FDcTZHODAxYlhkNWxGVVZqLXhFcXRHbnNhSlg3T2FxVzFMWGxpM1lXaEdnYjRYclZRWlJlNzJncWtyNjhlUzhzc2xfR2MwWUdscllzbXJYaldDdnZ4cXZ5dlZOTmdBMXlaeldEeFJVbks2NDFTOEdkVU1Nc0Fy?oc=5",
-      "source": "CNBC",
-      "published": "2026-04-10T07:00:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Coinbase Launches 24/7 Stock Trading For Tesla, Apple, Nvidia With 10X Leverage - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXNrYTQ1aUJOZmpNZ1lJaFVyR2NGSWhWYUhwQU54YVZRYW5QOGlLU2R3TkpLZ25URkRjY0w3OS1ReElrbFBqS0tqT3dKVUE5c2pjdUFKQkJmM2toeGNlSEZnVFlBdDRyZ3hlM0hOV01nYWhLOUlQWnhUQ1JfTFVLbXRuT1lsbzZIRTJzZ3VSY3E4d2lkWExjcGZ3?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-03-22T07:00:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "NVIDIA Leads Magnificent 7 Stocks in March while Apple and Tesla Slide - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1duRlZMZVBRM1hYOXRaaVJSajFXVDlkd0VWTVIwWVFpdVI5ZXliVnRsMkc4NFd4Vm11R01TVGw0Rmp5R0NUV2xiQjJHS3BwaFpBRUZpWDAyODJxSGdJVURLOGJDNUtNdWlOb2ludUY1elhZZEpOcTVjeWhfa2NKTk1yMGExVDFMbzRjamd2U1BwS0NwVExVSFRvSUpid2N2dWZnc2w2dlJoMlFqRE1WMElyS0c?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-03-16T07:00:00+00:00",
       "stocks": [
         {
           "name": "엔비디아",
@@ -1082,6 +1056,15 @@
       "published": "2022-06-26T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Earnings Calendar for: - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05V1RmR2JtbjVQMU41V1FFTXhndmlBUy1QN0FvdHo2bFVRbkRXLWRXVVVaNmVTcXVMd3ljbTRHc21FYkxqWDFYUGVPU0taUUFwc0FhM3lLWQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2017-04-28T05:09:35+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
     }
   ],
   "top_stocks": [
@@ -1091,23 +1074,23 @@
     },
     {
       "name": "애플",
-      "mentions": 18
+      "mentions": 17
     },
     {
       "name": "SK하이닉스",
-      "mentions": 16
-    },
-    {
-      "name": "테슬라",
-      "mentions": 16
-    },
-    {
-      "name": "삼성전자",
       "mentions": 15
     },
     {
+      "name": "테슬라",
+      "mentions": 14
+    },
+    {
+      "name": "삼성전자",
+      "mentions": 14
+    },
+    {
       "name": "마이크로소프트",
-      "mentions": 1
+      "mentions": 2
     }
   ]
 }
