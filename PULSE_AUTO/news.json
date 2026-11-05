@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-11-05T09:06:55.140989+00:00",
+  "updated_at": "2026-11-05T11:10:49.807033+00:00",
   "articles": [
+    {
+      "type": "us",
+      "title": "Cerus Corporation (NASDAQ:CERS) Released Earnings Last Week And Analysts Lifted Their Price Target To US$5.13 - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDNSTFRzNWF6WXNZV3hNSGxYMzJzWUdwUkhLSUJVTzc1eTVCZWhrWmg1VHFMM0tNc0FtcW5ZV1pfV2k3Z0FaZmcxRHVvQXJ0SnZ5dGE2UlF6M3R2LXVDcmkxQnpFNHdYcUg3bTVka0R0YVVSbkd0MmRQRFRNNG12REZpMUxBeDFSSktBMjFKSW1vRE5nSmNYdVZFbXNBdmJ6dWlIemF4SVFtUnpXTEg0MGptVE1ZbWM5MEQtV08tVlBlYlB30gHKAUFVX3lxTE0tUlh0S3U2NG5VcVNhMGZKdWxOR2VnWFMxa1djMnRueU9UWHlEQXMyRVdDdE1xaUl0SDcwbjZ4eFBKc01qc1hQUmMwSUdvbzJ3MUJ2azAwdDd4d05sY09jYWhLWlVObDlxSGdxU2pFTC1KLW1RU1lOV0pwSDBwV3lrRHlyM0xkQldGUnhVV3l4U1dKZzhMRzNaalpCVmVsaE9IV1VnSWRTdEdIVFZ2eWZBX0tsY3FFcEJLWGp2amY1TjYzeEJwVFdtMWc?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-05T10:50:29+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "SK하이닉스·삼성전자 2.7조 투매에 사이드카 발동! 폭락장 속 연기금·외국인이 동시에 매수한 섹터는?(11.05) - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWUtzbWNPczd6ZmdhVWRJbTBjdWhpMUFpcVdwT0g4ZGZqMWdJYU1RNndZX1BpenhEeGdMbHk3MXlOYXBUaXhOTnpLRkxwa3JtSkZDd3Eyc2hZZ0hxcEJ2elZ1c0JEcEM5eGpzQ2FKbzBrMkxxb0FFNzJBTXpjbmRQZlpObWdhZThoN0E?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-11-05T09:45:00+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "“삼성전자 20만원도 깨졌다”…SK하이닉스 9% 폭락, 코스피 5400선 붕괴 - 데일리25",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80c093TExwSHEyRkt0bHRrc3pLcFluMG9BU1B4aHBoejVvTkduS1gwZzNkOXNhRGNmdjR6V3o1bjVMc3B5cFVZRnhnbEcyVjF4Yml3MHN4bnViRDMwZjBsYnM4YUdSc0NOU1NwTA?oc=5",
+      "source": "데일리25",
+      "published": "2026-11-05T09:40:28+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성전자, 글로벌 D램 1위 수성…SK하이닉스, 마이크론과 격차 확대 - 산경투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNTFJX0pUVlNFX2wxeFZjSGk5eGZtbERQQU9rYWlLWkxBMFBaOEQ0MTNCQlJOMWx3UDYtLVFBLXVVOGFsSmthNFJZNlhDSWo4RVZoQlNEWUhvUXlwaWt3MDNZLXVDZ3VId0hOM0ZtMWjSAXRBVV95cUxOSFhzQzJZUFZFbmlJT0prWFNPVXdvdWNyVUpfR2NwMjlwdElveVJudTBlMFRGS3c0YUYtMXBXclhTODRxY1k0d3ZiR2FXbVlEU3BuYXdSYmZYeVB0UGhpaVNTSkJfYTFIS3ZPUGNaUVFzeEpPUg?oc=5",
+      "source": "산경투데이",
+      "published": "2026-11-05T08:33:07+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "코스피 5500선 붕괴… 미국 블루웨이브 쇼크에 삼성전자·SK하이닉스 급락 - 여성신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNa1ZxUlMyd1VpLVJ2cWRiZnJzNEM3UjRuNkk0V3JXX3BwU2l6aWUwRVFOdTU3M19jZjZfTl9rSXZiUnJKLXhpVTN5bHF4M0N1WDhSRXZNMF9xcmx1WlowX2Y3NTlFX1ZJRElrTmNGb9IBc0FVX3lxTFBRM2w3WnpMN3dJai04Nmw5MWNrbGtlelRsRzNIVFVUZExHN0t5Mm1jSXFVVEhDb1pURHpZZ3pOWGgzUHJVNjhNOUJEWm45U3hra2FLdW1aa0ZIalNxMzZEdU1aeHVYM09wWVRtZkdocE9neWM?oc=5",
+      "source": "여성신문",
+      "published": "2026-11-05T08:28:38+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성전자·SK하이닉스 '중간선거 후폭풍'에 변동성 확대, '이란 종전 기대감' 수급 청신호되나 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pLWtaNktPZ2dvbmU5VWRaaFI3X1NhVEF2UlpPNzRqYlZqeTdMWXlmY3BNWjhFYjBYZ084emthUVZfLWZIOGFHcU9XQWpWQU1DYW1RSVFCWDVlRmdFaExzRDNmUjgxcVFvMDVtX0lNbWhYemM?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-11-05T08:23:46+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "AI 규제 우려에 흔들린 삼전닉스...외국인 2.7조 매물 폭탄 - 비즈워치",
@@ -26,15 +125,29 @@
     },
     {
       "type": "kr",
-      "title": "[코스피 지수선물 옵션] 삼성전자·SK하이닉스 선물 휘청…반도체·전력기기 동반 하락 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WUzYwNUd3N0VrSXh2VTB1a1R0Q3lqVmxGUEhvZEZJTm52aURKMDliOWh6Yi0yZnBZdy1jVGprc3FxUnUtUDJNX0RnSl9nRFhCZzlnRlpIWHhxeW5zcHBBS1BjejMyLXVxZnEwLThONExZU3PSAXdBVV95cUxQRGJRb3JTenVwaDBTOHpoVWN3UktKdTBmcEZxZ3Nibmo1M3M3dlhwWEpXZkVWbklFcmNwZXhzbFdkSjRrOU0yN2JkbWNzM3lRMzFmRkUzSVdFV3hYc1RCR3N4bWlHbDhHa1dTQlQ0NEJWVVBubFBtVQ?oc=5",
-      "source": "핀포인트뉴스",
-      "published": "2026-11-05T07:39:04+00:00",
+      "title": "'블루웨이브'에 반도체 급락…삼성전자 7%·SK하이닉스 9%↓마감 - 주간조선",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43aEpCT1FONzVSejdqYW9jVXg2SFh6M3NyUzdBaFJ0ZlU5QXJFSTZ6SzFabkJYTUhzTTRrZkNpWkRsRTNNUzdnaWVfdlNqV2dOM1kzVzJfV3ZiamdyemJoTElqQ1piU2RDOUxv0gFuQVVfeXFMTjN4MmxYTl9vMkplN0NXYndWS005OGdQOF9LQ0d5bUMwTExwYk1VVlNkNlM2TVRtSm1TUEUxM3RkZFFJN2ZKdndsTWh5NXJkOERQT05qNmlVaUhRRDhCZXVwNzJkd1NDdkpzVjkzT2c?oc=5",
+      "source": "주간조선",
+      "published": "2026-11-05T07:42:00+00:00",
       "stocks": [
         {
           "name": "삼성전자",
           "ticker": "005930"
         },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성·SK하이닉스, 부산서 AI 반도체 제조기술 논의 - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01RUJNa25JTGFmTU8yZXl1cnUxVGV2cF94N3I4TWFTMUMzU1JfV3diNkVBdDE3Y2pOWncyVDBhandlU1VibkRNNXlINA?oc=5",
+      "source": "아이뉴스24",
+      "published": "2026-11-05T07:31:34+00:00",
+      "stocks": [
         {
           "name": "SK하이닉스",
           "ticker": "000660"
@@ -81,24 +194,6 @@
       "source": "Investing.com",
       "published": "2026-11-05T06:39:59+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "[속보] 코스피, 5.28% 하락 마감...삼성전자 7%,SK하이닉스 9% 폭락 - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUtNalFyRHRTcXdrdXdqRkFycC1LeTg5VWhWLXF2NmlvMnNUcWxIajRwYy1pMlZVLVhnRGJQcjc3VW51WnU3SWp5cUthT3lXZ1FDVjZPb2FuSjhvbHNlY0ZONUJ1ZnRqa1FkaV9tdno3UEZMUWlHZUIySUVyTGFFeg?oc=5",
-      "source": "조선일보",
-      "published": "2026-11-05T06:32:00+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -170,21 +265,12 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "삼성전자·SK하이닉스 44조원 배당…상장사 밸류업 공시 확대 - 산경투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BckRJZ2twM3JxM2VTbUY4N19RUGZRVWx6cU9PcUl0ajQwY3dfWE1QQnZrV2tFU1BNYWpqcFBhejZoTjhBMkdGYldPZDZXRVE4MmE4QlpMazA3Ymp3YWtwVFFaazZPRHFra3NmRmVCWmXSAXRBVV95cUxPVUZrdTlSbVctek9WMUVXTXdFZS1raVFPejY5YmRUUkVEeXJaUnhMUldzaHJ2NzdVRDF2bkJhLVZmWEdfaVdpSXAtckY3T3BlZlVtRjVQNU5SalJHR1Y2akdqMnM2c2lqWmF4ZExDNW5TeW1HNg?oc=5",
-      "source": "산경투데이",
-      "published": "2026-11-05T04:15:59+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
+      "type": "us",
+      "title": "META_TITLE_QUOTE - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44b29VZTl0MFpSY0hBZF8yWjNjRW1yV2JxV2poNFUxSkdQamdsUmFORHdraWViUld1NXJtS244Rm5yODVxZU5xYjAtSFg?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-05T03:29:54+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -194,24 +280,6 @@
       "source": "매일경제 마켓",
       "published": "2026-11-05T02:00:20+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성전자·SK하이닉스 급락에 코스피 '휘청'···매도 사이드카 발동 - 스마트비즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVemM4QzBUMmlFR2hqUjRIeE5YYzlWTUJoM1BOZlRBQWZYRzBObjNnQzAwN2dwY3FoaHJYR0pFSFdVcjY3eUZsczVtWHRMaWQ2VEJvVzdwako1bkNEV3lIMEY1ZGx1Y3NVQnNTdg?oc=5",
-      "source": "스마트비즈",
-      "published": "2026-11-05T01:55:40+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -266,15 +334,6 @@
     },
     {
       "type": "kr",
-      "title": "금리 안정이 주식시장 반등 조건 - https://www.yonhapmidas.com/",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RcGhBREhFaEdTREN3WmlCR3NQeVN4YWx6TzFGOHJoS2xnUGRMTkV0Ti1BQWVxTE5fdjJVc3lCLUhwbzRRcmxtY3U3RVptcUF2YUgxdTZwMWJEQk9CZzNjODhkZUIxZ0FQc2dUaVRR?oc=5",
-      "source": "https://www.yonhapmidas.com/",
-      "published": "2026-11-05T01:24:23+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "중국 관영매체 \"삼성전자 SK하이닉스 중국 반도체 공장 역할 중요, 미국 규제로 한국 기업 피해\" - 비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNYjRDcHZXU0dlbWFJUUs1MEx2LTAtWVdvNjZhV0xRUG54ZTRrMi1tSU9lSGxfa1plSktRT3hsQkJ5ZUZ5VnU5Qm0wSzdiajlPMUwwd0N0NFdaTXBUMUp3ZGlOMzB6LWlYQ0p3NzktUzNqQlE?oc=5",
       "source": "비즈니스포스트",
@@ -297,42 +356,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DNlBwNlZqYVc2b1dzTFpmdFFDUE5UVUI3cGU2SzQ5eE1nZks4d0VUU1hoLTBlUjh0V1ZWLTJrNWg5djlhT1dRUldjMFlEWUI2SmM1NTg2OWp5M1hwTXltdmFXNmw4aXl2dmdJaWVIYw?oc=5",
       "source": "경북일보",
       "published": "2026-11-05T01:23:14+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "[특징주] 삼성전자·SK하이닉스, 美 중간선거 민주당 압승.. '급락' - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3EyTDVYWXRJSl9teHdudlBxdDBrOHNOZTZ5ampvS01DM3BrYjJCeDZLNDhGbllqYUVFT19RbTVnX1NCTDJ2QjRUcG9oSGlpVVNhMFlUckRZalI2Q0pOMmdsOTk0Mzc3UDh4SjJoNmZZbXpmSHdDTEFMOUFEbzd2VjBrRjNKUWk1?oc=5",
-      "source": "글로벌이코노믹",
-      "published": "2026-11-05T00:56:06+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "[속보] 코스피 5500선 붕괴 위기…삼성전자·SK하이닉스 급락에 증시 '휘청' - 펜앤마이크",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPU0Z5SGtJVU1UMHEyNUdfS3J1OWZuZlN2aktpdHgyaHNocHh4dlNpWUJvcGF6b0JVYlVadFc3c2hJQ0xxaF9ESHlCNFVnQjAxOGN0bVlBeXBqS29jVjFvemgyTEdZY0tOZ3M40gFvQVVfeXFMT2lIZnA0aHVlb2h1bFZtUlBzTW9Bb09obGVZSUdyLXBkM2k1V1Q5ZXVmWGtmTkhDc0pIaGR2UHRwaENfSDFNcVVqUXlWd0VERFR4NE9fX2d0WUNsZFpvbkNlcDlMdjFRbUVqT1p4M2hB?oc=5",
-      "source": "펜앤마이크",
-      "published": "2026-11-05T00:52:02+00:00",
       "stocks": [
         {
           "name": "삼성전자",
@@ -530,10 +553,10 @@
     },
     {
       "type": "us",
-      "title": "Earnings Calendar for: - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05V1RmR2JtbjVQMU41V1FFTXhndmlBUy1QN0FvdHo2bFVRbkRXLWRXVVVaNmVTcXVMd3ljbTRHc21FYkxqWDFYUGVPU0taUUFwc0FhM3lLWQ?oc=5",
+      "title": "S&P 500, Nasdaq end higher as AI trade rebounds on U.S. midterm elections day - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdk5XMjVwNms5dDIzb3A3Q2FKdVhNbFc0Rk92dTFWczN1QUN5UjJzQjBtWm9oMjFZRThRZ2RtUjdKTlAyZzhVamVILXFWNlhsZGhxZHVnY0taSjdTV3liUnMwLXJXM1VuNmw0MURXNkVFcF9oX1Y5ZzVJMnZRVlgtblROR0ZZc3FHYUgtQ2lUeTVtaldWWUk0TA?oc=5",
       "source": "Yahoo Finance",
-      "published": "2026-11-01T07:00:00+00:00",
+      "published": "2026-11-03T01:31:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -795,29 +818,11 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-24T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "[한국 증시] 8월 17일 코스피·코스닥 국내 주식시장 휴장한다, 이유는?…재개 일정은 언제 - CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43UGx2Q0MtdGlLR1BsTmlNeEVOVXhibk1Hd1M5Ynhxby1jejdYbU9vUC1UaWZVLTQ5S3NlZDRtQTBjNVZVbFRvUjN3Qmd1ZjU0SDd0YnJzWHY5QktkQlhiX1I4enBvQS0w?oc=5",
       "source": "CBC뉴스",
       "published": "2026-08-17T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-12T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1109,12 +1114,12 @@
       "mentions": 16
     },
     {
-      "name": "테슬라",
+      "name": "SK하이닉스",
       "mentions": 15
     },
     {
-      "name": "SK하이닉스",
-      "mentions": 14
+      "name": "테슬라",
+      "mentions": 15
     },
     {
       "name": "마이크로소프트",
