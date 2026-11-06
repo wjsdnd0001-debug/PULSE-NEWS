@@ -1,6 +1,92 @@
 {
-  "updated_at": "2026-11-06T01:14:33.878566+00:00",
+  "updated_at": "2026-11-06T02:55:52.616529+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "반도체주 또 폭락, 지금 팔아야 하나...증권가 \"단기 악재, 저가 매수 기회\" - 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MX0s5TFczMzJrZmR6bzFBVDlHQk9yQ2F5NkRGU2lfS2ltSG1iaHo5NXJEdngxMExfR2xOdU15bUVqQ3hpc3FFX0R0YXNrUzN5VkNzMmlQVmprZlBHZEVEcmtuS01ETFNp?oc=5",
+      "source": "녹색경제신문",
+      "published": "2026-11-06T02:36:02+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성전자 20만 원 붕괴…하이닉스 100만 원 시험대 - 자본시장뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BOXdmX0xSeE1meHhXazlDRm5FN0hXYmlFaEVSQWxlVEQ1b3o4cXdoRnlhdG9SQUpFTHFwMUloU0thUkNKa2Q2UDdueWg2dnFsZ0dsRDE5Q0RWTl95QlFJQ1JkSzE3d2M?oc=5",
+      "source": "자본시장뉴스",
+      "published": "2026-11-06T01:55:00+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "코스피 5천선 붕괴에 개미들 '패닉'…삼성전자·SK하이닉스 폭락 - 산경투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sal9KWnphWWZzUWFzYnZTLTV2b0p4YVoxWHJ4Wlk3dndZMUxrckZ3dzNIeFMxOTNwUG9pNTFCZ3lWZWx0UUpuM0pBSFRXa1pJUzF4RWltNEpIT3NQSHkzX2k1U0Z2clBzaUZneW9ET2HSAXRBVV95cUxQLW9WMU1KMWxfQ2xDemxyaFl4azdNTldQRnRCZjRyQ2M0SzhCZ0QzeWNZdHZaZi1XY3ktd1VfMU5fa09xZ3lDZWVsYlAtbmJRZmdmbU5yajhKNTlCOFhSbE9LdHAxMVVSdVlNLXkzNzdwMDEtcA?oc=5",
+      "source": "산경투데이",
+      "published": "2026-11-06T01:45:11+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "SK하이닉스 주가 장중 9%대 내려, 미국 반도체주 급락에 삼성전자도 하락 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kNmNUeF8wZzVBMWtlMnZrSHA3T01rQWZRRl9PeTlKeV9walAtbGRkRDBWa0QyRnRZTDZ4dmVMVVdLN0dGZWNUTGY5aV9ScW9rWTZnR0V1V1djaUtTQ3dXcVUtUVRLWW5IWDFFV2NlR2NqYlk?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-11-06T01:42:39+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "[특징주]美 반도체 투매에 삼성전자·SK하이닉스 급락 - 현대경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TakJzTjE5cW1FUXNyTl8yV2tfVUJxVzI1VElhQS03c29jY0NtYk5RUkh0NjdKRDYwYXBTdU96aWE3NE81eFI4TVhtUjRFQWxSMGxvZ1pyRkhpYzVoYmpTZV93aS0yQ3gt0gFrQVVfeXFMTVN5ZTdfemFzWWJzUEtqSGNaTTdZODFMLUtWVkVlSmpSRDNleWxMV0pqdDlZU0d5UEdNYmFEZ3VEdC1uM2N0QkhYTFg4QmNZeDFqZmhzZ0hGNkg4SVoweWswYTBDZHI1UGYtbTA?oc=5",
+      "source": "현대경제신문",
+      "published": "2026-11-06T01:38:54+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성닉스 대장주도 맥 못 춘다… AI 기대 흔들리자 ‘반도체주’ 급락 - 이코노미톡뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKMUlFdUl2ZlJJSnhPTGZ0dXFlTGo0WUNfaHBXSm1FaXB1em9PclVTajhTTmFIWWowR1dwUDg5VTA2WGdma3JqelpCQ1NMdHV1MDFkSXh3Uzh0SVBvNC1UVWVpaGJaNVdvb2doVA?oc=5",
+      "source": "이코노미톡뉴스",
+      "published": "2026-11-06T01:19:03+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "DDR5 현물가격 '1% 하락', 또 'AI 고점론'…삼성·SK하이닉스 수요 위축되나 - 뉴스핌",
@@ -44,6 +130,20 @@
     },
     {
       "type": "kr",
+      "title": "삼성전자 9%·하이닉스 11% 급락…개장 3분 만에 서킷브레이크 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1neXJWLXZsTU1vZXRmQ0ZXaUQzVXplb3FUTXNrOFFlRzFVR2hGVzFsTy15VVRrU0N2bTZDQ243cUNYdEx5SVVBM0drV3F5SkJtSkdjMTdla3VPdXFyN2cwM1U2NWYyUzA?oc=5",
+      "source": "한겨레",
+      "published": "2026-11-06T00:30:00+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
       "title": "[특징주] 삼성전자·SK하이닉스 동반 급락…美 AI 규제 우려에 10% 안팎 하락 - 브릿지경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HOW1TaUlYa3oxWmphaEZFcXNjbEZpSzJ5eTlfVGVfUHFvUnVONEE5Z2N0bFY2SVFhYVk5ZmplOUh3RzQzRThGaFlvX3lveFR0Sk5wV0ZETi1odw?oc=5",
       "source": "브릿지경제",
@@ -79,29 +179,11 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "美 반도체 쇼크…삼전닉스, 프리장 10%대 급락 - 블루밍비트",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yRmFsYVhxV21vczQ5TllzV01kVDVXalZoRzNtQ25OdWNJSmVpWTEzWVA1eGNMcW8tamFTUHJrS3pkZXoySGREVF81b3lsRHEy?oc=5",
-      "source": "블루밍비트",
-      "published": "2026-11-06T00:02:04+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "us",
       "title": "Viasat (NASDAQ:VSAT) reports sales below analyst estimates in Q3 CY2026 earnings - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVHlqVTNQSlBxQTUtZTBRTEVsSmd1aTFONGVIQkRvWVlxaW5RVnRpNjZ3VjF3Sk05UVNNSVdHZ1NZVTVXaDRwWlNBUEZicjhEOHRZNnJtMU44cmdrQ2Qzcl9qSkFTcUlBTlJQYTVVQUJPRkN0eGZqYjRaV0hpWHE4eHA3TGFKNUNxTG5oczV2RHZOZzhPb1owNmNUOTZCclJVTktCV2d1YjRyV0NzWENjRVZzZnJ3b1NsaUljNGhvTFBfOHdiTWRJYTEzbDFfNmNFdmxfZW1R?oc=5",
       "source": "TradingView",
       "published": "2026-11-05T23:43:34+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "美반도체 폭락에 추가 하락 압력…증권가 \"삼전·하닉 낙폭 과대\" - 뉴시안",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBySHBwQVVxQ3hKc0tMaHU5Uld5LWgwaFJBalRNaFViTUZWejcwcmItUDVHekZfbEhDcm5mbEN4Q1lQZXI0elp0QkotUFFZU1ByZ2lpZXVmT3k0VlpnTTJqNUVpcUtxRGNXZ2dNcg?oc=5",
-      "source": "뉴시안",
-      "published": "2026-11-05T23:37:17+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -125,11 +207,38 @@
     },
     {
       "type": "kr",
-      "title": "마이크론 17%, 삼성 10%, 하닉 13% 줄폭락 … 美 민주당 AI 규제에 반도체주 '추풍낙엽' - 뉴데일리",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuZXhRRS1jeGJ2MnQzSkxWR1F3OUlMc3RkVVpvc3JvRlU3NldodVBlWGpSX0l3ZW80cjNuTXlHS3EzYmNYWFVyblgzQ3R4YnN5SmxjY3d6VVNaQ3p1dy1KZFYwVVh0cDFMbkxhdEVFREt4aG5jeExWOHY4UdIBgAFBVV95cUxQS1pRMUhwQTlXRm03RFE0dVFBZFdadHl5QWhGRG9XRFk2U1REZzN4NEZ1Y1Z2dVQyLWQ1VTg4dXpteWhVUFdWNUVUa3ZfVEhqODBtcllKNUdhTUEwQUlRQ0wxSlo5N2NoQjhjVjBDeEwwWXM3OVk5TzQ3TFZMSlJtbA?oc=5",
-      "source": "뉴데일리",
-      "published": "2026-11-05T23:32:00+00:00",
-      "stocks": [],
+      "title": "“삼성전자·SK하이닉스 더 떨어지나” 공포 커졌는데…증권가서 나온 뜻밖의 전망 - 데일리25",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Rd3pucG5jQ19TMWp4MktZWmh4cXJodEpVejZQLTVKRUdaX1E5MlRlUXhITm1RLXUxMWFLNVVZcXdqTXZFUjhXOW9mcTNWWHhpLTJzeUpXSmwtMnVVaG5xQ1hJNjhsbVpPQTk5WA?oc=5",
+      "source": "데일리25",
+      "published": "2026-11-05T23:30:00+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "[특징주] 삼성전자·SK하이닉스, AI 투자 축소 우려에 프리마켓서 10% 넘게 급락 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90WEZBX3hmMWdtT09VUHZUNGxWZWp4Y0U5NEczWHVjQ2pfM1o3aE1lSHN6aG9LMDc5akh3ZWNST193OURuVGtHTmoxQjJBN3c4b2c2MHhuRlZBd9IBWEFVX3lxTE9JT3JHM3hKS1ZZNmZyM2FwaTVvTkRsZVExZFk0ejBabGxpR3gxMDd4TTJkU0ZuVXdLVTJ5X2ZCTThJUWcxM3NTTzJHQjVfbEpOWFVqTUt1VWk?oc=5",
+      "source": "아주경제",
+      "published": "2026-11-05T23:26:08+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -148,15 +257,6 @@
           "ticker": "000660"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "[증시키워드] 美 반도체 12% 폭락에 삼전·SK하닉 추가 급락 우려⋯수급 이동할까 - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4RTc5YzA5bEU5NHB0VVdZOUhOLWZuYkZtLWxra2tkLTJINVFsRy1xdDhjYjlnNENkQTZXNFdSWXBuMmRXclZvdC1wVkR5LVVCcjV4bQ?oc=5",
-      "source": "이투데이",
-      "published": "2026-11-05T22:58:00+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -187,6 +287,15 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "U.S. Stocks Slide as AI Rally Hits a Wall - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa19GZ3BlbHpkRFZFQlNrdDNPMUhxZVFUaEdRNi1Gam9SWGRYX2tLTnVlUUIxYUdiZVdicE50UFpwRlBkb2d1dFFEVmhFcWt6cDdDWW5HTTVISDVfSWstUVZsLXYwaGVWZnpHcmc3VS1za244RTlpYlphTFNBZnlWd0RiNnBGejBOVlRWSA?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-05T22:44:55+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "AI 반도체 '삼전닉스' , 中 수입박람회서 메모리 신 성장판 과시 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGdHQwcnJRM0JpeU9LcHpsSXNsOGdOSm80UDFmMG5iMkZCMUtiQ1VLbkNwdmNtUHBHaUFaQ0RORjMxREZvVGZtcW5qd2J4RjFzb3p3RTBxR05HTElU?oc=5",
@@ -197,29 +306,25 @@
     },
     {
       "type": "us",
-      "title": "BlackLine’s (NASDAQ:BL) Q3 2026 earnings results: revenue in line with expectations but full-year sales guidance slightly misses expectations - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVRKdEkyTXkyYXNlMG9pbmFUS1pDSGE2eUg1TzVsVHl5MERCSnBzRHRPSnZkbTRpYWw0aWNnZlowWW5xV3NhaWJwcF85Z3NtelVyeHRaZEJEUEFlckVSUWRUdHpXS3dqUFJJSXlmX2Zfc09lMklDY2c1UDdJQUhIbjhWWUw5dEkxWFRwa1BQVTFSejRuLS1N?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-05T21:57:22+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "U.S. Stocks Slide as AI Rally Hits a Wall - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa19GZ3BlbHpkRFZFQlNrdDNPMUhxZVFUaEdRNi1Gam9SWGRYX2tLTnVlUUIxYUdiZVdicE50UFpwRlBkb2d1dFFEVmhFcWt6cDdDWW5HTTVISDVfSWstUVZsLXYwaGVWZnpHcmc3VS1za244RTlpYlphTFNBZnlWd0RiNnBGejBOVlRWSA?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-05T21:51:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Texas Roadhouse’s (NASDAQ:TXRH) Q3 2026 earnings results: revenue in line with expectations - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYUFCY3c4QURSMlpOMk83LThacUhMSEVmVUV5NUxfWHQ1bnRLSU9EY3JrYXpyMGdRWDNRQlhnaWQyZHF4NWdvQ1hSclI3RG1PcHN3MmcxTnE0S0kwaTZmOERIcXdodV9XMnpwTmloamZPRG1BSTZJc0N5bEs3SmhIcUZZbXA5ZEFWRHVpWFJ5ZUxZZzNvZTgzZFQwSzk4dzQ0S2g4b0ZSS285Nm5YSTZKNU9jc3g2cldJUTh5MzUtV0RvYUJKSDAxb29JVUYzYVhYX2FKRzNqaFdqUFFlaUtvMnVIVQ?oc=5",
       "source": "TradingView",
       "published": "2026-11-05T21:42:57+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Stock Market Today: Nasdaq Slammed By Big Tech Sell-Off; Nvidia Hits Bear Territory - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWxmSXZZZ3ZDSUdqS21kaTIzNmhjeW5qSjVSSFdHOE5kdW1uaFVMbXBSTFN4czlYOWFGSmx2UjZ0ZVpLbmZ5LUtUU3NkZWpQX04zOXZWZ2E3SG4tdVowenp6ZUhMTTZNZUhfS3VCQ2xiUmU5cWRfbTZyOU9DbWRIdVJBOVBSZV9CN0ZwS1dKVGtaQzhFamVmZDBBWXNOcEFaVXlnUlI0RlZYMG9ObWd4dUp3?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-11-05T21:34:00+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -241,24 +346,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "“삼성전자·SK하이닉스 폭락하자”…최태원 “증시 롤러코스터 계속된다” 경고 - 데일리25",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OTWR6YVcyc0o1Mm1hVDRuWmZubTQ0UlhmSURDSWRzVWJLXzJveEdwTU9IS0JUNjVULWNOb041QlVGVnNRTVA4UEMxcnJVMzdYMC15Tlo3ZGlJSVU5STNJZGkySmhINXUzSDkzdg?oc=5",
-      "source": "데일리25",
-      "published": "2026-11-05T15:10:00+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "us",
       "title": "U.S. Stock Preview | Major index futures are mixed, with Nasdaq futures down nearly 1%; the market is digesting news related to data center regulation, sending AI hardware stocks lower in pre-market trading; OpenAI pledges to cover data center electricity cos - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT29IdGQzdkFCTTdjcmNMRzNmWS1EOENhSnBMUE1TNjQ0ODd1RjVIdWdLYTFCX05FWDdFeHBOS3RPeGNoUWc4RlhYb3BOWWE5dG9UUjVYeVlya0xPSlEyRlZ5UDdlMHo3LUJ0Nm9UanViM2J2eEkzZWsyUGkzbjB0d3Ywa2gwSzV5emVzSzBuZWhGRENhQktieEpCNXhjMUF6YUpz?oc=5",
@@ -274,24 +361,6 @@
       "source": "Barchart.com",
       "published": "2026-11-05T11:24:04+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성전자, 글로벌 D램 1위 수성…SK하이닉스, 마이크론과 격차 확대 - 산경투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNTFJX0pUVlNFX2wxeFZjSGk5eGZtbERQQU9rYWlLWkxBMFBaOEQ0MTNCQlJOMWx3UDYtLVFBLXVVOGFsSmthNFJZNlhDSWo4RVZoQlNEWUhvUXlwaWt3MDNZLXVDZ3VId0hOM0ZtMWjSAXRBVV95cUxOSFhzQzJZUFZFbmlJT0prWFNPVXdvdWNyVUpfR2NwMjlwdElveVJudTBlMFRGS3c0YUYtMXBXclhTODRxY1k0d3ZiR2FXbVlEU3BuYXdSYmZYeVB0UGhpaVNTSkJfYTFIS3ZPUGNaUVFzeEpPUg?oc=5",
-      "source": "산경투데이",
-      "published": "2026-11-05T08:33:07+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -332,70 +401,11 @@
     },
     {
       "type": "kr",
-      "title": "코스피, 5.28% 하락 마감... 삼성전자 7%,SK하이닉스 9% 폭락 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3NnRVpaQmVGQUdUbXdNaVNYci1TWGk0VURCNEJoUHZLUFQxZ1BmWl84MEs5ZS11X2FrcUtYcm1jUVJmS2M4TXR6RVhQRE9oTVlMLU9tMXVTU1JwbGk5U3laVVlaamJwWUdpRzdzaC12NjFRTHZsbkU5OHdvb05GOFFnY3daYXRI0gGcAUFVX3lxTE5ENFpzWl9xX1hfdnpNeW5nVjg2SmgwMHF1UTJmMHB4NVAwZ3EzRlFtS2RybW9LdGJWTFp3U3Q0U25SUDNMV2pmWXUyQ09uY3hhY1djbVUyN25fQm1VLW9lMmpPcFNBZi11OG5lbkVoc2dBd1dldnp1Yk5jaDllRGJibHJoNExfcFQzZmtoeld5QUQ4dDV3cXNzNlhFdw?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-11-05T07:30:00+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성전자·SK하이닉스, 美 의회 '블루웨이브' 변수에 AI 성장 전략 시험대 - 오피니언뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TMTBWT1IwRFFBMlJ3UmFXRnlvMTFkbHVNOVYteVUzMm1fU05iX2swT2ZhYjBoMk5obi1GU2s5bF9BVnBsTXhhNzlBdkNaNzllMk9CdnhJeWZid3M2V0pFMEYyRDNUdk54eHoxVWQ0SmRsdw?oc=5",
-      "source": "오피니언뉴스",
-      "published": "2026-11-05T06:41:57+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "반도체 투매에 국내 증시 '패닉'…코스피·코스닥 동반 매도 사이드카 - 산경투데이",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVzlXT2ZzYTFLcG9ITE9KSDlNS0tuVXNYU2lVRjNIeUtQYmNHQ2VXcF8zS3c4N3VPTHJHV0xlczhja2lhQ3JIdmk1ME1ESzZUWUlOM3I5OUZlRU50YUJHcTBQSUtmb0RaemlfUjAzRnTSAXRBVV95cUxNQnBLY1lDdmJzMnNUQjRCWWtxRFczVzlGeEVuLWRoUFZfaW8yc0VCcXpRRy1WYnFmRWhxMWdueU0wNk5Cc210LUd5QnI4LVV1dGVfODFEd21vWG5LYkZHTEhzRlFQQ2dIc0VfS0J6RUJHaGg5eQ?oc=5",
       "source": "산경투데이",
       "published": "2026-11-05T06:02:22+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "美 중간선거 여파에 국내 증시 급락…코스피·코스닥 매도 사이드카 - 한국면세뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1raHJ2UlFJMVZuTE1VT2hoQ2QtUnJpN3NneUR1MWQxTjRTZ0tQb2JyTGpOUXZxUDV6NkpHWExpeHRZYWFFM2lTRmJ1LVBUTmcxRDNDS0VZaElOM0g3UHdiLWFyTmZzaERVLVE?oc=5",
-      "source": "한국면세뉴스",
-      "published": "2026-11-05T06:00:50+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "美 민주당 의회 장악…삼성·SK하이닉스, 반도체 35% 세액공제 연장 주목 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NckVBel9NaEJvU1Vsb2J3bWtxZmRjc1Ayb1ZLaGF3aUFJQmtnM0s0X1l3OENsOVYtMGJTUFZ0R2trR1RkQ3YtYU5NSFpNTlM3TmJPWmRYTXNYY2Ez?oc=5",
-      "source": "뉴스핌",
-      "published": "2026-11-05T04:58:00+00:00",
-      "stocks": [
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -409,11 +419,24 @@
     },
     {
       "type": "us",
-      "title": "Nasdaq closes in correction territory on Wall Street’s worst day since April 2025 - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdS01TG9xUDMwWUY0WUgzZDJqekZMZkowRDg2NkQ5SlE2RVJ3ZlE0Vll0VldjODIxeEtLeVJXUE80ajRtMGs2cVA0SUx5cVp3VkdfY0xYdlUtWk56enBJMW16Y1BubGFPTHRuWlRBMERWcGNSLUpsNjF1d2RmOFZMMV9wS3FqQjEyQXhqT1hfNzQ3NU9rZEJaOVBaX1pPREs2ODN1dlRWSEJYMW8?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-05T00:44:04+00:00",
-      "stocks": [],
+      "title": "The Nasdaq-100 Is Outperforming Nvidia, Microsoft, Amazon, Meta Platforms, Alphabet, and Tesla This Year. Here's My Favorite Low-Cost ETF to Buy the Dip. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHVTVGF6UWh0bW5RTmZVRlozWU9KU3J1QURKQXJQMzlRTjA3c0lFQ09HZldGYkNiYkFDYnB5cFVfcWNwempXRl9NUDd5cXpFQy15eEE0OXFGTENYRFVaaVM4dEVzSkhwQ0h0eFRrMDkySHRFUE9hUWxPbjlXVnpsY2VfaGMtVlA4MmhXbmNYQl91cWdxRW9aSg?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-11-04T20:45:00+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        },
+        {
+          "name": "테슬라",
+          "ticker": "TSLA"
+        },
+        {
+          "name": "마이크로소프트",
+          "ticker": "MSFT"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -472,37 +495,6 @@
     },
     {
       "type": "us",
-      "title": "Apple, Tesla, Nvidia shares sold without consent? Indian investors allege ₹100 crore Stockal losses: Report - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaWpjbkV4S1BiaVI3M2U4RUJOR0dWTFppRFAzN0NRUTQwR3E5dnlmdmNrQTQ2NGhVN2d4QkNBWmhaVF9ZNVJBWkl5bF9CNE11X2RDdEtIdXlKS2VmZDh4Zm83aVpFQjBCUjhlc2l0c0w3TzFvZU5vSHFGYnJqd2J5bjRHY0JjeWh3SV9PZERYYjlUa1hkd2RZQzhESzNSTnZvRVFuZ0dybXJ0RFlEc0lkM2tmNUtrY3VTWFdVZ3ltcHR5aUdxeS0yc3RGZUdzbnVhaTJYcXBDUHFNNDZTcGpnWWhlWjlOV3RHUDR5MlhxS3liYW1qVThWYdIB_gFBVV95cUxNTEYyM2tqN1prVWwwNUtfMUkyNFJTNkdqNHAyOVo4MjVLVGRuc2hWVjRKMUhwTjJtS1o2R0F1dUNMVmh5UVpXQ3UxZ0swNlplYmJYWG5QWDZhUFJ4YmVKVGVsbEpUTm8zaUdoSzdWYUNTamdIVTdUR1JHUzhpLVJwTW5yVEdEY3Q4ajVlMXluV2ZfeHptX3NTQ0x0ZWNWaEgxN1pfQjVILWNybUhaQUgxZ1ppT29SZTRBVklBLU9nR2RBRnJmb21NaUZXY3RqbHE4dzgtSFFGWVNyUmQzalhtZ2hjS1I3VHNzS1lzWXJOMmdrTzJvMGhMWnRHdDlDQQ?oc=5",
-      "source": "Business Today",
-      "published": "2026-11-04T05:47:30+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nasdaq, Inc. (NDAQ) latest stock news and headlines - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EV1dRTU5PNVdSWlcybHVJUFpqLUg5VzhINmZnWUlhd1IwaFhvNGZRTUlYNnNBTEN6WjJSNlhwVE45SkpJNjdFbFdzZWM4MmtibEFJYnNQOVc?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-11-04T00:57:16+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Investors Are Fleeing to Apple and Selling NVIDIA and Tesla: Here’s Why It’s the Only Magnificent 7 Stock to Outperform in 2026 - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWlwR2V4RURveTFDTzdKcFl0TGoxLUsycERCMXdxb0owVVhDbTJLVE9VVFZidmxmWjdTRmQtaHZsRTZadHFWM1c1R21SMHdVN2VtUUFDTld3MWJKQzVFNE00YURGRlBldl9HZTZpWURhSXg2MnA2X1hRUFpNS0RzQkpsOTM3QlFUMGZybnZB?oc=5",
       "source": "Yahoo Finance",
@@ -534,18 +526,18 @@
     },
     {
       "type": "us",
-      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-      "source": "Reuters",
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
+      "source": "Yahoo Finance",
       "published": "2026-10-22T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
       "type": "us",
-      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
-      "source": "Yahoo Finance",
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "source": "Reuters",
       "published": "2026-10-22T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
@@ -668,6 +660,15 @@
           "ticker": "AAPL"
         }
       ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "코스피 3일 연속↓·코스닥 소폭↑ - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oVDh6aFpVUWdpZDNna0lFeHpscldsazVPYW1OZHNVS19GUWZucTZpRjZjZEo2YzZ5VUF0aEstVloxVVJrRUpJNnRMSzhLSWk5NWY0bFZ0TS1LUUpNclRVbnZkR0tqQ0tDcHhvRQ?oc=5",
+      "source": "KB Think",
+      "published": "2026-09-30T07:00:00+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -827,9 +828,18 @@
     },
     {
       "type": "us",
-      "title": "Apple vs. Nvidia: Which Stock Is the Better Buy Now That AAPL Has Reclaimed the Top Market Cap Spot? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkVCOFJyOVlLUDhEelRlZ0ppQjdQNTRBd0dZNnllOTl6TmNHXzk2bjUwVDdMYWVJYzI2R2kwRGZSNXRCRXNfSzhMRHdjZXA1MHhaUTRtN1pnODlLVlNZQk1lZnV6RlFqbVhrXy1GMWFmaXpWZm82cUJsWEoxSlZqTTJRRVJfZ05pRjVvT3hEQnJSTldabW9nOXdqYVJSSTN5MjYtQ2sxR2JJX3dENU9YbnFyZzhBdHdDY3lBTFhGOV9VUkFXOFkyd0l0ODFQWFlEbW1fZXNEalo?oc=5",
-      "source": "24/7 Wall St.",
+      "title": "S&P 500 ends higher as investors await tech earnings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkhJQS14Y3d3QkMxeG5XZmR3cldUel9CSk9pdDZrSDFkc0gydEgxSXQ1d0xzTi1OR29xVWEwUjJtV1k4V1p3WlZJeUZCbnB2MzJOYjBHRExWTmVobWlibGFqajlUcWx5emx2M01vYmNwcHlDM2FvYjRwU3o2M0szNVpyM3JwakJyRkZReUMyVk5GUklTWWczOXdFSUcwNkh1clFNVWJn?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-28T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Apple vs. Nvidia: Which Stock Is the Better Buy Now That AAPL Has Reclaimed the Top Market Cap Spot? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTHhueWxXUW5mUjNXa3pra3VOYjM1cWpvQXhVdlRlVVEzdWIzY3l5ZDVfNWZPTnA1Y1dWX2YzT1V6WmJ6UncxTTFqYW50VzdvclRPMlNUcWNNNS1LTWp4WXNDYWdKU0V3MEEzSDNXY0NWWFl6MXlVMERyREdhZ3B4VkNmVzdhSWxSYjJ4bXB2RWViM2RRSVJxRw?oc=5",
+      "source": "Yahoo Finance",
       "published": "2026-07-28T07:00:00+00:00",
       "stocks": [
         {
@@ -881,6 +891,15 @@
           "ticker": "AAPL"
         }
       ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-14T07:00:00+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -957,10 +976,10 @@
     },
     {
       "type": "us",
-      "title": "Here are Tuesday's biggest analyst calls: Nvidia, Apple, Tesla, Intel, Reddit, CrowdStrike, Disney, Palo Alto & more - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1FfYmNqbUVPNDNJbU5fbEVubldSck9UYlBkbmZuRmlkejNOUTZ3cldENVFyU3lpQkhYbzQ5MTlmRE1UV2pyclBIanNKejdrdW9RQzNHclRYU2pWSmFqX0ZCY3Jnc1ZqSW9RbklOTHVDNW9LNFBPM1ItRUpPZ1JFNUlQXzRqTHFDcC1OenZRMA?oc=5",
+      "title": "Monday stocks from analyst calls include Nvidia, Apple, Tesla, Okta - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1RPUVZCSDFzc0N1aGloTHlhcjRVWmE3UTNEY29PWmNPNW5wQ1dFQkEtUVNoV1dtdXhOaVZfM2l6VW1IRDEwVXB3WHI4QVZOQ2RtMUdoODRROUVKVkt0ckozSEFlNDgtWXA0SEpEcWlleHItbEpjWGZIVy1mc1ZxZ0ltMDVlRHZWS1M0bGJQcC1RcWM5dVo2OGEwOS1JNmZoZUZn?oc=5",
       "source": "CNBC",
-      "published": "2026-04-21T07:00:00+00:00",
+      "published": "2026-04-20T07:00:00+00:00",
       "stocks": [
         {
           "name": "엔비디아",
@@ -1083,27 +1102,27 @@
   "top_stocks": [
     {
       "name": "엔비디아",
-      "mentions": 20
-    },
-    {
-      "name": "애플",
-      "mentions": 17
+      "mentions": 21
     },
     {
       "name": "테슬라",
       "mentions": 16
     },
     {
+      "name": "애플",
+      "mentions": 16
+    },
+    {
+      "name": "삼성전자",
+      "mentions": 15
+    },
+    {
       "name": "SK하이닉스",
       "mentions": 14
     },
     {
-      "name": "삼성전자",
-      "mentions": 12
-    },
-    {
       "name": "마이크로소프트",
-      "mentions": 2
+      "mentions": 3
     }
   ]
 }
