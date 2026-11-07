@@ -1,21 +1,48 @@
 {
-  "updated_at": "2026-11-07T08:56:26.427409+00:00",
+  "updated_at": "2026-11-07T10:49:11.451914+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "삼성전자·SK하이닉스 주가 13~19% 폭락…미국 민주당 AI 규제 놓고 충돌, 반도체 호황 끝나나 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MUmR1bWhZaTQxQ1BnNDZIdmpOZy1JOUlHVzlyNGQwRkJqd01rXzhQSkxPSjJRLXowWnBrRy1uY1VBbmJNTWNqd25rMWZRa3hjY0pFUXhSc2hpZThBaExKSzBjWXZXQU9wWjFiMng4b0F2UQ?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-11-07T09:34:35+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "美 반도체 한파에 '삼전·닉스' 급락···장중 저점 딛고 6~10% 마감 - 글로벌E",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UejRDS0JvVkRUMVlPUjNKMGpkemF2RXRBV3pmQ3ZCREF5d3Mwa1pDc09LMG5wZnFKQmN4LXRXMlBtWUNZZWJrb2pfUFVBSWV2YzN2cXRpZDNuQzlQRW9jOVBodXlVbm5kclUw0gFvQVVfeXFMUGpxVHRYV2xfN2dWcWNnSDRieEc1NlVnLVZnNGRFRmJXUDgycV94LXoyblhfVTI0bW1CTGVlSjFSSTREMjZJa3pfbnZfTnpwdXd3cjVCMmdscjJFd05QTkdYNXlneTVnbVIyeWlpUWtZ?oc=5",
+      "source": "글로벌E",
+      "published": "2026-11-07T09:28:13+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "美 '블루쇼크'에 K반도체도 긴장 … 데이터센터 지연시 삼전·하닉 공급 차질, 가격하락 우려 - 뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FLWx6a01NU2JOdnN3RTBkS2Q0T3BjbkRoTGFDWWRlRTVaQWhPV3RiRlh0cWVZWXhyWFhuZnRKcUJVeU9Vb0JCblFERG00SUxiOGprd1ZDRHgwY2Nzb0dLR2VNd2RubkdyeUZpT1pjMTZVSjNvYUpOYlNvOA?oc=5",
+      "source": "뉴데일리",
+      "published": "2026-11-07T08:40:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "삼성·SK 반도체 호황에 경기 지자체 세수도 ‘껑충’… 최대 12배 전망 - 천지일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rZGpJWUp3MVlWbGFyWGZwS0JVX05ldGVzZWh5dmdwNjJBdkFZQ3AtZEQzcmFUU1JWeFhaUEVqTFhtalZxMm9aZ0xZR3hGWmwzdWU2LW0xTXNVUWcwOXJ0SG5OenZKZm81QVE?oc=5",
       "source": "천지일보",
       "published": "2026-11-07T07:41:35+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "반도체 잭팟 | 화성 1.8조·평택 1.6조…반도체 세수, 어디에 쓰나 - OBC 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wb0FraVRKV1FzWTdkYlItdnB2VTVINUVmQUR3dy1RX1RrVzFYYldUdWFxcGJjOE9yNUdvZ1JpTlpFVi00Ql8wUURqN3lWdG5Kci12UXVWTWItVHIwcVZ3SVJpYUhxeTJjdUE?oc=5",
-      "source": "OBC 뉴스",
-      "published": "2026-11-07T06:32:44+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -74,15 +101,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "반도체 훈풍에 기초지자체 '조 단위' 세수 대박 예고 - KBC광주방송",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43dlNEMW9Ga0tvekV4bU56cjdCTEgxdVh5cE5FT2NPTTFidHRESkd1ZVVPTndZN21XUG1XU3VpWjI3WGdkdE5zeVFBTFRZUDhBZ2FfTDVSMGFoQ20wcW5WUw?oc=5",
-      "source": "KBC광주방송",
-      "published": "2026-11-07T01:20:01+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "us",
       "title": "Nvidia, Tesla, Apple Join Revolt Against OKX-ICE Tokenized Stock Market as 67 Issuers Object - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAycVViU01kQ1A3MjVMeHNoWXZFRm9DZnZKSzlFQk5XeDE2eGZhTkwzNFEtSFVXanFJaVhXX3pXek9vcUZkdHRhSlFTZGQwZ2NNYmdaZzJ0WDlQcE5NeWo0ZnJEWFcySkM0NkhtMWZfdjdVek9IVGc?oc=5",
@@ -110,15 +128,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zNDhGdTBwZmhta0Rtby1uX2E4RmdjbFMxUjIxRnFKTzlZa0Mxa01jN0RPaDVGNlFCZjljd283dTR4SVZJUmFnNXVwLXA5cjZ5c3NFWnFJMXNRTWpDenloTl9JWWpWd1A4?oc=5",
       "source": "녹색경제신문",
       "published": "2026-11-07T00:12:51+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "반도체 지자체, 내년 법인지방소득세 최대 약 12배로 늘 전망 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qczdQZ2NSQ1R3LXJmaDFUUEVoZklhdXdmYVA4bldaTkZaUjQ2TWpWNUgtRkliNUY0RF8zRHVwLTFTRFloLWRRNnZaR19MdmtHRE9vUjBCMjRmRnPSAWBBVV95cUxQZnk1akxJR0xVM29RWXZOb0RGTVVUejN6MUhYU00yNjZCb3VzT0NVZVpSa2FtYmZIZTRTZHZvYm9zZngwcm05S1hQUlNJY2NrWjlvQ2FVRndFbGFGWDItVWc?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-11-07T00:09:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -220,6 +229,15 @@
           "ticker": "000660"
         }
       ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Trade Mixed as October Jobs Rose by 165,000— Airbnb, Cloudflare, Lam Research in Focus (UPDATED) - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ3Vkb0FZNXZGVnJiMWtaXzBPeWh6STI1VUMtYmdEeWlQdXgtUzV0SEFyeVFicXFHRjFSVG9FV2RTcHNqNWN3b1c0SXNxSWtYcnI3Mmh4MEppMFdCS3VSVjlGclJCSUxfVVdWdEVkMG5TdmRnLUF3YVlReXVBQlVZdnZVX0hSckpsUHZSX2pUUU50b29EWGxSZjJ1cll5a2puUFNvRlFWRjJha0lYeXlMMnlURTZlRlk0cW5odVd0bWZacGsxU19wbVhkTmhOd2pIbXVnbVd1d28wbWJBazB3TlB5RXBXVm1pWHJwZlVSZkNmV2RFUzdsbm5UdmlkV3AtSmFOSTRIcWNJX2F0cVV3WGYwb1hwSHlNNlRCdWUwMUNSSXpCeDlkMFcwOVpWLWc?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-06T13:39:33+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -715,15 +733,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-12T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "[주식시황]외국인 ‘사자’ 유입에 국내 증시 반등… 코스피·코스닥 동반 강세 - 남도일보",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TZlNpQmp0LTFSRE83MUdMMFIxa2ZyMDJnZDNRbDdtYkZENFVabDRiM09lcWZVU3ltc055X0pwNmdiOHNCaFk0QmtyUGE5cEd1c2FJck5TWW5TNVlwcGRqaHhaTnA5MUViNy1SMtIBcEFVX3lxTE1nNVNpS2NXTzdZeXFFRGRBMHk2dkt2dHNoX2t2M1pSVUcydnBPdi1JSkdvcVhOdDZQVXB0bEZWZ29USVhUUFJYX25oeDZ1SjB0aGx1NXl5bWMzd0RRZ0hGME1mcDJDSHRjVkMwX3FpZzQ?oc=5",
@@ -1048,11 +1057,11 @@
     },
     {
       "name": "SK하이닉스",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "name": "삼성전자",
-      "mentions": 9
+      "mentions": 10
     }
   ]
 }
