@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:49:11.451914+00:00",
+  "updated_at": "2026-11-07T12:55:51.496788+00:00",
   "articles": [
     {
       "type": "kr",
@@ -61,15 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85eTEzQVhIaEh0d0lwNzhSYXZ1Z2VMbzZwdE9sV2FVV1NwS3pqejdyWHNsWXVwM3VZUGQ3anNnNGpkbHUyRjZOX0tiRjZvdHBtcW5sX2xvNHQ0OEd1V2wyUUdwcmtlVjJ3bC1JUw?oc=5",
       "source": "한경매거진",
       "published": "2026-11-07T02:41:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "“주식 더 떨어져도 좋아?”…20만전자 무너졌는데 “손실은 주주가 떠안나” - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yTllETWkzUHFQZzI0djJ5WHVNWmpsMlhfbXVIYm1EbndyYUlMQnRDYlk1MkJyeUtoQlVqNVRFelA2dkY4c09sZlN1ejdTQQ?oc=5",
-      "source": "전자신문",
-      "published": "2026-11-07T02:40:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -238,6 +229,24 @@
       "source": "TradingView",
       "published": "2026-11-06T13:39:33+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "\"퇴직연금 1억 녹아내린다\"…삼성전자·SK하이닉스 폭락에 개미들 패닉 - 진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaeVgxbUJ2emczRVo5bGY5MVdaaGxLcS0wYUVVY1V6Wm52aXRidHhSMV9PQXZ3dXNkaExGTU9NUGRfREs0X0ZXSU15OWFiclQzMFppRENJZjU0MmdLNGhPTThDRm02SEtjV0FGQTVENA?oc=5",
+      "source": "진일보 | 전남일보",
+      "published": "2026-11-06T07:08:19+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -494,8 +503,8 @@
     },
     {
       "type": "kr",
-      "title": "증시 또 '검은 목요일'…코스피·코스닥 7% 넘게 폭락 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veGJKNEpqbGxfYnZiTlo4ajBwYWRJcy1WaThaWEo4VXdnVnlfUE5LZG4ycUd2aW1VTkJHUEFxY21UYTZONnVNeXNpT0RPSFJ5MlBpZXJCdEZaQQ?oc=5",
+      "title": "\"계좌 보기 무섭다\" 또 패닉…코스피·코스닥 '동반 서킷브레이커' [종합] - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWE1kNnBBOHU4NXVOd19VbVh1ZGVSZkZtekd1T2hfZUxlZHdqMHhNWlI2MS1OMVBqT19UTURHWWY2SExTSk56Y0Nlb1Z2MUJKTFo3SGx1WjFJZw?oc=5",
       "source": "한국경제",
       "published": "2026-10-15T07:00:00+00:00",
       "stocks": [],
@@ -561,15 +570,6 @@
           "ticker": "AAPL"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-06T07:00:00+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -729,6 +729,15 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43UGx2Q0MtdGlLR1BsTmlNeEVOVXhibk1Hd1M5Ynhxby1jejdYbU9vUC1UaWZVLTQ5S3NlZDRtQTBjNVZVbFRvUjN3Qmd1ZjU0SDd0YnJzWHY5QktkQlhiX1I4enBvQS0w?oc=5",
       "source": "CBC뉴스",
       "published": "2026-08-17T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-12T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1052,16 +1061,16 @@
       "mentions": 18
     },
     {
+      "name": "SK하이닉스",
+      "mentions": 13
+    },
+    {
       "name": "테슬라",
       "mentions": 13
     },
     {
-      "name": "SK하이닉스",
-      "mentions": 12
-    },
-    {
       "name": "삼성전자",
-      "mentions": 10
+      "mentions": 11
     }
   ]
 }
