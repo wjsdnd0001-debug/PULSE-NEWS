@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-07T18:50:17.799731+00:00",
+  "updated_at": "2026-11-07T20:44:09.203326+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "[美선거 산업여파] ① 텍사스도 블루웨이브…반도체 공장 보조금 변동 촉각 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LSDJldnE5N19jdTNSUW5vTjR3aG9ud0NZUmdSbV82dXItUlZnN2RiSktfZlhyZFVvZmx5RUxIRmxyNUdMdTdGRGd6NVo4RlNlN2c?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-11-07T20:31:10+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "외국인 반도체 3조대 팔고 SK 집중 매수…기관·개인은 삼성전자 '픽' - 뉴스투데이",
@@ -98,15 +107,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ca0lwd2dDRGNuZk5QM0h3MWZTMWFlcEFocWdiN1MyTFRYRHJkSzVCeDZVYnQwVlA2NVFBclROM3VtSmZvZFVoV3lMWnM5OUR0cV9kdmJVNlFCSHlHNDg0?oc=5",
       "source": "조세일보",
       "published": "2026-11-07T02:51:08+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성·SK ‘땡큐’…경기 지자체 세수 최대 12배 폭증 - 한경매거진",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85eTEzQVhIaEh0d0lwNzhSYXZ1Z2VMbzZwdE9sV2FVV1NwS3pqejdyWHNsWXVwM3VZUGQ3anNnNGpkbHUyRjZOX0tiRjZvdHBtcW5sX2xvNHQ0OEd1V2wyUUdwcmtlVjJ3bC1JUw?oc=5",
-      "source": "한경매거진",
-      "published": "2026-11-07T02:41:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -766,6 +766,24 @@
     },
     {
       "type": "us",
+      "title": "Apple vs. Nvidia: Which Stock Is the Better Buy Now That AAPL Has Reclaimed the Top Market Cap Spot? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkVCOFJyOVlLUDhEelRlZ0ppQjdQNTRBd0dZNnllOTl6TmNHXzk2bjUwVDdMYWVJYzI2R2kwRGZSNXRCRXNfSzhMRHdjZXA1MHhaUTRtN1pnODlLVlNZQk1lZnV6RlFqbVhrXy1GMWFmaXpWZm82cUJsWEoxSlZqTTJRRVJfZ05pRjVvT3hEQnJSTldabW9nOXdqYVJSSTN5MjYtQ2sxR2JJX3dENU9YbnFyZzhBdHdDY3lBTFhGOV9VUkFXOFkyd0l0ODFQWFlEbW1fZXNEalo?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-28T07:00:00+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        },
+        {
+          "name": "애플",
+          "ticker": "AAPL"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "Here are Monday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, AMD, GM, Ford, Rivian & more - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmF3QzN0ZFZRMDNwUUVkdjRDYzBCbVVMUTRxQU9odEhWV0FRTzU2dVo3U01WeVJwNjl5X0Fhd0VFUWpnazEwOXlCM3VvWU9DZUk1ek0zNFNKbTFhUGowZnhWYmlHc0VIQURabWNUdW5YSXZ4YzdHNmN4ajhkMENjX0Q5eExDQllE?oc=5",
       "source": "CNBC",
@@ -855,15 +873,6 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjluWjNOdGZuYndpR0lTLThCLUx1UFYwaElxZFBIQmZSZjM5YWFJekxqdmhGU3lZVENKYkdSTGxjRzJ3eVhnSlZFelVyYUhPdG4yMHQ2ZVRINjh2TlZYRG1ZR2FWN2tnMExQRnRKYVo1ZTNWNlEyUE96NUJLcjEtcnpOSkpyU2E4bFRranlybjlwbFV6c2V5X0toYnU5ZWVJRDJyUElhRWtnMmM1YS1EX2xMV3dDbHVPVEVJcV8wNkoyTjBUREF0ZE02SlhXNVk?oc=5",
       "source": "Reuters",
       "published": "2026-07-10T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Best Investments Over the Last 100 Years? Almost All Are Tech Companies. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2hnNmFnZlBldWxlYmRFVFVpQzJWRjM0eUpERE9fN0VIbWI2Rm1icmpNN2MwbnA4R29yT0E3WWs5VVpDbVVjQXVjZEE4anFWVHRTUUJOZE0wb1NfM1I2Wl9Ld2tUVkJ4QjQ2SElZQldZUUYwU1YxQnBEam80ZVctXzg2MnpfM01jZHB3STNOa252QTFadUFGbGJTMA?oc=5",
-      "source": "The New York Times",
-      "published": "2026-06-26T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1045,11 +1054,11 @@
   "top_stocks": [
     {
       "name": "엔비디아",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "name": "애플",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "name": "테슬라",
