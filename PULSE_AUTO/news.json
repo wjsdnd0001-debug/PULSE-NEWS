@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-08T02:56:53.793749+00:00",
+  "updated_at": "2026-11-08T04:57:45.413878+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "[한국증시 전망] 코스피 5,000선서 반격 나설까…삼성전자·SK하이닉스 반등과 미국 CPI가 가른다 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02ZEZjdDliRHZub2hnNDFSdTg2ZjdxSGdPSDFpc25KTTNUdVFJVGdWSGJxbVppUkZGMWpVaVR2VUlFbkdXSVFiTXNUdEFnQzY4cWt4cjRGMk11aFBLYVVtT2RNaWVGLXNUNUx3QlZHakttdw?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-11-08T02:57:30+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "이러다 국장에 개미만…삼전닉스 7.6조원 판 외국인, 보유율 ‘뚝’ - 시사저널",
@@ -71,20 +89,11 @@
     },
     {
       "type": "kr",
-      "title": "삼성전자·SK하이닉스, AI 규제 우려 직격탄..외국인 한 주 새 7.6조 매도 - 한국정경신문",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pY0V5bUE2QVlvVGxBOVEwUndrUVZDcWlGQWRIRGp0X0hacEZoSG11NmEyR3g5MmU3MnpKSFRsVW9nSmRqaGU4SENUY0pjS3hyZnc?oc=5",
-      "source": "한국정경신문",
-      "published": "2026-11-08T01:01:57+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
+      "title": "전남광주, 반도체 국가산단 유치 총력…삼성·SK와 투자 협력 가속 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yYk9hM2RoVFhpYUVVR0dVbFE3WmI4QjRCbkQwdGxsLTdLTnpBa21XWFp2OF9NaEdJVjJXQ1ZVM0UxMS14cTdRc0drc2xHaEhNVWc3YWJzbkpzMDk1WTFkdXVxV0N5WmRJdGVmNUV3?oc=5",
+      "source": "아시아투데이",
+      "published": "2026-11-08T01:23:38+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -188,11 +197,20 @@
     },
     {
       "type": "kr",
-      "title": "'블루 쓰나미' 증시 덮쳤지만…K콘텐츠·통신주는 웃었다 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tYzRWNnJwMHZHc0NXQWpDcE5ZT0thR1BYM3hUa1F6U1Q5cHBPVFBsTThsemVIbmFiSndYSUpTdW1qdmRzUjQ0OUJxNVFGLUQ0dm5kSFN1UWRJMFnSAWBBVV95cUxOdmJvYmJpN0l6WmZwSGtmMlZoX1BYUGtWZ3NJam1YdG5jT0c5aktXRDRhYXI0c2drVmRlc0pjckU1NE1yR2JzdmVibU1NM1RybTRCeXE4RmNDWEtTeTBOYTU?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-11-07T21:15:01+00:00",
-      "stocks": [],
+      "title": "외국인, 삼성전자·SK하이닉스 7.6조 순매도 - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xbUs5anFGRGZ6bmhXdkRUb0tGcUlOS0s3SnJ1cmE4a3NpN194dS1qU0s0NXVkaDJCMUVrdTZ0WFgzc1AzQXphNlBGZ0ZRS1BiTGcwWDB1Wlo3UQ?oc=5",
+      "source": "경북매일",
+      "published": "2026-11-07T21:15:00+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -225,15 +243,6 @@
           "ticker": "005930"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "\"반도체 슈퍼사이클 올라타자\" 삼성그룹·글로벌 메모리 ETF 2종 출격 - 더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ha3RWYkUtblFTZzRGVUxwUmRISFBNaGsyanFrbWE3a05UT0xlMVlBMEN0TzlPLXlUUV8tc1BJUmZEYmx5YVlKOWZVWENCSlFOQWtLMnhIbXJ3UTJXQnczUE43cw?oc=5",
-      "source": "더구루",
-      "published": "2026-11-07T15:00:40+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -1060,11 +1069,11 @@
     },
     {
       "name": "삼성전자",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "name": "SK하이닉스",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "name": "마이크로소프트",
