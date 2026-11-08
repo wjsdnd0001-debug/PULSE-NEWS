@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-11-08T07:05:29.334934+00:00",
+  "updated_at": "2026-11-08T08:56:40.040519+00:00",
   "articles": [
     {
       "type": "kr",
+      "title": "삼성전자·SK하이닉스서 외국인 '썰물'…일주일 새 7.6조원 순매도 - 메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tRGtTMUdHUkhsRzJBOUpNMkc0VV9WRktnWXJpVVJjU2hKbnAtWjhtZFFWeFpUR1hqWExTeklsV2lpbUZuZmtsWFl6NVBCMV9RRHViTzJYY25jQmpMSUhTUTN3MzNVb1d2U2pMMA?oc=5",
+      "source": "메디컬투데이",
+      "published": "2026-11-08T07:48:38+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성·SK하이닉스 현금 329조…반도체 양강, 투자·주주환원 경쟁도 커진다 - 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52Q1BzMG5YeHJacDdQcFFsS2p3Q3BGeUNia1R6aUVJVnd1Zm5CbHJMWFBUbGVsZVVwWGU1d1JEMXdyWm9iUjlZMVlDelZsNVdlMkpVbHJn?oc=5",
+      "source": "중앙일보",
+      "published": "2026-11-08T07:22:35+00:00",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
       "title": "외국인, 일주일 새 반도체 투톱 7조6000억원 팔았다 - 강원도민일보",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FMjJsVU43NmtCbE1JTUJpMGpKYVhDdVRtZDB2TUJBSUNSZlVMUVlLbUVGNlVLV2xQdWRlcDFQNU42Q0JFS2Z4ckczcjdnNmREbTZ4WG1PeGI0TlhHaTA4S0xPalhEYXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wWFIxZ2VlczlUdDNsTEs1NEdYR0NfTjhRRGw4VnlfeDUzQ0hZSkNxT3J5VFExa2hEdUlRV2l4MnZRYUk1enczZ2tpblJUdFVoYjJyS2ZmTDVFU2dHWEJLZkJtN0NwRmVB?oc=5",
       "source": "강원도민일보",
       "published": "2026-11-08T06:44:08+00:00",
       "stocks": [],
@@ -48,15 +80,6 @@
     },
     {
       "type": "kr",
-      "title": "반도체 대장주 폭풍 매도한 외인…삼전 보유율은 금융위기 급 추락 - 산경일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YYkJYSG1jOWNvNUY1bkE1TUI0R1F6VnhBeHIxa2MtWEdtX0NZWnpZc0MwN1psdy05ZVh0T2RzRjA2RHFaeDhvSlNsMWRuR1N2MkhNQ3FtTXRETEZWeDZ5SVRja0txTV9JOU90aTlPUGY?oc=5",
-      "source": "산경일보",
-      "published": "2026-11-08T05:58:04+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "외국인, 반도체 투톱 7.6조 '팔자'...삼성전자 보유율 17년 만에 최저 - 펜앤마이크",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUzlWZUxNTjF5dHJlemg0UE1QRFp6QVI4WWUxZXBENmI2WktFcGhRVHNoUjJxRG5XX1k2cDhvWG16S0JHTFlJb3YzYU82MUpQRVNEWUhQRFhyaEdQWDVQTG5vTnNoUkRQQXFV0gFvQVVfeXFMTjd1cHBRU2FlY0tDd3dsdndrRi1OSHpTdUdsbkRFRVJqWnV4X2NaWDkzQmJvMER6MUdkNE0yYVVoTUs0SGFRUlN3RUtOaDdPbWcwT2pJS09oZ1BaSWw1by1fOFc3S0pGX21YdjBvM2xr?oc=5",
       "source": "펜앤마이크",
@@ -81,6 +104,15 @@
           "ticker": "000660"
         }
       ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "이 정도일 줄은 몰랐다…“땡큐, 삼전닉스” 반도체 덕에 역대급 ‘돈벼락’ 맞은 이곳 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oZXFGM0ZETG8wZFE4X01yaGE4Mm83WFZHVXFwMl8zZEtHTkRRbzA0VDlhcmJLRmJlZU5kZ1c0WGxOdlR4Skg1Z19ibl96WHJXUlHSAVNBVV95cUxPLVRkNlplZnNGSFlnVmZUM3VfLVNRTF85dERsSHBRUVlnUS1oRWcxaFg4eVhHMDZJUUhsaEY0ZXJyU1otY0RnRG10MmdoTTR5bWlITQ?oc=5",
+      "source": "서울경제",
+      "published": "2026-11-08T03:52:42+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -243,15 +275,6 @@
     },
     {
       "type": "kr",
-      "title": "반도체 호황에 기업 여윳돈 넘쳐…고액 예금 1천조 육박 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pLW5hYW5uVkxjVkRQbjcxWG81bl9rTnU1TDNnYUc3WHFNYTFDVVp0TFgzM3JmYUljNndNOTNocEJvb0V3cUE5djBUcnI3Z3lKWjlKTno0RFVTN3M?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-11-07T20:47:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "외국인 반도체 3조대 팔고 SK 집중 매수…기관·개인은 삼성전자 '픽' - 뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fYUhId0tvcGh5WEdjdFFaLXVyQ1pYdnZ5NXNQaGdYc1lOU2llcElITklFRHlQcVdfWlluMmxvdkN0eG9GZzRjZUhoNlNhOFg5MmdPQTBmb0NEN0U4R0E?oc=5",
       "source": "뉴스투데이",
@@ -260,24 +283,6 @@
         {
           "name": "삼성전자",
           "ticker": "005930"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성전자·SK하이닉스 주가 13~19% 폭락…미국 민주당 AI 규제 놓고 충돌, 반도체 호황 끝나나 - 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MUmR1bWhZaTQxQ1BnNDZIdmpOZy1JOUlHVzlyNGQwRkJqd01rXzhQSkxPSjJRLXowWnBrRy1uY1VBbmJNTWNqd25rMWZRa3hjY0pFUXhSc2hpZThBaExKSzBjWXZXQU9wWjFiMng4b0F2UQ?oc=5",
-      "source": "톱스타뉴스",
-      "published": "2026-11-07T09:34:35+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
         }
       ],
       "sentiment": "중립/불명"
@@ -315,28 +320,10 @@
     },
     {
       "type": "us",
-      "title": "Stock Market Week Ahead: Gear Up for a Major Inflation Update and More Earnings Reports - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamRUdnJPazQ4Wm9yRGdvRnFSRHgzR0Q3MFlrMXp2U2hhTTlKN0Z2ZTRJQWk4VmZkNlRMNFJfZUtPdmdOSmc2SVdESVMyVlNMLVRwQWxhaHZ6MG1heUhqaW1NNWNPbjBKSk9heFFkbE5NQnRJZTRNa0UzR090X0xBajE3WW5NTWZXZ0VFWVZSZWptZXhBOE9XYjhyamYxM0g2Q0JfRm5EZ3VtM1locVZNVFl4Rm1heHc?oc=5",
-      "source": "TipRanks",
-      "published": "2026-11-06T19:51:24+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "US Stock Market: Nasdaq rebounds as Dow falls after $3 tn AI selloff - Beinsure",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LR09uSUkwWTRSUmlqN3BNN3Vyek9heXVaOHNpQzdhcWNmMXV5c2xUZU9hcllITTBrd29MVnRScXNRdUtDU3JZOUJZTkc5Y3UxVjdvYTEwTzdMaHdoNG9OTXhIWEpZTjFkWUFfWW12TVVaVTVQSFBENDZiNA?oc=5",
       "source": "Beinsure",
       "published": "2026-11-06T18:15:42+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nasdaq 100 Rebounds 2% After Worst Day Since 2020, Payrolls Smash Estimates: Stock Market Today - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYl9qT0UyMjZvWkcyR2dVVUlENUVjT1UtTXQ1THNZd2VsX19tV29DWkk0UXo4M3FIUkE4R1FWS2FsbmtvNTBhdFNFYzNUcEd2NE9QRXpyZ3BEX2N2NGdqNGV3YzZlRlp3eHp3cHJYSE94bU40djBzWDZkWWYwZE1PUU1XbkoyM00zU3B4SkFQZHFreHUyamt5cFg2VUJRVmNWM0FwUjkza0VfNE9ZRGw3eG5vT21OS0ttWWJnTmV3YU4yVGgwX0F0Qlp4OGhNaF9uamV3MG5wZTFQLU44SU14YnVCc1B3UQ?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-06T17:38:16+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -711,6 +698,15 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-12T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "[주식시황]외국인 ‘사자’ 유입에 국내 증시 반등… 코스피·코스닥 동반 강세 - 남도일보",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TZlNpQmp0LTFSRE83MUdMMFIxa2ZyMDJnZDNRbDdtYkZENFVabDRiM09lcWZVU3ltc055X0pwNmdiOHNCaFk0QmtyUGE5cEd1c2FJck5TWW5TNVlwcGRqaHhaTnA5MUViNy1SMtIBcEFVX3lxTE1nNVNpS2NXTzdZeXFFRGRBMHk2dkt2dHNoX2t2M1pSVUcydnBPdi1JSkdvcVhOdDZQVXB0bEZWZ29USVhUUFJYX25oeDZ1SjB0aGx1NXl5bWMzd0RRZ0hGME1mcDJDSHRjVkMwX3FpZzQ?oc=5",
@@ -864,6 +860,15 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
       "source": "Reuters",
       "published": "2026-07-14T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Wall Street ends higher as investors turn to earnings season - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjluWjNOdGZuYndpR0lTLThCLUx1UFYwaElxZFBIQmZSZjM5YWFJekxqdmhGU3lZVENKYkdSTGxjRzJ3eVhnSlZFelVyYUhPdG4yMHQ2ZVRINjh2TlZYRG1ZR2FWN2tnMExQRnRKYVo1ZTNWNlEyUE96NUJLcjEtcnpOSkpyU2E4bFRranlybjlwbFV6c2V5X0toYnU5ZWVJRDJyUElhRWtnMmM1YS1EX2xMV3dDbHVPVEVJcV8wNkoyTjBUREF0ZE02SlhXNVk?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-10T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1074,7 +1079,7 @@
     },
     {
       "name": "SK하이닉스",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "name": "마이크로소프트",
