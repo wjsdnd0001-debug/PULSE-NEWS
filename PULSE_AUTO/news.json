@@ -1,6 +1,47 @@
 {
-  "updated_at": "2026-11-09T07:32:08.084071+00:00",
+  "updated_at": "2026-11-09T09:18:57.181674+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "“반도체 개발도 AI 전환점”…삼성·SK·LG 제조 혁신 - 뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HbEp5QkE0Ty1LSnl4bTJWb0JuS1RVRFBFdF9MWTN3S1lBM3NTZ25DU1hMMDdLeFA4Z2VFd3lQdXBudC05aThhYU5JaERWMXBPR3NrSnVwdnRTOGRrOG9ISw?oc=5",
+      "source": "뉴스토마토",
+      "published": "2026-11-09T09:04:44+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "뉴욕 반도체지수 4.21% 급등에도…삼성전자·SK하이닉스 상승폭 제한 - 뉴스인",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0OEJJRTFkelNQQm9rcXgxQjFWdkx5SWloQnlKU2xnNlo0dVZpWFQzTlpIR0hGY01VOTNFYVhWUkdHOXNVRDg0ekxySjhwQmItUlhxT3Btb0k1bFNWVzRCb1Fnb254b0I4QUIw?oc=5",
+      "source": "뉴스인",
+      "published": "2026-11-09T07:31:05+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "‘반도체 깐부’ 젠슨 황 공작 의혹…삼성·SK하이닉스 협력 영향 우려 - 강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vWlRMUWxINWQ0MDNCaExzTk05OHFKUFVVdWYxZUl6WklyQXgxazNmUE5wMVd2Z011elhPX1R3TWxFRmNacDRwcmxSTDdYZTAtS29ZbE9YUnZfQnZYVDRxSzg1MzhhR2s?oc=5",
+      "source": "강원도민일보",
+      "published": "2026-11-09T07:25:23+00:00",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "'HBM 기술통' 삼성 이어 하이닉스도 미국총괄에 기용 - 코리아리포트",
@@ -56,11 +97,11 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "엔비디아가 부른 TSMC 'D램 개발'…삼성·SK '메모리 3강' 흔드나 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wbnByU2hHcnIzX091SUN1eXY1UUFsVW8xcldzakJxN3cxcFdRbEtrYU5seDhHa2l1VWhhVnQ1VmRQN01BdzhyTGptV3lkQTdaVEJyWF9fU0JsMmhU?oc=5",
-      "source": "뉴스핌",
-      "published": "2026-11-09T05:30:00+00:00",
+      "type": "us",
+      "title": "US stocks face volatile week as AI selloff, inflation data and tech earnings loom - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT1dxQ3pucFRvVXNjUzljU01vY20tNnhLUzJKMmV5ZUZiODUwTTlnUWtuTXlfT240WGExZU9XSURlTjZOb0lETlJPb0F6bXJtcTdiNE50bGxSMGhURENjb0FWQ3FnS19TU1lRSUZzRW15ZnJDS2JGaVJYeXJGZjFQWGdpUHY4ZnR4ZHNQVHZRTUJzZ0QzOE5MM3hwVmtRMGpVeldYSGhwZ3BvYXhHWTNoSHNSM1hRSVo3bzNNVXFJNG15ZDZ0eGVIRW85NmRfYV9nRHhKNWtZaWpBUGZLTURTTlQxaTViTHZHZmhpa2hB0gHzAUFVX3lxTE9iQ21mZ2NvamJIbF83bHBXMFFuU0l3Tkl0YWJFWmUxU0QxSTZhLW55b19UTk95Q2NoeU9ldXlfNG0xcG5aRU5DT2xGM2VPMHNzVjNtRDJGU3NDOGl4ekpJRUhhNENsc1NoQTJOTGVlaXhLVTYwNDMtNXgwNFNQckFOU2RiN1pwaDZmMlMyeFFJWEVfdFhTWXZJcFdsbEc0cUFwb0RReVZrS1hNQ1F4ZVJzX1gwclFhVDF0RjhETVBzY0FyMWt4LW9IVEtnS0NoMGtTUmIxamFJYUxhbXRLVm9SaGhNWm10dXFOV0ItTG1Hem11Yw?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-09T05:23:08+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -143,24 +184,6 @@
     },
     {
       "type": "kr",
-      "title": "TSMC 'D램 시장 진출' 가능성에 외신 회의적, \"삼성전자 SK하이닉스와 협력으로 수혜 충분\" - 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52T3F0eVc1WVpSTUJ5UWJIQ3VGbnM2RTRtRHZGY3ZkeHhreHhRR3N3cnZkZklxdWI3U0JxY0l6RmluallidXpSVTdHQm41dk9oT2xwQUZyTXZOSzQxVkd1QUJYbUtONXh1alNVNjN6WFpBckU?oc=5",
-      "source": "비즈니스포스트",
-      "published": "2026-11-09T01:20:04+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "[특징주] 저가 매수세 유입에 삼성전자·SK하이닉스 반등 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tZGdsYlROZGdsUTlpanlGWVVVUDNic3J1R1JWeXFkOEp5TWhRTEUzNjh2MjUwWlUxT0NGckREc2QtWkkwYmw2TmZMR081N1pUNktFcXZwY3FSZFNv?oc=5",
       "source": "뉴스핌",
@@ -209,20 +232,6 @@
         {
           "name": "SK하이닉스",
           "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "美 반도체 반등에…삼성전자·SK하닉, 장 초반 상승 전환[핫스탁] - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FUlVlTTRXSzBTS19WMGhIX0VKNEZ4TGlkaElMNnY4U3VsTkNjUjFEaG5wYURtZWJuLXZNMFBRcXVXVVFWOVdaUnBRNjNZWkVXUVJyR2F5cFZNYzl3WnIycNIBeEFVX3lxTE5KTXliY3Z5cmMtTDloc2VhVVliUVd2bHhXTklOWUJzRVhZdHVBR1g5b2VBM0dhY0R5NU0wczBQTTJrZlZVRFFTQ3FFNXlBeWpKNVBMOHFVTEd0dTZFSldmYlF4NG1UU05aMXlndkpDUG1YNG1iRGpTZA?oc=5",
-      "source": "뉴시스",
-      "published": "2026-11-09T00:23:55+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
         }
       ],
       "sentiment": "중립/불명"
@@ -292,15 +301,6 @@
     },
     {
       "type": "us",
-      "title": "Why Did Saia (NASDAQ:SAIA) Surge Despite Flat Revenue Growth? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeDZtUVFoVU81dFNUTDNncTNvamExZU0zR2ttRjVFc1lzUDRDenlOX1lJOVNxZnNqaHo5Ym5RaHNTd0tOSHRRdmw3MVpqM09YYVZGU2NyN2xGNFZ2SkVySFA0ZklHNFF1LUs1YW5VXzlURGNWMzJ4LVpRWWVIVDVxNHFuYXpVYUIzd3QzX2N0cXVIRVA0eFEzR0NGRjllZm5G?oc=5",
-      "source": "Kalkine Media",
-      "published": "2026-11-08T17:03:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Earnings Volatility Watch: CoreWeave Reports Into an AI Rally Test, and Options Expect a 21% Move - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1N1dHhkNlBtRFdvQXZoX0hubzBzUW1PeElUN0pyZDcxREx6U2lRZFRIM3VUa3NBOEEyOWxDTGZITTVaeTBSTEg1eXR2dmV3STRPdE9XVGctVUxuTDdoemFpSkYybk1ERWlTTG53VS1pbExabDR4OXZBSHZMcVJfb3g5VFBGOC1LeFhNN0pyTVRzWHpLZDdJY2c4Y201NEh3ZDJsNUFVRHdUOUg3N2FZaG9rZjBDbDB0Z2JzWA?oc=5",
       "source": "Benzinga",
@@ -328,15 +328,6 @@
           "ticker": "AAPL"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Palantir (NASDAQ: PLTR) stock price forecast: Wall Street sees upside despite 25% decline from October high - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUEliVVJ1SGE4a24xTnVENUgyUzV5SWhSMmF2dS03UlNHN01BNDZnQWxCemV3VVVka1hOeGxLTlFXYkFxSEVyUE1qNDFLMWl1UUE5SUNGM1loNTJ0SDZkRXo2LXV6cUk4ajFCaGVNNU1MUmxURlV4Y0p0VDA1cXRjZDFKSTJaaEE?oc=5",
-      "source": "Beinsure",
-      "published": "2026-11-06T20:00:42+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -493,6 +484,15 @@
     },
     {
       "type": "us",
+      "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-06T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "Nasdaq notches record high close as investors focus on earnings - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV09jSm4zWHp2ODd2SmNPRHdJcUhDcjNzZ3dwYkwzZ3NSVHdyVUdUVEI0TWltb3RKQUZucVVNa2l1UzAxWmtSd0hQSWFjVXV0WVZiUjJFNGJDeEZQVlhoWDJ5WWpxLWxuc3ZVYXBLR0QxSzdZMVFjSklpUTB2Q2YwdE12VFl0bUw2RGRjZ3VoUmFlMkp4UUstYy1R?oc=5",
       "source": "Reuters",
@@ -639,6 +639,15 @@
           "ticker": "AAPL"
         }
       ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-24T07:00:00+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -839,15 +848,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YSGk5Yl9KLV85VjV3WFVGREhiWm8tRzZMNUVKWmk1NnJPM0YxVklORUtoczJ5bVNkdGdxbWxtQWxxUFpEUlQ0U0JEMEUxdTVhUVZtWGFTYXoteERZRktJeV9aYm04dVA3ZmI1U2NWQzFRenByc0E?oc=5",
       "source": "인포스탁데일리",
       "published": "2026-06-08T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Stock market returns for 2026: How are the S&P 500, Nasdaq and Dow performing so far? - Chase Bank",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWRtd0pvM3pzSTNtZVo4UWVZbk5mYWIzRTBPaTljUlU0ekhSSUJLR1gtZENUSmxRWURrREpQSXNZekFmMjRMV3JHc21nTjhlcDVYT0lWQVhubVZEWnd2ekM1QjlCN3h3NlJJMnlfVkVyMTdtcnV2MDJaUXVIWVR1bjN1RGljd3NGdmlRd1hKdWhvUU8yWEk5VGJXSnJONF9ZcVdGWg?oc=5",
-      "source": "Chase Bank",
-      "published": "2026-06-03T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1101,12 +1101,12 @@
       "mentions": 17
     },
     {
-      "name": "삼성전자",
-      "mentions": 12
+      "name": "SK하이닉스",
+      "mentions": 13
     },
     {
-      "name": "SK하이닉스",
-      "mentions": 12
+      "name": "삼성전자",
+      "mentions": 11
     },
     {
       "name": "마이크로소프트",
