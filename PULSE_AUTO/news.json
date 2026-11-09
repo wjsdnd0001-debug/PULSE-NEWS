@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T18:59:28.903791+00:00",
+  "updated_at": "2026-11-09T20:57:45.159219+00:00",
   "articles": [
     {
       "type": "us",
@@ -76,15 +76,6 @@
           "ticker": "000660"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "젠슨 황 논란에 中 반도체 제재 강화되나…반도체업계 \"삼성·SK엔 기회 될 수도\" - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qVHFhMk9wTGdfUmxMSUlDcGdYQTJublJRS3FKUHEzYmU5d1pDby1MNnZNdjUtRmlwblE1dEtwLXBwZVFnNFdMd25EOA?oc=5",
-      "source": "아이뉴스24",
-      "published": "2026-11-09T10:42:58+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -206,6 +197,15 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "US stocks face volatile week as AI selloff, inflation data and tech earnings loom - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT1dxQ3pucFRvVXNjUzljU01vY20tNnhLUzJKMmV5ZUZiODUwTTlnUWtuTXlfT240WGExZU9XSURlTjZOb0lETlJPb0F6bXJtcTdiNE50bGxSMGhURENjb0FWQ3FnS19TU1lRSUZzRW15ZnJDS2JGaVJYeXJGZjFQWGdpUHY4ZnR4ZHNQVHZRTUJzZ0QzOE5MM3hwVmtRMGpVeldYSGhwZ3BvYXhHWTNoSHNSM1hRSVo3bzNNVXFJNG15ZDZ0eGVIRW85NmRfYV9nRHhKNWtZaWpBUGZLTURTTlQxaTViTHZHZmhpa2hB0gHzAUFVX3lxTE9iQ21mZ2NvamJIbF83bHBXMFFuU0l3Tkl0YWJFWmUxU0QxSTZhLW55b19UTk95Q2NoeU9ldXlfNG0xcG5aRU5DT2xGM2VPMHNzVjNtRDJGU3NDOGl4ekpJRUhhNENsc1NoQTJOTGVlaXhLVTYwNDMtNXgwNFNQckFOU2RiN1pwaDZmMlMyeFFJWEVfdFhTWXZJcFdsbEc0cUFwb0RReVZrS1hNQ1F4ZVJzX1gwclFhVDF0RjhETVBzY0FyMWt4LW9IVEtnS0NoMGtTUmIxamFJYUxhbXRLVm9SaGhNWm10dXFOV0ItTG1Hem11Yw?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-09T05:23:08+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "코스피 5150선 회복…삼성전자·SK하이닉스 반등에 상승 전환 - 뉴스인",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9veHNzV0dtcHVKOVFHSE45VDBQbkhQUC1ENEx3RkoyYXNMZW9Kd3gtTnRxSTgzQ2t6VFFPb2dPQ0o0SUxkM1FTdXNVQVpRRVJ6cDltaEljM1d0c1pFNUtscDN4MWFkWndmby13?oc=5",
@@ -271,6 +271,24 @@
       "source": "TradingView",
       "published": "2026-11-09T03:34:00+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "美 반도체주 급반등…9일 삼성전자·SK하이닉스도 반등할까 - 진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rMUNGSjJkN05IWVpoVXZCYi01ZUlmWmNNRUljSEpsQjVKYkxENXUwZkE2TWRLbDVfMEJCOFJkYjFaNXg3MTlqWDI1OHZsUlNqVGctV0dmMmpyMTJXTWQ4Z212bVlpcllKY1gzdGtETQ?oc=5",
+      "source": "진일보 | 전남일보",
+      "published": "2026-11-09T01:50:44+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -377,6 +395,20 @@
         {
           "name": "SK하이닉스",
           "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Nasdaq 100 Forecast: NDX rebounds as oil prices fall and ahead of Apple earnings - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWdrdzhEb0pYbzJ4VEJ2T3I4R3lNTEd5bVVSc3laX1NTYklobk8tRDlRQlUzVUo1V0E5UHJaQk4wR2tuTUpuenpJNUQ1dW1aS1hudnlNQ2xocmljQVFPRGNSRGQ2cWRRYWVmYndmZVh4MF9vcG83LTA1SGxpX19oTGxCblFEQURQZmtNck5DbnRZTGI0eFNfU2h1RDZpTnFJVUtmMGMyb242YWxjTG5Za3V1bU1hdDBVMWdlcjRPRmpkczJSUlE?oc=5",
+      "source": "StoneX",
+      "published": "2026-11-08T16:35:27+00:00",
+      "stocks": [
+        {
+          "name": "애플",
+          "ticker": "AAPL"
         }
       ],
       "sentiment": "중립/불명"
@@ -652,15 +684,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-24T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "[한국 증시] 8월 17일 코스피·코스닥 국내 주식시장 휴장한다, 이유는?…재개 일정은 언제 - CBC뉴스",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43UGx2Q0MtdGlLR1BsTmlNeEVOVXhibk1Hd1M5Ynhxby1jejdYbU9vUC1UaWZVLTQ5S3NlZDRtQTBjNVZVbFRvUjN3Qmd1ZjU0SDd0YnJzWHY5QktkQlhiX1I4enBvQS0w?oc=5",
@@ -790,11 +813,11 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "Wall Street ends higher as investors turn to earnings season - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjluWjNOdGZuYndpR0lTLThCLUx1UFYwaElxZFBIQmZSZjM5YWFJekxqdmhGU3lZVENKYkdSTGxjRzJ3eVhnSlZFelVyYUhPdG4yMHQ2ZVRINjh2TlZYRG1ZR2FWN2tnMExQRnRKYVo1ZTNWNlEyUE96NUJLcjEtcnpOSkpyU2E4bFRranlybjlwbFV6c2V5X0toYnU5ZWVJRDJyUElhRWtnMmM1YS1EX2xMV3dDbHVPVEVJcV8wNkoyTjBUREF0ZE02SlhXNVk?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-10T07:00:00+00:00",
+      "type": "kr",
+      "title": "코스피·코스닥 매도 사이드카… 7월 10조 사들인 개미 ‘비명’ - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ra1lvclpvQzV6WExOYkZEb1M2aTBlWWtZWkNZZ0VpZE5ZNE85aFhUeEZNZFd1RUVhR3p1WXM1NXhmMFM2VFBqeVVzbDluZWw1?oc=5",
+      "source": "문화일보",
+      "published": "2026-07-20T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -955,15 +978,6 @@
     },
     {
       "type": "kr",
-      "title": "[속보]증시 급반등에 코스피·코스닥 매수 사이드카 발동 - 중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OMVgzS1pWU3dvUXBHYmZseWM3MEF5MWtyUEN6WFBXelRpZDVZWlEwUGhBTWxiZTZZcXR4RTdLekdwU0VxYU9BTkhBUXAwRjJ6THFfNm5R?oc=5",
-      "source": "중앙일보",
-      "published": "2026-03-04T08:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "코스피·코스닥 폭락에 거래 잠깐 “얼음!” 미국·이란 전쟁이 유독 한국 증시에 큰 영향 미친 이유 📉 - 뉴닉",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lUndUcmRxX3ljR2w2Uk9HNks2MnBvckNyandoWWhNZGRyWTItQ2JaTF9ZVGlYY19QRldnU3RmUHRNcDQ0X3lSY2RBUDctbnZLb0Zr?oc=5",
       "source": "뉴닉",
@@ -1112,7 +1126,7 @@
     },
     {
       "name": "애플",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "name": "테슬라",
@@ -1120,11 +1134,11 @@
     },
     {
       "name": "SK하이닉스",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "name": "삼성전자",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "name": "마이크로소프트",
