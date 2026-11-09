@@ -1,6 +1,65 @@
 {
-  "updated_at": "2026-11-09T02:55:14.270909+00:00",
+  "updated_at": "2026-11-09T05:12:04.296114+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "삼성·SK하이닉스, R&D 전문가에 美 반도체 사업 맡겼다 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xbkJXVFFlQ3p3djJuUVhCUEFrNF9ra0dvSmpYTkljN1ZpTmR6N0VodG8zWEFpNjdoS19COUd3ZVY0VmZ3bVNJT1Jka1dWQ3JmM2l2bDJrZEhkZjVHeFdZWlQyZ0U?oc=5",
+      "source": "매일일보",
+      "published": "2026-11-09T05:00:17+00:00",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "[글로벌 이슈] 젠슨 황 '스파이 스캔들' 파장…삼성·SK 반도체 공급망도 흔드나 - 뉴시안",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jYnlVS3BPSHBLRGVpRnZiVmNuSW02T3NnNGc4MEVncTZ3UlllTmhMSmxKVGNrdXFCUkxJalRsTlB1TjdTMmhFYnctVDhZWHJBNUpKUXBEVU53Y2lMVXhtUTN6aUVReE0yNUgzWA?oc=5",
+      "source": "뉴시안",
+      "published": "2026-11-09T04:53:01+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "젠슨 황 불륜 스캔들·중국 스파이 의혹…삼성전자·SK하이닉스 주가는 왜 올랐나 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mOFdRMXd3dE1CZ3FGeUxxTEVjc05hQzdIUDNGS0dMSTMzOHdyRHpDX3B6ZWtvRjhTMmE5YmxRSWMwaV9DY1BiYjBXUkJsNFdBUDZQVnFvUDNtU24zUV9KTktUUHk5TDFfeEFuZjdoZW0yUQ?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-11-09T04:29:08+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "현물 팔고 공매도도 늘린 외국인…급락장서 거래대금 5조원대 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83N2RjVGJBSGhSckZ2cTZtTXFnUThXWWZ2b1BwTFB0UGxPbHB5TTczSG1aOVpJdFZJa21pakpGNjZfeWFuMzh3QVV2V280VVhPMW1RRmwzMDQ1cno0?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-11-09T04:09:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "HBM 경쟁에 바뀐 반도체 인사…SK·삼성, 美 사업 기술통 전진 배치 - 뉴스저널리즘",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YUW56OHdZUWFvZFRDdmxUMC1IZFFXOVZ6d2xJQ3V5ejR0dUh3bWlKbEhwTHJtRGZfclJzbm9aX09KUzZJQW5DSF94aUJXTExDX1puTkFnNnZqUVM0RndtaDhqS3VDcHFpclEw?oc=5",
+      "source": "뉴스저널리즘",
+      "published": "2026-11-09T03:34:23+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "코스피 극적 반등.. 삼성전자·SK하이닉스 쌍두마차 질주 > 뉴스 - 지데일리",
@@ -39,15 +98,6 @@
     },
     {
       "type": "kr",
-      "title": "테슬라 직접 반도체 생산 본격화…日서 장비 조달 나서 [도쿄나우] - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yWENPWkNLRHc5dlZkSzRRZTRqOUkxYUJtekZUQzVYSld3clJxY19rRTRERVB2eHkwWWdIRmJHbDhyZkNnTXdtOTlfLUhRR1JQNVNKZ1ZzLTZzQQ?oc=5",
-      "source": "한국경제",
-      "published": "2026-11-09T01:28:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "SK하이닉스·삼성전자, 美 사업에 기술통 전면배치…HBM 수주전 재편 - 서울이코노미뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jdmZFSVg4YzJzZ3otZXdmTDQ3OFN4VFl5MG9KR2IxdkJRSjM1UUJZS2otbklPRzRiZkpqV2RiemdISzF4SVlIUFE4QU5YR2JUR1hUQjVHbTZmYURCRE54TF84M19fd3AzckdPNFRn?oc=5",
       "source": "서울이코노미뉴스",
@@ -80,15 +130,6 @@
           "ticker": "000660"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "코스피, 반도체 강세에 5,000선 사수…코스닥 1.5%대 하락 - 뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZS3pPYVM2QU5FOE52QzNBeGRvc1lBNTVmUUw0MVZQRHR6Um93cGRyYXpqYnB4eDRFUVBKcXh0d2hEUkxTd3dQVnQtZ0xZa2t5b3JjYUc2UTFRQUpwLUE?oc=5",
-      "source": "뉴스투데이",
-      "published": "2026-11-09T01:06:00+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -161,38 +202,6 @@
     },
     {
       "type": "kr",
-      "title": "SK하이닉스·삼성전자, '미주총괄에 기술통 전진 배치'...HBM 맞춤화로 인사 변화 - www.cwn.kr",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfUktzQjhENTR5ZmUxcVRrSzlJRk5LdjA4VUNqZlRheUM2WEF2STdPS0c0NDcweC1HeWNQOXhnSExpUXowVTh1ZUlzVFIwR1pyOTNNSTJrdFdETlk5UEthb1Jn?oc=5",
-      "source": "www.cwn.kr",
-      "published": "2026-11-09T00:15:00+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "“AI 속도전 끝나나”…민주당 압승에 흔들리는 빅테크, 삼성·SK하이닉스 HBM까지 충격파 - 테크42",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNM1FzZ2JQSnl6b29Ja3N2VDl2LVo0b2xIQm1WeF9vTnNVQXVFQnI4UlZUSV9rU1dQTktndHZucGQ4X1hqbGVqSTJpX1dCdXpPZnY1ajUzTmpyRFZCMlZSOXNWUHF6U185MWVsODlEM05xV1B4ZXJIS1dOUjN3SXNzWHp5Z1RES0VSUU1vWURHY3p1cW8wd25SXzJPdTRYWXFmVHpmZXAyMTlUXzE1anFxLVQ2ZVJBbGtRTzFETE1BRXRZQVRuVTBjbFVHWUJEYXA1ZzJfckpYdVBoLW9CdWtiZG1vYk5RcjllTE5UeWd4Y0ZKU1hxdlFKRG9NX1k1eEpHM1hDWFlQYWFrWGhfNjV0VFdpTDQ4UkViWV9nc3QtbUU?oc=5",
-      "source": "테크42",
-      "published": "2026-11-08T23:26:40+00:00",
-      "stocks": [
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "삼성전자·SK하이닉스, 프리마켓서 2% 동반 상승 - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnc3AyaWV1aUluNm9RUEJDSWFFdnVkOUFZbmhjMk1lM0dqdE85ZUpRQzh1Q0JNYjhFWkdMdFNxZXJ6cU52enhzNW9OR21SaFViOUVNSi0xZWpobjNBd25MdNIBeEFVX3lxTFBpTnRpUnZWendSN01rSXFJQmFhc2dNeWZrYUI2a0pyel9GQXZkMFZWblJDM2pYdlNTejd2NnZ0T2ozWlRFbU1maXo5NXhkQjU1eXBJN2Jjd2hZSDdWaWNXY285Y1NRS2t1dnBVbWZ4LTVXSnFleDZDcA?oc=5",
       "source": "뉴시스",
@@ -207,6 +216,15 @@
           "ticker": "000660"
         }
       ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "테슬라 반도체 직접 생산 본격화…日서 장비 조달 나서 [도쿄나우] - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yWENPWkNLRHc5dlZkSzRRZTRqOUkxYUJtekZUQzVYSld3clJxY19rRTRERVB2eHkwWWdIRmJHbDhyZkNnTXdtOTlfLUhRR1JQNVNKZ1ZzLTZzQQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-11-08T23:13:25+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -255,39 +273,12 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "[블루웨이브 쇼크] 삼전닉스 레버리지, 이틀 새 최대 38% 증발 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlfcE4wUW1HOTVtdk9iZ045OVlxSk1VOFE3LU45QW1FM1BYV0ZDVm1qX3JkcklCSkhkQjZ3Q1ZuWmRDYTQ1Sk5NMmFyaVdjSi1LWnBlcGw1Y3VINUs4NnZhalJoYzlMclNYNGFkVG9pQlJYZWtuU2dfZEZxSl9Vd3pFcFpYMlZ3M3k5MG9Yaw?oc=5",
-      "source": "Naver Blog",
-      "published": "2026-11-08T18:45:31+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "us",
       "title": "Earnings Volatility Watch: CoreWeave Reports Into an AI Rally Test, and Options Expect a 21% Move - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1N1dHhkNlBtRFdvQXZoX0hubzBzUW1PeElUN0pyZDcxREx6U2lRZFRIM3VUa3NBOEEyOWxDTGZITTVaeTBSTEg1eXR2dmV3STRPdE9XVGctVUxuTDdoemFpSkYybk1ERWlTTG53VS1pbExabDR4OXZBSHZMcVJfb3g5VFBGOC1LeFhNN0pyTVRzWHpLZDdJY2c4Y201NEh3ZDJsNUFVRHdUOUg3N2FZaG9rZjBDbDB0Z2JzWA?oc=5",
       "source": "Benzinga",
       "published": "2026-11-08T13:30:09+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성전자·SK하이닉스서 외국인 '썰물'…일주일 새 7.6조원 순매도 - 메디컬투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tRGtTMUdHUkhsRzJBOUpNMkc0VV9WRktnWXJpVVJjU2hKbnAtWjhtZFFWeFpUR1hqWExTeklsV2lpbUZuZmtsWFl6NVBCMV9RRHViTzJYY25jQmpMSUhTUTN3MzNVb1d2U2pMMA?oc=5",
-      "source": "메디컬투데이",
-      "published": "2026-11-08T07:48:38+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -1121,11 +1112,11 @@
     },
     {
       "name": "SK하이닉스",
-      "mentions": 15
+      "mentions": 14
     },
     {
       "name": "삼성전자",
-      "mentions": 14
+      "mentions": 13
     },
     {
       "name": "마이크로소프트",
