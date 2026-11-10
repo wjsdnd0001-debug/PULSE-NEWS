@@ -1,12 +1,30 @@
 {
-  "updated_at": "2026-11-10T10:57:18.958111+00:00",
+  "updated_at": "2026-11-10T13:08:02.493904+00:00",
   "articles": [
+    {
+      "type": "us",
+      "title": "Shareholders In Amazon.com (NASDAQ:AMZN) Should Look Beyond Earnings For The Full Story - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOME9xdFowZXJvVUhzdFFWYU80ZFdpM1lVUU0wd25SdEhwc01qclRHRFZQWDMtUFNuaWR0MW5JLXNXd0VESVY2WWV4ZXl3M0F4Y2k4elkwSXBhUW5VcDVWUDExaTZoQlE4bENGMjM5WkR1bHRxWGNabmJVLU5OeEctd1o3ZkFwN29rLWQ4REI5QmFqZDNlLW13X2ZBUm03a3JiOXNxVDJsOXFnSFV2RjdPTWREckVzZU9fNU9nUEFKR0VmejBr0gHKAUFVX3lxTE5zNHNjQk12R3lveWE4Q0hab29GY2pSbWUtamN1eUhac2Qzd0RpSWhFMkVYaE9qTGhyMkZEMy1keWpxTEs0bzFaN0o4Tmc1YXg4NVd0YnlERWt6bkI0VENQS2stVnpVcUZJbzFvT0xiSUZwOEZwZVJxRDhPX2YtbGxpcWIxaUExaURseWJaNVAtckZYcmpnQVZNZFdXMHUyeVVKOVFNSjRJVmtFaTZ6OEVpVEVNWV85LUxEb1ppZmMzeXQ4YmtLZnVuM0E?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-10T11:49:44+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Investors Can Find Comfort In Amdocs' (NASDAQ:DOX) Earnings Quality - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeXpNRENBMU1od1BFS0N3NlZlc1F4ejRuaU9aXzVWdW5rd0JDaEp0cnpBa2dUVElHWnpjS0JwV1dtNlc1cTJkMHNVUGZBcXFLTDUyMFEyZzFhR3pWdE0yaE1iVWVJMkdsVW1qNElDVVI2bVU2dEtJT050ak1hQk05TGFkOE9mdTA2ckxzQWtMbWpMX3d3RDJRdUExUzJaRGRXVHRic3RyMWxRQ2p2UXFIQmZsUGptYzNyYWRjU05teTNFd9IBxwFBVV95cUxQaFJRR2hodGZpSnc3ZXk0TjVqQVRKZUZpVzhDQjNSR3RLc0Fya2VzRjBHcmh3NnBWS2ZfNnJzS200eXFzSmp5Y2NpeDdCek9aUWE3MDJsTUNhdEs1ekNNQ3lDQzFtbVJXb1A1cVprNDBaWFR5LUpyckdGcGQ5Q2VDRTFCSUQ3X2VQc2R2emg0UUdubmcxcnQ4WVVqdHFmTXZHQ1o5NEZpaWNjLW9HWFp2bEgwdUJwNDZ5MjZGX0xVNEhUUTNGWGNj?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-10T11:09:16+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "삼성전자·SK하이닉스 동반 강세…코스피, 5200선 회복 - 팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZUEZhV3VRQXNSdXJaelNFLS1UUFlDeUR1MXc2YTRwbjVQcHNYbFRvalRQX2VNTGRWekx1MEJDOTA2OE5UWW9rMHF3QmxMaGxHR09IQXMwZ3k1S0x6V1ExaWJ3TmV4bjdU?oc=5",
       "source": "팍스경제TV",
-      "published": "2026-11-10T09:45:00+00:00",
+      "published": "2026-11-10T09:45:08+00:00",
       "stocks": [
         {
           "name": "삼성전자",
@@ -25,24 +43,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZNnljZElOLXZ3VzdrYy1wVDVvMjE2QmNkRTVhMDhFT2ZEOHJfZUN5U2hDeWZzQXpPOU5VRml5VnZzXzU4NVJoeEh0b0U4Q0czUHfSAVNBVV95cUxQX2pxd3ZlWXpMREpzYTJWZUY3NGxPalc5U1FqcHkzNWlSeks4R3h5ZWJ2TmRyVVllQUxLZWFTd2NrWlpENDhWTTJQNERfYS01dGdTRQ?oc=5",
       "source": "서울경제",
       "published": "2026-11-10T08:38:02+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성전자 주주 800만명 육박…SK하이닉스 1년 반 새 4.4배 급증 - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tTXliSUxtT3VSaEx4TTI3NkkwWVFzS1hvQks2NUFRbTFuWGxULTkydjRBeWN6WlFIeUdOTTdTTFBEX3FJbGZaRTVEaw?oc=5",
-      "source": "아이뉴스24",
-      "published": "2026-11-10T07:39:49+00:00",
       "stocks": [
         {
           "name": "삼성전자",
@@ -111,6 +111,24 @@
     },
     {
       "type": "kr",
+      "title": "구글 새 AI칩으로 '탈엔비디아' 가속, 삼성전자·SK하이닉스 HBM 최대 공급처 바뀌나 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HMERBS05tYlBaZ094MDVhb2dhNXVTaExMNXFnOUUtSEFGakZLUnNtSC1Gbjl0aGVjeWtsczJVUmxFT2FvaG5zMHJLNVZEbUtIa2s2aUJHb3A4cUgzNmVpM011Mzh0ZEhNLWV4UERBR0FhRXc?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-11-10T06:58:05+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
       "title": "코스피 4.45% 급반등 5,242 마감…삼성전자·SK하이닉스 반도체주가 끌었다 - 톱스타뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42ZlAzaUlNeFVUS0NCSlN1d19oamhnRDVaWUdhY2t0RE5IV0YwUFNsZFB2UGhVNVZGY2NlbXhveTgwWU5JTkhlTkFvY1UteVNBcjFlZUZKamxjNmN1WVRkNWlHUGY1UHIyY3pfTHpBZVhYQQ?oc=5",
       "source": "톱스타뉴스",
@@ -129,7 +147,7 @@
     },
     {
       "type": "kr",
-      "title": "'반도체 저승사자' 모건스탠리 또 경고…'30만 전자·160만 닉스' 전망 - 뉴스핌",
+      "title": "'반도체 저승사자' 모간스탠리 또 경고…'30만 전자·160만 닉스' 전망 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNekg1OFp6cGxYRlhHZWhlZTIyMlpZY1JGdVI0aExlNzRSMXZmNk1mSG0xSmpuYzhieVNyc25wbUgyWDNtazZ3XzRyck92Z0dOR0pPaHZzUkhwWjhk?oc=5",
       "source": "뉴스핌",
       "published": "2026-11-10T06:47:00+00:00",
@@ -152,7 +170,7 @@
     },
     {
       "type": "kr",
-      "title": "\"반도체 가상 실험 하루→1분\" 삼성·SK하이닉스, 엔비디아와 AI 공동개발 성과 - 뉴스핌",
+      "title": "\"반도체 가상 실험 하루→1분\"…삼성·SK하이닉스, 엔비디아와 AI 공동개발 성과 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NXzJiT1RPS2c0TjFxNWhJUWZDWmVrZXNsUGlZQ2gzV1dhNXU3RVJJcVNyN0JuR2pGTl9WOHZJY3lKajVEeDhMemN2NmlrUmFwSzV5dFFmd3dCR3Va?oc=5",
       "source": "뉴스핌",
       "published": "2026-11-10T05:19:00+00:00",
@@ -234,24 +252,6 @@
       "source": "파이낸스투데이",
       "published": "2026-11-10T01:03:00+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성전자 소액주주 797만명…SK하이닉스 4.4배 급증 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40VzNBQVpFUHFOWHJ1YXBxYWdqM3BPb29HLS1WOXJUZ2FMenhubjBsdmg2VF9NNFAtZXItSDFuVVdIN010bWxvQ2JUYjBwVl9JT0FnTkI5dkFNdzlM?oc=5",
-      "source": "뉴스핌",
-      "published": "2026-11-10T00:59:00+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -346,15 +346,6 @@
     },
     {
       "type": "us",
-      "title": "Take-Two (NASDAQ:TTWO) reports sales below analyst estimates in Q3 CY2026 earnings - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ2hER015XzFzbWwzRUItbjliT28zTVRKRnpKc3lvOURPc2xKa0t2Ujg3bXozMmt6dEtFWEU5Um1HN1NSVE1BUkZKRlZYU1pPME85QnZ2cFRtLVZnU2QyWF9pNFlwUXJUb3FLU1N0dFpfcURSQWtIbUQxeTBmb0djSnBnMHlLTGcyVXZlUWZ4dHRYaGI0aGpfSmNIbjZGMUhBeWlxNmxueVRNZ21uZWlhOHVEN2gzTlN0VDc5YkVoNEtUN00ySGZjVG5odkQtby1qUzNwSy1OSUg?oc=5",
-      "source": "TradingView",
-      "published": "2026-11-09T22:26:39+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "USA Rare Earth Q3 2026 Earnings Call Transcript - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcS12VkhCNWR0TkJMcUpIZ3V0Z2RVOHZvSXQ1NW55YWtkX2VvNTZyV3dUZjJXTzQ2cEpIUG05dlJTdFczMFlrRWJMVEthRkhwNUI1OUR1QUJJamRmcWg5OHBKMV9ZLWhHc25QY1BWLWgzT3BXTnQxYVpSdDV6SlIwVWwyQlNZV0dXM0txN2pVdGFFVVl1WHRR?oc=5",
       "source": "Benzinga",
@@ -386,6 +377,15 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkdZOTNvWVRkSDg5d0EtTjFfZU5aVDBGX2pFREF3NW5LaVF3aGdHcjJfSUtIc21Kbm1nWlJYSTVfZjc1VEtuSVVfNk81MUxydUpnQUtScVZuRUJzYy1WcXlQazJKYzBqM2dIY0trdW9pc1dUYW4xUnhjdnFjWm1MSA?oc=5",
       "source": "Stocks Down Under",
       "published": "2026-11-09T16:46:47+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "US Stock Correction, Volatility and Futures Ahead of Data and Earnings - Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHAwbXRNRjY4Ym5CY0pWR1RhWmxPbDROMUFRSV9MYmVDYV9oZTJ5MnFueFQ3TjIwMFJKdmxyZURJQU1qT1gzRUJFZ2lKQTRmYUc1QkVXdDlmNmtjbFdDVmFfb1RCNVdqVVE4akxha1c0YVhsamI4RzM4SGgzSEV5ZFg2NDM4WHp1OWhqendxMHBBYTdxRjlUYW5XU0RUSE9PdTV0TlJiM0k?oc=5",
+      "source": "Gotrade",
+      "published": "2026-11-09T14:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -436,6 +436,20 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "kr",
+      "title": "삼성·SK하이닉스, R&D 전문가에 美 반도체 사업 맡겼다 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xbkJXVFFlQ3p3djJuUVhCUEFrNF9ra0dvSmpYTkljN1ZpTmR6N0VodG8zWEFpNjdoS19COUd3ZVY0VmZ3bVNJT1Jka1dWQ3JmM2l2bDJrZEhkZjVHeFdZWlQyZ0U?oc=5",
+      "source": "매일일보",
+      "published": "2026-11-09T05:00:17+00:00",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "us",
       "title": "Nvidia, Tesla, Apple Join Revolt Against OKX-ICE Tokenized Stock Market as 67 Issuers Object - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAycVViU01kQ1A3MjVMeHNoWXZFRm9DZnZKSzlFQk5XeDE2eGZhTkwzNFEtSFVXanFJaVhXX3pXek9vcUZkdHRhSlFTZGQwZ2NNYmdaZzJ0WDlQcE5NeWo0ZnJEWFcySkM0NkhtMWZfdjdVek9IVGc?oc=5",
@@ -468,18 +482,18 @@
     },
     {
       "type": "us",
-      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
-      "source": "Yahoo Finance",
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "source": "Reuters",
       "published": "2026-10-22T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
       "type": "us",
-      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-      "source": "Reuters",
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
+      "source": "Yahoo Finance",
       "published": "2026-10-22T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
@@ -693,15 +707,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-12T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "[주식시황]외국인 ‘사자’ 유입에 국내 증시 반등… 코스피·코스닥 동반 강세 - 남도일보",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TZlNpQmp0LTFSRE83MUdMMFIxa2ZyMDJnZDNRbDdtYkZENFVabDRiM09lcWZVU3ltc055X0pwNmdiOHNCaFk0QmtyUGE5cEd1c2FJck5TWW5TNVlwcGRqaHhaTnA5MUViNy1SMtIBcEFVX3lxTE1nNVNpS2NXTzdZeXFFRGRBMHk2dkt2dHNoX2t2M1pSVUcydnBPdi1JSkdvcVhOdDZQVXB0bEZWZ29USVhUUFJYX25oeDZ1SjB0aGx1NXl5bWMzd0RRZ0hGME1mcDJDSHRjVkMwX3FpZzQ?oc=5",
@@ -836,15 +841,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
       "source": "Reuters",
       "published": "2026-07-14T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Wall Street ends higher as investors turn to earnings season - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjluWjNOdGZuYndpR0lTLThCLUx1UFYwaElxZFBIQmZSZjM5YWFJekxqdmhGU3lZVENKYkdSTGxjRzJ3eVhnSlZFelVyYUhPdG4yMHQ2ZVRINjh2TlZYRG1ZR2FWN2tnMExQRnRKYVo1ZTNWNlEyUE96NUJLcjEtcnpOSkpyU2E4bFRranlybjlwbFV6c2V5X0toYnU5ZWVJRDJyUElhRWtnMmM1YS1EX2xMV3dDbHVPVEVJcV8wNkoyTjBUREF0ZE02SlhXNVk?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-10T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1156,7 +1152,7 @@
     },
     {
       "name": "삼성전자",
-      "mentions": 16
+      "mentions": 15
     },
     {
       "name": "마이크로소프트",
