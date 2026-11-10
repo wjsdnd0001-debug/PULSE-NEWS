@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T18:59:02.679689+00:00",
+  "updated_at": "2026-11-10T20:52:00.564132+00:00",
   "articles": [
     {
       "type": "kr",
@@ -151,24 +151,6 @@
     },
     {
       "type": "kr",
-      "title": "삼성전자·SK하이닉스 동반 강세…코스피, 5200선 회복 - 팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZUEZhV3VRQXNSdXJaelNFLS1UUFlDeUR1MXc2YTRwbjVQcHNYbFRvalRQX2VNTGRWekx1MEJDOTA2OE5UWW9rMHF3QmxMaGxHR09IQXMwZ3k1S0x6V1ExaWJ3TmV4bjdU?oc=5",
-      "source": "팍스경제TV",
-      "published": "2026-11-10T09:45:08+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "‘K반도체 저승사자’, 삼성전자·SK하이닉스 목표가 최대 38% 낮췄다[줍줍리포트] - 서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZNnljZElOLXZ3VzdrYy1wVDVvMjE2QmNkRTVhMDhFT2ZEOHJfZUN5U2hDeWZzQXpPOU5VRml5VnZzXzU4NVJoeEh0b0U4Q0czUHfSAVNBVV95cUxQX2pxd3ZlWXpMREpzYTJWZUY3NGxPalc5U1FqcHkzNWlSeks4R3h5ZWJ2TmRyVVllQUxLZWFTd2NrWlpENDhWTTJQNERfYS01dGdTRQ?oc=5",
       "source": "서울경제",
@@ -268,7 +250,7 @@
     },
     {
       "type": "kr",
-      "title": "구글 새 AI칩으로 '탈엔비디아' 가속, 삼성전자·SK하이닉스 HBM 최대 공급처 바뀌나 - 비즈니스포스트",
+      "title": "구글 새 AI칩으로 '탈 엔비디아' 가속, 삼성전자·SK하이닉스 HBM 최대 공급처 바뀌나 - 비즈니스포스트",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HMERBS05tYlBaZ094MDVhb2dhNXVTaExMNXFnOUUtSEFGakZLUnNtSC1Gbjl0aGVjeWtsczJVUmxFT2FvaG5zMHJLNVZEbUtIa2s2aUJHb3A4cUgzNmVpM011Mzh0ZEhNLWV4UERBR0FhRXc?oc=5",
       "source": "비즈니스포스트",
       "published": "2026-11-10T06:58:05+00:00",
@@ -309,6 +291,20 @@
       "source": "뉴스핌",
       "published": "2026-11-10T06:47:00+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "테슬라 AI칩에 HBM 추진…삼성·SK하이닉스 납품 각축 예고 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81cmNPVTF6bUpzdnRqQUNRZ05DbWFOQjlkUk1FNEZVSmo0dzBySUhvem9YU0M5MjFUaGpldEw0b1RocXpwRkFFcFhNX3k1XzdBd2NYb1ZsWHZkOFlH?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-11-10T05:21:00+00:00",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -372,6 +368,24 @@
     },
     {
       "type": "kr",
+      "title": "[中 반도체 역습의 실체④] 中 위협 받는 삼성전자·SK하이닉스··해법은 ‘맞춤형’ - 시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQd3IwNG1vR0pnYnBIQUI2T21zX29uWXlzMzhXZ3lfZ054Y1dkOEtvM3JtbTdoNXdVWVdnSGVwcXZRZm1jNkVmYVV6NE9ocnBmVmNhUXo5bHZjSUZRMlNqSmpNSGZJeFdaZEo5MmhRYXlIQdIBdkFVX3lxTE9CeGlqMDExcGdHWXRJZUtmTDBfNEpOMm01OUoxbnVEby1pMWtoSDlZWEh6cVFJX284WllXaHFEc1pHRnJab0lPTUp6VElqd0tFZnp2NEVzMGVEbExaNTJXN19ZNzNGclY5Tzd3ZjJsYURrampGVGc?oc=5",
+      "source": "시사저널e",
+      "published": "2026-11-10T01:33:47+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
       "title": "삼성전자·SK하이닉스 5~8%대 급등…美 반도체지수 반등 영향 - 블루밍비트",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqOF9rQ0tOalVZcDctbXZTM3pwRHZNS1VxQkNQVnkxS3dRZ0RYLXllUl9nTS1VRjZfWHhhR1daX2NMbUE4c2JPdS1tVDJRRlc2?oc=5",
       "source": "블루밍비트",
@@ -412,24 +426,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52NlNNQ2ZIYmdhVGtvOE10UGx1WmRGYXdhRTdCcS1URVBtUVVvbHFYZmVjV0NTYXhEMFlhRWo1VEhKMW9hbjBEbS1rSGxNZDc1NHl6OU42MVNpeWJ6?oc=5",
       "source": "뉴스핌",
       "published": "2026-11-10T00:24:00+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성전자·SK하이닉스 장 초반 5~7% 강세 - https://www.2news.co.kr/",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xbThvNFZXZFJmcjY4N2pERFJnTmZvZ0tVTkVvMlI1Nmt5eTlvV01HczNvdkg3VE42OVdZM0hqRC15cEZDaUo3dnpsZU9weExPb0VudjBlWnBBUGR6QWtqWlFTUGZ3Wmw5?oc=5",
-      "source": "https://www.2news.co.kr/",
-      "published": "2026-11-10T00:15:00+00:00",
       "stocks": [
         {
           "name": "삼성전자",
@@ -902,15 +898,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "'파죽지세' K증시…코스피 6600선 고지 넘고 코스닥도 신기록 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ab2V5S3JET2pqVTVBNDNiVWttZ0dNX0hBbVZfRUtrYnhjUHJZVGhQbmtKcEYwRFpuRzdRZkNJeG52R1dVYnotTFJIMzVQRzlwWElvR0NsR3loZw?oc=5",
-      "source": "한국경제",
-      "published": "2026-04-27T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "us",
       "title": "Here are Wednesday's biggest analyst calls: Nvidia, Apple, Tesla, Alphabet, Cava, Netflix, Airbnb, Viking & more - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNakloN21BQ2EzOU9IaGdCNnFyeTQ1SE1OZjRxS2NkY3ktSmhQMVRXUEtoMGg5U2dBNHVtRnNaQ0VYaE5KSUJVS3ZFc2NmZE83TnNvT2pRVDZsOGpTajk0cFFTX1FlZ2pneHRwTlJub0p6QldESTI5RmJWeXZQRFJYVTBlSjFtZVhvWWxtLVUwT29iWDZkYWhwcVdjVThBRG83N2t2QXZsblJnQQ?oc=5",
@@ -1134,6 +1121,15 @@
       "published": "2025-11-05T08:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "국내 주식시장 급등…코스피·코스닥 매수 사이드카 발동 - 연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vdmpRZ2xRaVdHNXJOem16ZzZiTm5CRFplOUR0YWFfdFhaUHdNZ1RTcXVENGkyQXNnSjZYb2VNTk9ybDZuWFhWeU50UW1FZUdVY0FqamlBSWFhTFZRZzdDRXpTY0hBUzQ?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2024-08-06T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
     }
   ],
   "top_stocks": [
@@ -1155,7 +1151,7 @@
     },
     {
       "name": "삼성전자",
-      "mentions": 15
+      "mentions": 14
     },
     {
       "name": "마이크로소프트",
