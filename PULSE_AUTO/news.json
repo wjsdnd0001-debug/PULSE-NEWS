@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-11T13:15:20.858473+00:00",
+  "updated_at": "2026-11-11T14:57:37.744117+00:00",
   "articles": [
+    {
+      "type": "us",
+      "title": "Nasdaq opens 1.4% higher as CoreWeave earnings boost AI stocks, Nvidia rebounds - Invezz",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcl9GNW91UXk1UnhPZUZOYXgxbTRnM3ctTndCcGxWQmI1aVZnR3l4bVE3MFJTWDhIYVRJakpnb3VDV2J3UGdXMjdyajhSakZOTTAtSEl2X2xrQjBFQXowWktSLTNIVVF3aU9MV1M1Qkx4R1U2eWtHUUVibUhiRXhPRTA2dE1kTmxFR2ItdFZpMXVscjQxVnkxWWo0ZTNKRjFXdlFUcV81R0tTaUh5bEZ3bHNfRTN1Sk5tckktOWRuVQ?oc=5",
+      "source": "Invezz",
+      "published": "2026-11-11T14:45:45+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Wall Street Futures Rise as CoreWeave Earnings Support Technology Stocks Ahead of US Market Open: Dow Jones, S&P, Nasdaq - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYm93M3ZTUUpxSWZzVlFRX1JnWnY4SU5wY0UtVGh3LWRUOVFZVV9KQ2FZUjFJUjZzLUZVVEhnY3A3QS1LZ1g0MHlvcHZWSjFkRUlWWUo1dnJrSE80aEZZZ2pIWVRxUXp4bEhzcE1fNXlaVWFfRUREVjktZ0NoVFhoRXRNZ3U1LVZDNG5CTHF2LVItVS16R2hkWVZWaURVeXZv?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-11T14:14:26+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "젠슨 황 스캔들, 대중 반도체 규제 강화로 이어지나 - YTN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDM0JsV0xBSkNCUzFTWnl0bzlDTVhENWNxN2ZmdWhNRVN4WkUzb181NTRZdWJESzBVbmRHUW9hUERzYmpZYXZBQ3pQdWdWRUdhU1VINFJ1TzN4QUMzd0hKRFBPZ1ByQ2EtNHRFV042NA?oc=5",
+      "source": "YTN",
+      "published": "2026-11-11T12:45:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "us",
       "title": "Solid Earnings Reflect Lattice Semiconductor's (NASDAQ:LSCC) Strength As A Business - Simply Wall St",
@@ -16,15 +48,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYjZpUEU4c2V4ZTh2SkN5dm5nX2FRVldSR1ZCMTcyZ21MLXZjdWQ3SlhCM2M3MVdBSVZVQjZkeHg2S1ZyZExtLVZRb3BiMU9uSTdWdXR0RUpLNVZfQjU4aHdCZGdRdkdob0o1Q3p4NDFFQW1wWmNZZ1I3blk1UjdpVGI0T3lUWERwVmxhRUR0aVpXUDBrQ2tJSHlUZ053Uk1nYkFBUVZ1M0xJdE5ENVM1U3JVLXhWbHJWclUwVHlkNDRMVTZOMm1Fam1aNWZSM2Q4aHBsdFVfamxtUdIB3wFBVV95cUxQZ0d1TXNJdEl1LWJLb2paZnVvYnJwdUIwSEowaUtDM2E0blZ1eEdmZHBmdUdBU2NBMFc1MWl4YWR3VHg1N2ZBQ1ZVS2phNXZ6WjNuZW85UG1SZ1VzUGpGekUyQ2lNc0IzTk9zV3RoYi1PS0NxNnRyR1VUQ09SWHVPSnFVeFdVOFJoRHg1VDdhQ3l1TklMN2wxWVhMMDJYMnZsLXJtWHJvOEU2M0xXSl9MVFBhdmp3c05qSG5YSHE2djVEdmhzNmdrRmhUUkhDSzdBMWVlZTF2cmRaSVVnRWpr?oc=5",
       "source": "Simply Wall St",
       "published": "2026-11-11T11:59:18+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "젠슨 황 스캔들, 대중 반도체 규제 강화로 이어지나 - YTN",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hYjhsejRuTWR1ckRoYmRaUzlQWVNieHpIaGRwNWkzaFltaVlMUnhKeWoyX1BqLXNvdDB6M0x2RGRIWDF3TUJpRWpvWFBraFFVS21nbFB4bVRyWUNLdmc?oc=5",
-      "source": "YTN",
-      "published": "2026-11-11T11:39:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -57,6 +80,15 @@
     },
     {
       "type": "us",
+      "title": "US Stock Futures Rise as CoreWeave Earnings Support AI Shares and OpenAI Revenue Reportedly Reaches $10 Billion: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzdWMFl4bjBSSVBYWDJkX2o1MWxVZk42enpidkJXNWtKTkxOUGdKZERaZEdGY3VTb1RGZWFUaVRPOUF2MVNmNTBzWVctWFk0WUJWTnV5c3k2NHdqR1dlTmJTR0F1akNEZ0xYbEJTUGZaSFFYdjEzU21sU2pocmE3akVqN092RUtxNjBpb25jcno4amtrYjB0QjF4dEU?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-11T10:07:10+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "S&P 500, Nasdaq Futures Rise Premarket — CRWV, GPRO, SPCX, NVDA, NLST Stocks In Focus - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNHMwaU9rR2gwOXhhTTliQm5sUWc4Qk1OdEhockV5c3hsbkxiN2c2ZkR3bWUwY1ItR21BR3BTOHZST3Q0cTNRSXBVaGhuWFhERWdNS0ZaWUNsc3V1enhQcVdGZWZiYjl5TG9Zd0wtWl9PWU56bTFjcVFVZi1VYy1uLVY4Z3UzQU1tcDNLOUZBejJoLWZnSjEyVXhwX2FOMk53X1pfQkhmcFlFeVBnNTduM2NGMEVhRVVyVk5YX3pSajYzQ0h0eUppSW81MkpKZEtaVnN0VHRn?oc=5",
       "source": "TradingView",
@@ -84,10 +116,10 @@
     },
     {
       "type": "kr",
-      "title": "“형이 왜 거기서 나와?”…AI株 반등에 다시 등장한 ‘간달프’ [머니+] - 에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlOXVhOHdYTXpmMEgxZk9zNDNhOW1UU0lBZ0luSTNxeFpmMHhBZzFwRDgtMTYwQ204OEFEV0V1Q1RZUFdaOXpvRkQ5N0t3SU5yd1lXUFNlTmp4S1U?oc=5",
-      "source": "에너지경제신문",
-      "published": "2026-11-11T08:37:43+00:00",
+      "title": "삼성·SK는 HBM 완판 됐다는데…계속되는 슈퍼사이클 고점 이견 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00UzVPVXM5Qjl5VnA3SlVjWjBxZW85aGp3NE96YndYMUE4SzNFQkotMzNQcWxnNEVFTFpUdmpwUnlJanB2VE4xTmRYaW1Kb1kwRUVQNXYyQ0s3YUdYdTE1Q0NwQUdldmRLTE5GSmd3?oc=5",
+      "source": "아시아투데이",
+      "published": "2026-11-11T08:31:32+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -207,15 +239,6 @@
           "ticker": "000660"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nasdaq futures climb amid upbeat CoreWeave outlook, Anthropic IPO hopes - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDIwT1A1aVFIMDNGcWZMYmgyWXFQemVUc2hfYm1YSE9UX0I4a3k2OGxWVG5GeEpZX2dhTnR2QWdRYWhSZlZVTjFtSDBmc2lHaEtJcDRmRlZ1MThwTGNWbFJrenlKYnE5TUZFU0oxLVNVZlN1QnduRHVLdGdKSkRQbGtEMjlMdUNIUFZKR2hZaEFabTBsdzJEOVdncWlnbjBvV20wSjBLRVhWZjdfMGJ2Y1NYOW1RME5fa19NdjFfZmQzWUJYNTYzWG5B?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-11T00:44:36+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -346,15 +369,6 @@
           "ticker": "AAPL"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "US Stock Futures forecast: Dow, S&P 500 and Nasdaq mixed ahead of CPI as investment banks assess Fed Rate hikes - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNTVJTkJXV1VqTXRoalRJT0NaTWNNd3RncHprMm9TNzdzZjNSekRFV19zZG5DS1JjaEVRbXVtMFlta2czNkpSNWJhMmU4MnR3YW1fOVYxTzBhRmFfZGNCTDJMbTF3SmcyeTktQUFERi1CZmxDeWdTRFJaN2NTcjhMQlNB?oc=5",
-      "source": "Beinsure",
-      "published": "2026-11-10T13:36:43+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -535,6 +549,15 @@
           "ticker": "AAPL"
         }
       ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-06T07:00:00+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -742,15 +765,6 @@
     },
     {
       "type": "us",
-      "title": "S&P 500 ends higher as investors await tech earnings - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkhJQS14Y3d3QkMxeG5XZmR3cldUel9CSk9pdDZrSDFkc0gydEgxSXQ1d0xzTi1OR29xVWEwUjJtV1k4V1p3WlZJeUZCbnB2MzJOYjBHRExWTmVobWlibGFqajlUcWx5emx2M01vYmNwcHlDM2FvYjRwU3o2M0szNVpyM3JwakJyRkZReUMyVk5GUklTWWczOXdFSUcwNkh1clFNVWJn?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-28T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Apple vs. Nvidia: Which Stock Is the Better Buy Now That AAPL Has Reclaimed the Top Market Cap Spot? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUkVCOFJyOVlLUDhEelRlZ0ppQjdQNTRBd0dZNnllOTl6TmNHXzk2bjUwVDdMYWVJYzI2R2kwRGZSNXRCRXNfSzhMRHdjZXA1MHhaUTRtN1pnODlLVlNZQk1lZnV6RlFqbVhrXy1GMWFmaXpWZm82cUJsWEoxSlZqTTJRRVJfZ05pRjVvT3hEQnJSTldabW9nOXdqYVJSSTN5MjYtQ2sxR2JJX3dENU9YbnFyZzhBdHdDY3lBTFhGOV9VUkFXOFkyd0l0ODFQWFlEbW1fZXNEalo?oc=5",
       "source": "24/7 Wall St.",
@@ -813,15 +827,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
       "source": "Reuters",
       "published": "2026-07-14T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Wall Street ends higher as investors turn to earnings season - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjluWjNOdGZuYndpR0lTLThCLUx1UFYwaElxZFBIQmZSZjM5YWFJekxqdmhGU3lZVENKYkdSTGxjRzJ3eVhnSlZFelVyYUhPdG4yMHQ2ZVRINjh2TlZYRG1ZR2FWN2tnMExQRnRKYVo1ZTNWNlEyUE96NUJLcjEtcnpOSkpyU2E4bFRranlybjlwbFV6c2V5X0toYnU5ZWVJRDJyUElhRWtnMmM1YS1EX2xMV3dDbHVPVEVJcV8wNkoyTjBUREF0ZE02SlhXNVk?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-10T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1117,7 +1122,7 @@
   "top_stocks": [
     {
       "name": "엔비디아",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "name": "애플",
