@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-11T09:01:53.088214+00:00",
+  "updated_at": "2026-11-11T11:05:59.080674+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "D램 매출 369% 폭증 초호황…삼성전자·SK하이닉스 '압도적 실적' - 파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tYXNYNkduMHo4emNPVWo1Qm5qZ2huQmlHeXZ4MlpONkQtRVFueUdDaFBnQ1FtQUlVdEVxeTR0a1p4VHNJMDVrUDdZYUtRMFNGS3g5aFBIOUprY1ZKNVFuVXA4NE1VVkhRdFZuUkJhVU9RMWxl?oc=5",
+      "source": "파이낸셜포스트",
+      "published": "2026-11-11T10:32:01+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "S&P 500, Nasdaq Futures Rise Premarket — CRWV, GPRO, SPCX, NVDA, NLST Stocks In Focus - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNHMwaU9rR2gwOXhhTTliQm5sUWc4Qk1OdEhockV5c3hsbkxiN2c2ZkR3bWUwY1ItR21BR3BTOHZST3Q0cTNRSXBVaGhuWFhERWdNS0ZaWUNsc3V1enhQcVdGZWZiYjl5TG9Zd0wtWl9PWU56bTFjcVFVZi1VYy1uLVY4Z3UzQU1tcDNLOUZBejJoLWZnSjEyVXhwX2FOMk53X1pfQkhmcFlFeVBnNTduM2NGMEVhRVVyVk5YX3pSajYzQ0h0eUppSW81MkpKZEtaVnN0VHRn?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-11T09:59:35+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "코스피 가뿐한 반등.. 삼성전자·SK하이닉스 나란히 급등 > 뉴스 - 지데일리",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03cDYxU1RLOVVtU2d1ZEZFNU5XRzZndk8tUGVkakhmb0p3dk1RQS00RkhuWV91ZUxVeWJLS1J3aTBnV0NUc3FqNTh5SVJNdmRaRlpibktiYlVJaTNjLWdwMU8zUUJva3dyNUxZLQ?oc=5",
+      "source": "지데일리",
+      "published": "2026-11-11T08:42:00+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "“형이 왜 거기서 나와?”…AI株 반등에 다시 등장한 ‘간달프’ [머니+] - 에너지경제신문",
@@ -30,20 +75,6 @@
           "name": "삼성전자",
           "ticker": "005930"
         },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "미국 대중국 반도체 규제 강화 움직임…삼성·SK하이닉스 중국 공장도 긴장 - 뉴스인",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nUUVwQkFqWDJ0MVUxZmFkVmY4WXN5cVZEdk1rZWt2b0YzRVo0eTNzZXo4Q2hmWm5HS3pHVkF6ZkRMZE1yN2VNZVQ4MEdBYS1FZEhLamoza3BIRnNqbExJak1tR2lfZklDRGZn?oc=5",
-      "source": "뉴스인",
-      "published": "2026-11-11T06:45:44+00:00",
-      "stocks": [
         {
           "name": "SK하이닉스",
           "ticker": "000660"
@@ -225,15 +256,6 @@
     },
     {
       "type": "kr",
-      "title": "“삼전 31만원 vs 67만원·닉스 160만원 vs 470만원”…누구 말 믿어야 하나 - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4cjhyNzQzYzRhS1oyVmxpRWdmSEJxV3J0eWN5LThWN0lueGdTZVBiaUpkYnBlU0hmRGFxcXpOOTdhWXdVWEpIY0hlb2piZzZMLVE?oc=5",
-      "source": "매일경제 마켓",
-      "published": "2026-11-10T23:50:51+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "\"드디어 주가 바닥 찍었나\"…삼전닉스 반등 가를 핵심 변수 [분석+] - 한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUzRsOTZRTVhMZkxYWGQ5X2o2ODNBRnF2c0cyQWNZNk5aLUxFRG9NbUxmYjZIY21Cald6UlIzemh6aEZRRDZOVTRBSXpfTFlJUDJZcE0xT3dJUQ?oc=5",
       "source": "한국경제",
@@ -274,15 +296,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1gzbE5oeXlBS192LVQ2UkZ1dmtEWDExT3lEUFlDcThHSDczc21RdTRJdWdZbE5fYjFKcUJsdVNFMEVSWC1VSElueDRiSkl3M3ZwczltZ2Y2eGZvNjk0WVBXSXNhT3MzU3Rua25ZUi1PRHpzUUkxUHlDaHlLNjlSaG1HWU4?oc=5",
       "source": "Yahoo Finance Singapore",
       "published": "2026-11-10T14:59:39+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Chip Stocks at 9x 2028 Earnings: Cantor vs. Bank of America - VanEck Semiconductor ETF (NASDAQ:SMH) - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUm9Qam5hT1BQa1VLN0ppaEZuTEtjM2hMZzU1cXR6dWdiZ3BXUmpiSVhGUkZYeHp6a09OYVFLdGZha2R5ejJzSHhWTmMwaVIwU0p4dl9Ha2xFNlBNQV9jVTFQWGNnMDdWY01EZ2kxYVdXdnZ0dnRfdFpmZ1BEX3FtOHo1VVotVDRXc0VSd09VX0ZHdFIzcDBzRVduUHhKYy1BbXJCWF9hblFEQ0Q4ZzJES2hwWm05SWE0MTdBcnVpVWQ0WHV4Um03WXZDVkQ?oc=5",
-      "source": "Benzinga",
-      "published": "2026-11-10T14:57:56+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1107,11 +1120,11 @@
     },
     {
       "name": "SK하이닉스",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "name": "삼성전자",
-      "mentions": 11
+      "mentions": 13
     },
     {
       "name": "마이크로소프트",
