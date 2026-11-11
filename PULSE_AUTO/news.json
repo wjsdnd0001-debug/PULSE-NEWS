@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-11T17:00:57.950874+00:00",
+  "updated_at": "2026-11-11T19:02:13.987816+00:00",
   "articles": [
     {
       "type": "us",
-      "title": "Stock Market Today: Nasdaq, S&P 500 Surge as Chip Stocks Rally; Nvidia Rebounds After Steep Losses, CoreWeave Soars After Earnings - Investopedia",
+      "title": "Stock Market Today: Nasdaq, S&P 500 Soar as CoreWeave Leads AI Rally; Chip Stocks Surge as Nvidia Rebounds - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUFWTnloRHoxSWh1X1EydmhBSFN3NklwWHZTc1pzRTkybkdGTG4zbk9tQU11Ri1GZW9xUDEzSnRfWGJoQkRLd0xDdE1ldElWQS0td1Frb0E4YmtkM2tweVJyTjdLVG1GdnN3UllKbGZMajFfOXg3LXFjbU43eWhibU0xTGNIZ0d5NVoyVW9YakNhbU5Ld3FNbk53?oc=5",
       "source": "Investopedia",
-      "published": "2026-11-11T16:39:04+00:00",
+      "published": "2026-11-11T17:56:27+00:00",
       "stocks": [
         {
           "name": "엔비디아",
@@ -17,19 +17,51 @@
     },
     {
       "type": "us",
-      "title": "Nasdaq surges as CoreWeave leads tech rebound: Live updates - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-11T16:34:08+00:00",
+      "title": "Stock Market Today: Nasdaq Jumps at Open After CoreWeave Earnings — Live Updates - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-11T17:50:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "“160만원 vs 470만원”…SK하이닉스 주가 전망 3배 차이, 누구 말이 맞나 - 데일리25",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpenJUTEVYWHhsdmlJb25MeEpCQTdHaVJiNW5pNXRKU3d3eUpxaFNrbV80Tk91Y2t3TkEtX092UTJwc1RPUmZKbEdqSF94QVlsQ293cDBuYjJZUHJYMnRhSnhja2djTUNEYkZlVA?oc=5",
+      "source": "데일리25",
+      "published": "2026-11-11T17:45:10+00:00",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Nasdaq Jumps After CoreWeave Earnings - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPem9ZTW5ac04yQXJsSXE2S29IZl8zSlU0YklYcm1xZW04OWptOVpvYjJMM0pIc2I0d3FkdXVhRjdhNVVSN2g4d2Vncm01SFhtUVduRHJXQVV4aGdnZmJ5VW5vLUtyVzFHd21iOFg3ZnpjMVI1RkRPNjFwcGdJaXFuRERTTWJfOU1IdGdVUldJSzQ2d0dfMGl3U3NKemtydVB2TkE?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-11T17:14:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
     {
       "type": "us",
-      "title": "Stock Market Today: Nasdaq and S&P 500 rally as CoreWeave earnings fuel a tech rebound, but Dow turns lower— live updates - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMFpKa3lmRXd6OW5ZSUdaYzdGQlNzRFVILTF4Qkp3U042U0xDOUl0N0xrbUpkN0tXbkl2R0RUdTFHN2N3aW0zVGhvWjhmTjd0dzhPLTVwTDI3bmVIMjN4VzVkbENHMGRuVkY4TFp1d2NGM0ttai1JWVM5ZFdqUFpQTEprUmQ1ZmZUOE5Xb19kUFRjcjRFdWpxalZqV1FKak0xWWxUaXZhTWZUU3ZGUktXNmM1ZzFpeHF6LThxMUh1eW1WLXVuaWJF?oc=5",
-      "source": "MarketWatch",
-      "published": "2026-11-11T16:27:00+00:00",
+      "title": "S&P 500, Nasdaq rise over 1% as CoreWeave results calm AI spending jitters - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-11T17:12:34+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Nasdaq surges as CoreWeave leads tech rebound: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-11T16:34:08+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -44,28 +76,10 @@
     },
     {
       "type": "us",
-      "title": "Stock Market Today: S&P 500, Nasdaq Surge as AI Optimism Takes Hold - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45LWpRV3VOM3JUSVQyeERfdTJvOEdTdWtaX0lrTlJSUDFhQi15NkFyUVlfSktGX2VvZUtLSkJKcHB5TC1KWUE2TFd5QlFyQkdhRFcxb3ZRX2FFSDRsaDNvNnR2TElWZ2E1VS14MHFucGwwdjhwRkE?oc=5",
-      "source": "Barron's",
-      "published": "2026-11-11T15:58:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "S&P 500, Nasdaq rise as CoreWeave results ease AI spending worries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-11T15:32:50+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Stock Market Today: Nasdaq Jumps After CoreWeave Earnings - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-11T15:25:00+00:00",
+      "title": "AI Rally Takes a Breather as CoreWeave Earnings Provide Support; Nasdaq Surges but Dow Struggles - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VMmstODgxSm5TZHZpcDJBMUUtZEpqYjBlZk5XdXFCYnFERVoyOWlFeDdaZHEyaTQyYzE5ckpMbnZEWE5vUUlJeTBzZFJrNzFRd0NESmhBanFxcXFpLVM2RWQ3NXU0YUJmN0EyQ3NiOUJpalg4THc?oc=5",
+      "source": "BigGo Finance",
+      "published": "2026-11-11T15:55:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -90,15 +104,6 @@
           "ticker": "NVDA"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nasdaq Jumps After CoreWeave Earnings - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPem9ZTW5ac04yQXJsSXE2S29IZl8zSlU0YklYcm1xZW04OWptOVpvYjJMM0pIc2I0d3FkdXVhRjdhNVVSN2g4d2Vncm01SFhtUVduRHJXQVV4aGdnZmJ5VW5vLUtyVzFHd21iOFg3ZnpjMVI1RkRPNjFwcGdJaXFuRERTTWJfOU1IdGdVUldJSzQ2d0dfMGl3U3NKemtydVB2TkE?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-11T15:16:59+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -130,10 +135,10 @@
     },
     {
       "type": "us",
-      "title": "US Stock Futures Advance as CoreWeave Earnings Lift Technology Shares Despite Inflation Concerns: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0NHU3VDM1lBOHVxT2cwbUtGZXdWRjZGR1lQNGxqd2F6Vk9Yanh2OTBEUkFUUWFzR2FLMlVQcnhhbi1Bd2o0NG1ZaVRmdkluT29YbmVhU3NmdDNSa2lFOWszN0hYOFpxTngzbDdWRjZ5TDRYLVBkRk93MmtvbHEzZTM3Y0dVZTBQb3lZ?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-11-11T14:15:22+00:00",
+      "title": "Stocks open with broad gains, as tech stocks get a boost from CoreWeave earnings - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNnV0RXF4V2NPSXd2OHVHZU9UemlhS3U3aDE3dkRwSXhoQWdtRkN2aUFCQ2x0RG51VnZidTFzcmFucDFYblJtQWtySDBYOGhOTEs4bkxBdzJYbExwV3lzVF94QUlDa3p5ZUMwMDZtbFRDWGpRN1pueFNDUEhKdi1OQ28xdk1HN3JBeWgtY2Nmdm0zYnlrVzd3LXV2b25NeDZjTmh5dnpmVTFzUFRpMXpBTGNYR3AtRmdQRUprSkR3amVXTEJIcEhDbFhCVWM1aVhGdUI0am04R2xhMTRoU2RBZXduenBKNTZTX2NDMXBxNy0tbWxLTU15dVUyYy1IM0tFOW9UT1VnZ05qc3JORy0tamxaeXFmVTV1Q3JxRXU3THdPQ09qNHl2bFlraTRfRnF3Q2VrUGNjR2huTHVVU2NVRjd5R2cyeHpTc24zWlBPTkh0NWY4bFU0S19aNmh2aUo5bnc?oc=5",
+      "source": "MarketWatch",
+      "published": "2026-11-11T14:31:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -180,6 +185,24 @@
     },
     {
       "type": "us",
+      "title": "Stock Market Today (Nov. 11, 2026): Nasdaq, S&P 500 whipsaws higher as CoreWeave lifts AI trade - TheStreet",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWVoemVieFRwa2I3NmlYRi1xR0pkamZaVGJVc2FnZWwxUHZTX2NSem80V3cyM20yeVdGX1h5dWZvSVNwdWUzQkJYNEwzMzFwa1JiQ2VyYlV5LU9OMDNTd0pwU3o5UEtFbUZ1OXJnY21lN1RxMkIwT2JUMFBNLURLTHl3Z18tblVZbW8ydV9DV2lMM2FIaEliTFVRWHUtNE1BeXBpUGFBQ0swdjA?oc=5",
+      "source": "TheStreet",
+      "published": "2026-11-11T11:52:36+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "CoreWeave (NASDAQ: CRWV) stock price forecast: Shares rebound after record $3.66 bn revenue and $132.5 bn backlog - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWlkSzBIQ3hvUUI1M0FCMXQtYW9KdVF4U3pBb0N6TjRjRWJZem1ZYTgtcjVLYVdLRzlxdEVkRlNrZkUyM09Rc0VZMG9RVjlyQlBUbTZKeFB1Mk9ncGc5VnFGdjN2TXR5OUs1SjYwTGtiQURCWHJDS2g2MGZtMGR1aUs5RkVNRS0za1p4QVVwaDFHV0pVX1FfN1pnbWFuY3ZDYVE?oc=5",
+      "source": "Beinsure",
+      "published": "2026-11-11T11:41:54+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "Nasdaq Futures forecast: AI stocks rebound as Goldman Sachs, JPMorgan and Morgan Stanley assess market outlook - Beinsure",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lZE81MFFHcEttT3RIV0hrblUwUHhpYnJWb192V01IT0lidlFzSVNwVmg0NTB0NUhRVXpyN2tVUUNXT1U4ZEpUMDUtN2RZemtjR1RqLWxyYjVnNmhmQWlDTkRpV0ExX3hqOVUwZkxzTFluSWg3TXdJ?oc=5",
       "source": "Beinsure",
@@ -203,15 +226,6 @@
           "ticker": "000660"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "US Stock Futures Rise as CoreWeave Earnings Support AI Shares and OpenAI Revenue Reportedly Reaches $10 Billion: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzdWMFl4bjBSSVBYWDJkX2o1MWxVZk42enpidkJXNWtKTkxOUGdKZERaZEdGY3VTb1RGZWFUaVRPOUF2MVNmNTBzWVctWFk0WUJWTnV5c3k2NHdqR1dlTmJTR0F1akNEZ0xYbEJTUGZaSFFYdjEzU21sU2pocmE3akVqN092RUtxNjBpb25jcno4amtrYjB0QjF4dEU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-11T10:07:10+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -379,24 +393,6 @@
     },
     {
       "type": "kr",
-      "title": "코스피 장초반 0.46%↓·코스닥 2.41%↑…삼성전자·SK하이닉스 약세 - 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNWlVOU2t3ZzNGQi1Wc0I5Q2NZM1lPd08tNmJCVzg1ZnRKemdKYlFwV29OeDZZNk94MERjckJyaTI2N3hJOU81eTRpSzZZb25POEpoczNEdGY3anBXUlhnZEc5MGI3ZXJOWE1vSUl6eXVzZw?oc=5",
-      "source": "톱스타뉴스",
-      "published": "2026-11-11T00:26:31+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "삼성전자 SK하이닉스 장 초반 약보합 - https://www.2news.co.kr/",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZUmZOaU1aaHVIVVFzQUhmMGFjOVJfNEFhM1hTRGNfaXEzRkt5ZGZRNnBFaTB5eGJ1MXdWWkdzYVExbkwtTnhXRTNjbE41WG12STM5MEstakpPeE9HLUMtYmYyMFBDb09z?oc=5",
       "source": "https://www.2news.co.kr/",
@@ -429,15 +425,6 @@
           "ticker": "000660"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "\"드디어 주가 바닥 찍었나\"…삼전닉스 반등 가를 핵심 변수 [분석+] - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUzRsOTZRTVhMZkxYWGQ5X2o2ODNBRnF2c0cyQWNZNk5aLUxFRG9NbUxmYjZIY21Cald6UlIzemh6aEZRRDZOVTRBSXpfTFlJUDJZcE0xT3dJUQ?oc=5",
-      "source": "한국경제",
-      "published": "2026-11-10T21:30:04+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -504,6 +491,24 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQd3IwNG1vR0pnYnBIQUI2T21zX29uWXlzMzhXZ3lfZ054Y1dkOEtvM3JtbTdoNXdVWVdnSGVwcXZRZm1jNkVmYVV6NE9ocnBmVmNhUXo5bHZjSUZRMlNqSmpNSGZJeFdaZEo5MmhRYXlIQdIBdkFVX3lxTE9CeGlqMDExcGdHWXRJZUtmTDBfNEpOMm01OUoxbnVEby1pMWtoSDlZWEh6cVFJX284WllXaHFEc1pHRnJab0lPTUp6VElqd0tFZnp2NEVzMGVEbExaNTJXN19ZNzNGclY5Tzd3ZjJsYURrampGVGc?oc=5",
       "source": "시사저널e",
       "published": "2026-11-10T01:33:47+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성전자·SK하이닉스 5~8%대 급등…美 반도체지수 반등 영향 - 블루밍비트",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqOF9rQ0tOalVZcDctbXZTM3pwRHZNS1VxQkNQVnkxS3dRZ0RYLXllUl9nTS1VRjZfWHhhR1daX2NMbUE4c2JPdS1tVDJRRlc2?oc=5",
+      "source": "블루밍비트",
+      "published": "2026-11-10T01:05:39+00:00",
       "stocks": [
         {
           "name": "삼성전자",
@@ -739,15 +744,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TZlNpQmp0LTFSRE83MUdMMFIxa2ZyMDJnZDNRbDdtYkZENFVabDRiM09lcWZVU3ltc055X0pwNmdiOHNCaFk0QmtyUGE5cEd1c2FJck5TWW5TNVlwcGRqaHhaTnA5MUViNy1SMtIBcEFVX3lxTE1nNVNpS2NXTzdZeXFFRGRBMHk2dkt2dHNoX2t2M1pSVUcydnBPdi1JSkdvcVhOdDZQVXB0bEZWZ29USVhUUFJYX25oeDZ1SjB0aGx1NXl5bWMzd0RRZ0hGME1mcDJDSHRjVkMwX3FpZzQ?oc=5",
       "source": "남도일보",
       "published": "2026-08-07T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "증시 급등에 코스피·코스닥 동시 매수 사이드카 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNG9vTjN3WDBCa0cwQ1g4R3RrLXRDVWtIdVlLWnBoeVlrR0FGa1pVUTd4bjJyRlhGY3VrOVZBMjdjT0ZnVmpYcVRNT3cyaDZvcUtSWExleVRVQUnSAWBBVV95cUxOTUI2SEZqcFROX2NYVEM2RVF4WHlqWGJjMjV2NEdWSXpVZlQ5b3NEdm9jYkxoS1VFLUw2WkR5TXFCbTh5clJIdFhiOUVIOUExdXZnZjRUaTV6UFBLbURJNXU?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-07-31T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1109,6 +1105,15 @@
       "published": "2025-11-05T08:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "국내 주식시장 급등…코스피·코스닥 매수 사이드카 발동 - 연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vdmpRZ2xRaVdHNXJOem16ZzZiTm5CRFplOUR0YWFfdFhaUHdNZ1RTcXVENGkyQXNnSjZYb2VNTk9ybDZuWFhWeU50UW1FZUdVY0FqamlBSWFhTFZRZzdDRXpTY0hBUzQ?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2024-08-06T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
     }
   ],
   "top_stocks": [
@@ -1126,7 +1131,7 @@
     },
     {
       "name": "SK하이닉스",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "name": "삼성전자",
