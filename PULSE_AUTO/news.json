@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-11-12T13:19:10.080420+00:00",
+  "updated_at": "2026-11-12T15:00:27.089967+00:00",
   "articles": [
     {
       "type": "us",
-      "title": "Nasdaq Futures Slump as Nvidia Crisis Hits AI Trade; U.S. Economic Data and Fed Speak on Tap - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbi1kOEoySWkzOElFUnlCS0ZDWGJzVVVFS1ZMbF9zN3BXQ3YtUzlpbVAtVGFjczZ3bXJ4ZFMteTJ1dWhMV05IYllzMHltTTRDUzJPcVRhbFpxQ0tweXZuSjM1QmRVNGR5NHFKYVFYc1FGdFBqLUtVSWItbGdQa2xMMGxqWXh0UmJZOF9PSUxyT29HdVBUTVdPQUZSSHJDNXNWWEhCelRoamxmMWRQNW4tVmlfSXhaQndwb0d2OEhXdENLYmE2MnZENU82ZzRJcVk?oc=5",
-      "source": "Barchart.com",
-      "published": "2026-11-12T11:40:35+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        }
-      ],
+      "title": "History Says the Nasdaq Will Soar Once Again in 2027 After the Sell-Off. The Best Growth Stock to Buy Before That Happens - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdGIwSXlJeGZBR0daamc3dldTSkF4S0FKOFc0VDF6UmRYNG1UWnRlaENGMExMWVJJMUw0OU1wWTNvY2RyN0RfRzJVRUZFX294SXBWX01CT0dEcC1ucjBKY2RyYjdmcWtYMVl3U3NQTmd2MDM0alRSU2JfdDdEWFJEdHBIX25XZmRYRGpQV29YVzBrZExEOVVORS13ZlVvdlhZMkl6bF9CUUVrWmJfZG5saXoxOWNtU2NJOUprc2VNeUxVYzdQRnphbmVCM0dFMmZSMDZKd19tb0s1REs3NlZPbEFFTmVYMFZRajBlSFB5bU1PQ0VyUEE?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-11-12T13:53:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Liberty Capital (NASDAQ:GLIB.A) Strong Profits May Be Masking Some Underlying Issues - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWxVYW5jdkduYURTNWMzWF85UnNKaW1uZ280a0lISXN2M1V3NEtGRUxJLUVHSHNLVkFwZE9LWWd5YmFZVzlBQkt0eUVya3RVTE9hTTV6UVdMVFNnazdpWHJIMG91cXB0WEJlNG9LNDh4UjVnVEVETUU2WFhaYVJianU4ZkJUbnF5MnR6SHAtUUNJX2NTVTB6ZkN5elZiZVpsd2k1VXNjclRUTkhJUWVGTkpKcHowdVhtTmo3MkNCWmRlMEJhNHBLQ1ZxSWFTTkxl0gHWAUFVX3lxTFBRWjUxc2Q0UGtfc1V0VkVRbGYyNkZDZlpHX0VWTTNfczdoeTI4YzZKZFBmQTRRQkdfVGZMbWQwRXh6NURFM29HNVVYR3g1SVhFeDg1YTR5emRpYUVEV3RWMXZJby1VWFNJdVJ6RTJGVU1ZcElRaG93N0FtdkgyQVVMR3dSMVpUQ1oxNWp1eGNqTm4zVDRJZ3Y0ZDI2Y0R5LXAzSXRGeDkzeE03UHM5WU1WcHdVSHJrZ28xTDlJcHhSSWFxNnFudmc4dVpHZWNQNmE0blUzblE?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-12T11:31:32+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -139,7 +143,7 @@
     },
     {
       "type": "kr",
-      "title": "'CEO 해임설' 엔비디아 급락…삼성전자·SK하이닉스 파장은? [뉴스큐] - www.newsq.co.kr",
+      "title": "'CEO 해임설' 엔비디아 급락, 삼성전자·SK하이닉스 파장은? [뉴스큐] - www.newsq.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwVFV3bXJyMjUyYW5PeVdqbEJqbEkwZWhvdU9YX0M1eVBFZHBRdGotamNIemV3RHdJSEpmanM0eDBURjJ6dFpjMFlSMmV5MnhzZUFuSDBHM1UtaktOeDJLWTV2czNGVWIzR0E?oc=5",
       "source": "www.newsq.co.kr",
       "published": "2026-11-12T02:24:01+00:00",
@@ -256,6 +260,15 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "META_TITLE_QUOTE - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wLXdlSm5MT0hsWEI2RjNWUHB6R3FYWEYzbi0ydDM4NGFScjNIZmYwYlpGQzRVWmdrVHJHcnRJdFdrMkxFczJqYnE2VFNWQQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-12T00:44:50+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "[개장시황] 뉴욕증시 반등에도 국내 증시 보합권 등락 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BejVHcjNHeTNLVkx5WmtKVzE3T1VBYVBGSWFwZE1BMDYyQnJ1Y0UwOW4tQjBYY25iYlR4X1VXNlA0VHNUT2N1MHk5ZUE2RmJJMUZZZDFERGFLYjlB?oc=5",
@@ -275,28 +288,10 @@
     },
     {
       "type": "us",
-      "title": "What is CoreWeave and why is the stock market rising and falling on its earnings? - Marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1VMcjdmVzM4WTZOWFZfaXN3QW0yR0I4OU9kQlppWFFjTG1mclBlSEQ4dUs0Y1l6WDhuRUxaUGMtYldyNzgxcWJVaUVjaFczeGNERXRKdWJzOVJMbkVPYWJPa3hlcjM2YUtjbVk1OS1oeDJBOHZ5NnViVnJpMXVNUVFUNVhTZllRUVhWeg?oc=5",
-      "source": "Marketplace.org",
-      "published": "2026-11-11T22:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Nasdaq Extends Gains by 1.6%, SOX Surges Over 5%; Tech Stocks Lead Market as CoreWeave Soars Over 25% Post-Earnings - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVZndk1kUzJ6cFVLWXFUcjhvdlREQkJ1cERpM1V6TUl4eENvSWM4aXFEdmk4aEcxeFVWUEpIdFhHYkc0UVVpVVQ0cXJiSEdsbEkxMEhoZVEzZzFxb09QUzl6M0praE9CUVFOX3hDRjZlYnNWR285ZnFTby01SlRFbjJiVDlOb3ExREdRck9OR3V0NEoweU8wMU5lSEhEOFhhbm9WT1Vzd1JrVW9ENGhlZ25ZS1lrbVp3X0U2YVFTcEhmZGNKSVJ0bzU4NFlNdTVZWFpj?oc=5",
       "source": "TradingKey",
       "published": "2026-11-11T21:22:51+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Stock Market Today: Major Indexes Pare Earlier Gains But Finish Trading Day Solidly Higher - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0NzMVRVZjloM3pod2ZMMzE2UnBBTjF3ZjZET0t1ektJb1VycmxDdFJqbjNISzU4bXc0ZmxJY21pcDdldzFTRkhBSFZCWlVZTDlGOWYxaUV3NTRYcXlJZEowdzAtb3U1c1QzRUNMNXdKa2tBYlltMkxSMng5VU9JWlpYWWpaUmhqZGl3SFVZNm9xbmRPVkh1Qi1CZGRmSEREVF9yVGxsZGZhU3l2YnNkRWZEanpUVzM3ZVBSWkpGcDU?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "2026-11-11T21:22:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -307,20 +302,6 @@
       "source": "Kiplinger",
       "published": "2026-11-11T21:06:06+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nvidia Holds Support Ahead of Earnings as Nasdaq 100 Rebounds - FOREX.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzE0SjVEQ1ZxWDVpTzgxdmhTT3VlZ1JOUUZpX3ZMX0xBUFR4QWNzaVpvVUhWMkxjRDliSkRzZWdfLUlIUUpoajNUVTVLYVF3NnlNYlpfRXNJQWhXNkxYQVpMa21Ic3ltd2tGRDlSTjdKUlMtYkNHcWRHTkhKODAwTUlDaGpuR0doSTNqd09Td0lvbHlocDZReEZTQ0xKQXJFOTJHSXo1TVo5Rkxt?oc=5",
-      "source": "FOREX.com",
-      "published": "2026-11-11T19:34:38+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -375,6 +356,15 @@
     },
     {
       "type": "us",
+      "title": "US Stock Futures Advance as CoreWeave Earnings Lift Technology Shares Despite Inflation Concerns: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0NHU3VDM1lBOHVxT2cwbUtGZXdWRjZGR1lQNGxqd2F6Vk9Yanh2OTBEUkFUUWFzR2FLMlVQcnhhbi1Bd2o0NG1ZaVRmdkluT29YbmVhU3NmdDNSa2lFOWszN0hYOFpxTngzbDdWRjZ5TDRYLVBkRk93MmtvbHEzZTM3Y0dVZTBQb3lZ?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-11-11T14:15:22+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "Wall Street Futures Rise as CoreWeave Earnings Support Technology Stocks Ahead of US Market Open: Dow Jones, S&P, Nasdaq - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYm93M3ZTUUpxSWZzVlFRX1JnWnY4SU5wY0UtVGh3LWRUOVFZVV9KQ2FZUjFJUjZzLUZVVEhnY3A3QS1LZ1g0MHlvcHZWSjFkRUlWWUo1dnJrSE80aEZZZ2pIWVRxUXp4bEhzcE1fNXlaVWFfRUREVjktZ0NoVFhoRXRNZ3U1LVZDNG5CTHF2LVItVS16R2hkWVZWaURVeXZv?oc=5",
       "source": "Yahoo Finance",
@@ -384,43 +374,34 @@
     },
     {
       "type": "us",
-      "title": "Nvidia: I'm Buying Heavily Ahead Of Earnings (Rating Upgrade) (NASDAQ:NVDA) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXpMY090UU1LaEdWcG1Pck85TEsyeEVqdUk0ekJlWW5VczlJeWl3ZFRZOW9mTVNOOXZOWEZJbkR4Z0FTNFBheDBQOEZCeGdsbmZzS283bVZoS2E5b2g2UThsWVJyMHNtLXp2UmViYk9IRzkzeTh1WnAydjZ4aGhvbjFiMnEyOV91SklSbEFaMk5DSHVOY3lRelQweGFrUVFKR1A3blI2c05Gdw?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-11-11T13:17:09+00:00",
+      "title": "CoreWeave (NASDAQ: CRWV) stock price forecast: Shares rebound after record $3.66 bn revenue and $132.5 bn backlog - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWlkSzBIQ3hvUUI1M0FCMXQtYW9KdVF4U3pBb0N6TjRjRWJZem1ZYTgtcjVLYVdLRzlxdEVkRlNrZkUyM09Rc0VZMG9RVjlyQlBUbTZKeFB1Mk9ncGc5VnFGdjN2TXR5OUs1SjYwTGtiQURCWHJDS2g2MGZtMGR1aUs5RkVNRS0za1p4QVVwaDFHV0pVX1FfN1pnbWFuY3ZDYVE?oc=5",
+      "source": "Beinsure",
+      "published": "2026-11-11T11:41:54+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "US Stock Futures Rise as CoreWeave Earnings Support AI Shares and OpenAI Revenue Reportedly Reaches $10 Billion: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzdWMFl4bjBSSVBYWDJkX2o1MWxVZk42enpidkJXNWtKTkxOUGdKZERaZEdGY3VTb1RGZWFUaVRPOUF2MVNmNTBzWVctWFk0WUJWTnV5c3k2NHdqR1dlTmJTR0F1akNEZ0xYbEJTUGZaSFFYdjEzU21sU2pocmE3akVqN092RUtxNjBpb25jcno4amtrYjB0QjF4dEU?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-11T10:07:10+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Nvidia Holds Support Ahead of Earnings as Nasdaq 100 Rebounds - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2ZiRmRvZHZWZS1xNXlJVmxzZFdlbk1jRFMxYTBSSThDaUNycGVxOW1qX0JyYWxUWHBlUHNhS3Fsbi1Kc0JVWEwwTEQxcGZYdzU2OXhzVmJMdElxMW02M2txWXQzeExUSDRsUTZLeEdzMllfbVJrTzJ4bFR3aXU5M1hqakJMd0Y1UngtWjR2NTZ0UnVHcDQzUmNmU1BheXRGeDVSQ1JOUVRrb3JpaWRfNldIZ1l0SW5XQ3k2bw?oc=5",
+      "source": "StoneX",
+      "published": "2026-11-11T06:08:19+00:00",
       "stocks": [
         {
           "name": "엔비디아",
           "ticker": "NVDA"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "S&P 500, Nasdaq futures rise after CoreWeave soothes AI spending fears - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGJ5bkNDcEt5YkZVaWdNQzhNVWRYSF9SUWZDY05Mc2lOMzRGeGw5N3BjZnJLeGl2ZmlmNTkzNGRBSU83OVFzeTltWHNDM3BDOUlrNmRUcUNfYjVTdi1WZXVjX1NjRjBuZGRIWDZoX3J3ZjJwMl8xVHNUUjJSdENTT0s2cy01WmdHenZwbG9IWmp3WVJN?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-11T10:44:31+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Stocks end higher as CoreWeave results ease AI spending worries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-11T10:43:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Dow, Nasdaq Bag Triple-Digit Wins as Tech Makes a Comeback - Schaeffer's Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVVxZ0VQOFhYYVdCMmJfRV9wOTdkVVRvT1l5SXFZSGx3bUZvVE1vbmdtX3BFUzhvRzRYZXBsRGFKdGNoeWZHUGVtbkZHb1NnaHNTS1VtWjZPN21iVXhjOXhIZWo1c2UtN09LWER3U1hGZC13SnFxc251SmhwQ1N2WUl4Q0dwUFRSaUlhMTZLb2o4Q281RkY5S2ZfSjJtY0JlR24xN1ptcDdJZExCWW9QNnhmaEdFODg?oc=5",
-      "source": "Schaeffer's Investment Research",
-      "published": "2026-11-11T09:26:42+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -443,33 +424,10 @@
     },
     {
       "type": "us",
-      "title": "Wall Street ends higher, Nasdaq adds over 1.5% as AI trade comes back to life - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDIwT1A1aVFIMDNGcWZMYmgyWXFQemVUc2hfYm1YSE9UX0I4a3k2OGxWVG5GeEpZX2dhTnR2QWdRYWhSZlZVTjFtSDBmc2lHaEtJcDRmRlZ1MThwTGNWbFJrenlKYnE5TUZFU0oxLVNVZlN1QnduRHVLdGdKSkRQbGtEMjlMdUNIUFZKR2hZaEFabTBsdzJEOVdncWlnbjBvV20wSjBLRVhWZjdfMGJ2Y1NYOW1RME5fa19NdjFfZmQzWUJYNTYzWG5B?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-11T00:44:36+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "U.S. stocks close | CPI far exceeds expectations, putting pressure on stock indexes and pushing them lower; space stock Rocket Lab rises more than 6%, after its earnings report it fell as much as 10%; NVIDIA has erased nearly $2 trillion from its market value s - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2l1Tlgwd1FfUXlIZHNPRXRMUW93b1pTRzdxZ0Vfb3FENzJLcXM3c29aaXFkWVJTSzk0ODk5Q2JHdHZaUU5UOTRtcHh0RTVuVEdvXzgyd2w5ZDB1SDJJUlJsbkZUTUNDZUtfS3hybTdnNWRoRHpZaF9KRFlYMU8ybHBwdWIwRlBBNVBsS3BnTktnNHBYUWVYT0l0Z1k3enhNV3Q2UGtBcnhKYzg?oc=5",
-      "source": "富途牛牛",
-      "published": "2026-11-10T22:44:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-10T22:32:05+00:00",
+      "title": "Wall Street ends higher, Nasdaq adds over 1.5% as AI trade comes back to life - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUNTNGk2aVpBNHQzZXJoaUFTcm5HMTJBOHhGLU5qeGt3T19DN3I4Y21VSl8yVjZDR2VDc0l1RkI0bjUyZm5ZS0NOTzZTN0ZQeGgzYnZTQjd0YzJRMl9BSjFUV3dNV3l2YWx1QXBGOXNlT3ZTWjRKWUpuNDNpUXE4M0c1b0RjTnpGcmE0WkJtMGZudFBVUGYw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-11-11T01:12:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -577,6 +535,24 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nbmY4cU9scXZncS14TFg3dWZWN21tQS16UktNazZTRFZEWWx0QjlWZ0dySlhTbXpiSENmODJNMV8xWTctZGNxb0dXd2xudUVhc0FqOFpobWt2b2JJ?oc=5",
       "source": "뉴스핌",
       "published": "2026-10-21T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-13T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-12T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -785,6 +761,15 @@
     },
     {
       "type": "us",
+      "title": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-04T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "Zacks Investment Ideas feature highlights: Apple, Microsoft, Meta, Amazon, Nvidia and Tesla - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXVQUEd4VUdfZ0c1eUN4NnhjMUwxbG1XZUtISkFHN0ZuUFBrNDJvUE5FeUVISFdNNEVqN2p1NU9HbXhTTEM4ZHdMeTh2TVRlXzJ0eHp1WUxhUjlXUWxMa19sSEEyUUhXVXk5Q3RGRl9ENlAyYzVyUVN3T2dmUlFJUTZFdEFycjNkeXNVN2IxUmo3Z0MwQy1TY25UZFVjaHRPUzB4U2VJN2hfQQ?oc=5",
       "source": "Yahoo Finance",
@@ -807,15 +792,6 @@
           "ticker": "MSFT"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "증시 급등에 코스피·코스닥 동시 매수 사이드카 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNG9vTjN3WDBCa0cwQ1g4R3RrLXRDVWtIdVlLWnBoeVlrR0FGa1pVUTd4bjJyRlhGY3VrOVZBMjdjT0ZnVmpYcVRNT3cyaDZvcUtSWExleVRVQUnSAWBBVV95cUxOTUI2SEZqcFROX2NYVEM2RVF4WHlqWGJjMjV2NEdWSXpVZlQ5b3NEdm9jYkxoS1VFLUw2WkR5TXFCbTh5clJIdFhiOUVIOUExdXZnZjRUaTV6UFBLbURJNXU?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-07-31T07:00:00+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -909,15 +885,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xOERNM0RpTzRJQTBrZnBoUkt0X2RSMG1zWllrMXBPMl9vUHdGeXl5T1R5UEgyTEVGVUIyOGQybzhWN2Y5N2p1Q01uYmJOR05yY3lFVTFKTkRPb3RZcHpzcEl4VkFyODMyTGltVzh0NzkyQQ?oc=5",
       "source": "한겨레",
       "published": "2026-05-16T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "코스피 8,000? 숫자에 속지 마라! 30년 투자 고수가 본 반도체 '진짜 고점' 신호 - 네이버페이 머니스토리",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYdUR3Rk1MNG4xWHpBU3ZicWs3WHFSR0hxTjJwWk5Ta25jNTQ3cnlDajd6LWNuQjBpSVAwTlc5eW9MbzBlWGY5eVcyZFlZRTg0R3VXTVdJM1o2UQ?oc=5",
-      "source": "네이버페이 머니스토리",
-      "published": "2026-05-06T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1133,12 +1100,30 @@
       "published": "2025-11-05T08:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "국내 주식시장 급등…코스피·코스닥 매수 사이드카 발동 - 연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vdmpRZ2xRaVdHNXJOem16ZzZiTm5CRFplOUR0YWFfdFhaUHdNZ1RTcXVENGkyQXNnSjZYb2VNTk9ybDZuWFhWeU50UW1FZUdVY0FqamlBSWFhTFZRZzdDRXpTY0hBUzQ?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2024-08-06T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "6월 한국증시 성적 세계 '꼴찌'…하락률 코스닥 1위·코스피 2위 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lVlNVOEhvNXF3Sm0zREQzNF81VnJMWEdrTFo3TFVHZjZMZDQ3Z1RKY254M2FTLTVVWVN1UDMtZlh3MF9fQmdMeTZIaDN5NHU0V3lTWXkzTWdwWVnSAWBBVV95cUxQSzN0N0hkUVdocWR1elJjYmttMks1ZmMweUFicERsdmx2eVYzMVE3TUtMNHFOZDlSMl90YURGRFFjZWtyaVFPUmd0OERfZWRCOEtXcjhDQU1Lc3hXVTMwNlQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2022-06-26T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
     }
   ],
   "top_stocks": [
     {
       "name": "엔비디아",
-      "mentions": 26
+      "mentions": 23
     },
     {
       "name": "애플",
