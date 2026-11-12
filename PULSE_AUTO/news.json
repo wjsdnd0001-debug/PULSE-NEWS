@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-12T20:55:56.596298+00:00",
+  "updated_at": "2026-11-12T22:53:28.468027+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "젠슨 황 없는 '깐부 동맹'…삼전닉스 HBM 공급 차질 빚나 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhVFBoZlNnSFFHNUtPTUxHb3o1b05Kd0tkSHdHb1Y2UURXUS1NbXRQZ2ROajA0RVhSV25SRVRtVVdxWGtObXdieU0zQ2tYM2NXVHJoOFlyYnpLZw?oc=5",
+      "source": "한국경제",
+      "published": "2026-11-12T22:30:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "對중국 반도체 통제 강화하는 美…삼성·SK, 기술 경쟁력 앞세워 기회 모색 - PRESS9",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KN0ZNNEF1RXdBMU90bUpIZmd4bmpzeThqeEtkOXYxdjNDUXlaQmlhcmpqSFFJSGc2V2ZyOGFRZWtHRXNaOTZGUUFYRWY0NnJaNzBYanNjNVZ3cVpHeV9DNWhoTXU?oc=5",
+      "source": "PRESS9",
+      "published": "2026-11-12T21:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "젠슨 황 사임에 엔비디아 4%대 하락…외국인, 삼성전자 7449억 사고 SK하이닉스 8720억 팔았다 - 녹색경제신문",
@@ -147,24 +165,6 @@
     },
     {
       "type": "kr",
-      "title": "[거래소 기관] SK하이닉스 팔고 삼성전자 담았다… 수급에서 드러난 변화 보니 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5INUExc0phQWM3ZWRwYU8ya1lwSFkxSWN1eHhqZU4zbmxJTGhVck1UaU51NEJFVG1jaVFCbGQ5RVByVkR1UDZ5N1R2a1B5SmxpSGNmWnlHMl9MMmtnZlVzbnFwamtWVU0zWVlTbERaa21TTk3SAXdBVV95cUxNUEstNVgwOFpUaTFzU0h6dGNDWXN0a1Y4aTg2SGtkMmRJWG9MajNyclpuenI0MDdmbkxJNWdMeThtWmEwSVNPcDQxQmpSWGhNUlQxX1pucWVwdFB2MnhOQ1M3YVRIS3FnNzcyVGJEc29wb2IzbFNqTQ?oc=5",
-      "source": "핀포인트뉴스",
-      "published": "2026-11-12T06:58:38+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "[마감시황] 코스피·코스닥 나란히 하락…젠슨 황 리스크에 AI 투자심리 위축 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xWEVEXzd4aE15OVhqbnN2WWFZVEZmNXo0aDh3Z2laMC1BODAzVHdTcTNHcEV1dUM4MTlqUEpJaGFhbWlvd2tVYlB3eXo2Z1FoWDJfbG1uQkJSVUln?oc=5",
       "source": "뉴스핌",
@@ -200,24 +200,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "kr",
-      "title": "코어위브 재무 리스크 완화에 AI 반도체주 반등, 삼성전자 SK하이닉스에 '훈풍' 예고 - 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByS2NMbHBrUDNNWGdzR0xiTG0zNDNHZzFTSGxUcHU2RC1tWWdzZy03RmJPVG9lcURjMGNKWmtFUGVoeFhuX2p5ckJrekQxMnFKejBTYXRZaFM5ek1KbDhoUFFpbElRUGp2eFNwdjBsZjJzaFU?oc=5",
-      "source": "비즈니스포스트",
-      "published": "2026-11-12T01:24:23+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "us",
       "title": "Today’s Market Recap: CRWV Earnings Ignite AI Rally; Micron Surges Nearly 12%, AMD Jumps Over 7%, Nvidia Rebounds Nearly 3% but Drops Over 8% After Hours - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkplS1RfX3hIdEQ3SmtfbFNlZUpKZHhPalRlUEpGbzdhWFpmUG5PRXhlazlIdU9KeW9YU0JRcHJGSUhZSUlQWHh3NHJJZ1QxMVoyMzEwY2hZMmt6OVJrQktkNUJjdURleS0wdGN3X1pGWmRTbWlLSG1lNzZkZndoOENQOEYwbks2cWpvMDl3V3k4YVNsOEZSZDdBRWNnNWd2WDRydkxGRjkwUVlrNFcyRF8xaS1nMXVfdTFicWZrLXBIdXpsV3VVLWoycnI1UQ?oc=5",
@@ -227,20 +209,6 @@
         {
           "name": "엔비디아",
           "ticker": "NVDA"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성전자 장 초반 2%대 상승…美 반도체주 급등에 투심 회복 - 진일보 | 전남일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tSnpaQUpzWEItSWVnVVB4azFqeVFYVzdXMF95cUg5MGNJNmxMWGJxalpQYVViTDNrTm82OWZoSzI1SlVLYVBNMlFOMTY4TDJtRzhOdC04VDFDSzFSRURlNXE0QnUyZnZVdVFwWXhxNA?oc=5",
-      "source": "진일보 | 전남일보",
-      "published": "2026-11-12T00:51:33+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
         }
       ],
       "sentiment": "중립/불명"
@@ -283,10 +251,10 @@
     },
     {
       "type": "us",
-      "title": "Nasdaq Jumps as CoreWeave Earnings Revive AI Stocks - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHZDcE41U3hsT3JHdFM3amxBZ2V6SUg0NnQ4UnZscUdqU2M5cWZkUUJQUUxpZ2Rpbk1hR3hjb2RRZHNBaGRpVnkyajNhSDhmYk5aQTdRaTNlLWRNVHFobnNROFBSWEIyVnpxYm01dDBNLWFHRGFkdUhyQjE4dExpeG5GNGlYaXg0?oc=5",
-      "source": "TipRanks",
-      "published": "2026-11-11T17:31:56+00:00",
+      "title": "US open: Stocks mixed as CoreWeave earnings boost Nasdaq - Sharecast.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU05ZQjd4eERrVnZFamV6MURvUHdKNnJ6WDNRUDRYVTBSYjQ4dlh4X0NTNk1UWWVsaGxoV0hacHZ5c3FpZmQ1RGJxYklBaWFpYU5OenYwLVc0UHhiS2lHRE1JZUptRWR6Vm05aFR1dDl6VjBRM2pNN1hNOGR0WjZ5VWxTcFhtOTJYcFE0LVRtTGpTRm5ZN2ZfdGZtRlFTR3NXVWxhOVpiclJvYTZaeDc5RDdpWGZNa1poY0E?oc=5",
+      "source": "Sharecast.com",
+      "published": "2026-11-11T15:57:19+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -319,20 +287,25 @@
     },
     {
       "type": "us",
-      "title": "CoreWeave (NASDAQ: CRWV) stock price forecast: Shares rebound after record $3.66 bn revenue and $132.5 bn backlog - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWlkSzBIQ3hvUUI1M0FCMXQtYW9KdVF4U3pBb0N6TjRjRWJZem1ZYTgtcjVLYVdLRzlxdEVkRlNrZkUyM09Rc0VZMG9RVjlyQlBUbTZKeFB1Mk9ncGc5VnFGdjN2TXR5OUs1SjYwTGtiQURCWHJDS2g2MGZtMGR1aUs5RkVNRS0za1p4QVVwaDFHV0pVX1FfN1pnbWFuY3ZDYVE?oc=5",
-      "source": "Beinsure",
-      "published": "2026-11-11T11:41:54+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "US Stock Futures Rise as CoreWeave Earnings Support AI Shares and OpenAI Revenue Reportedly Reaches $10 Billion: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzdWMFl4bjBSSVBYWDJkX2o1MWxVZk42enpidkJXNWtKTkxOUGdKZERaZEdGY3VTb1RGZWFUaVRPOUF2MVNmNTBzWVctWFk0WUJWTnV5c3k2NHdqR1dlTmJTR0F1akNEZ0xYbEJTUGZaSFFYdjEzU21sU2pocmE3akVqN092RUtxNjBpb25jcno4amtrYjB0QjF4dEU?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-11-11T10:07:10+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성·SK하이닉스 빠진 앤스로픽 반도체 동맹…TSMC·마이크론은 대규모 투자 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kamtkWWVieGZ3LXdEd2NPTjh6ZXk5cGJLSFBiVmxnZ0QxNWVYaXYtZXZ6ZUFPRjloeGZ5dHRZRVdlb1dnZmRhM2ZGQ0Q3SklIb2lWaFVXWXNuZ1M1?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-11-11T02:10:00+00:00",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -489,15 +462,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-22T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "[개장시황] 코스피·코스닥 1%대 상승 출발…급락 딛고 반등 시도 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nbmY4cU9scXZncS14TFg3dWZWN21tQS16UktNazZTRFZEWWx0QjlWZ0dySlhTbXpiSENmODJNMV8xWTctZGNxb0dXd2xudUVhc0FqOFpobWt2b2JJ?oc=5",
@@ -544,6 +508,15 @@
           "ticker": "AAPL"
         }
       ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-06T07:00:00+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -839,6 +812,15 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "April 2026 Review and Outlook - Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00LW02d2dnbXFqSlZIdTBibDlfYUJxTXZidUd6QlRvN2pIUTh1U0o3aVlKSUtkQlJIbXJHRmlBT3FNdGNGQjgwR2FRa0xEWHlPaHg3YU9xNmMtYnNBQkpVbkFtOUdFUmlBSEZrRjhR?oc=5",
+      "source": "Nasdaq",
+      "published": "2026-05-04T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "'파죽지세' K증시…코스피 6600선 고지 넘고 코스닥도 신기록 - 한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ab2V5S3JET2pqVTVBNDNiVWttZ0dNX0hBbVZfRUtrYnhjUHJZVGhQbmtKcEYwRFpuRzdRZkNJeG52R1dVYnotTFJIMzVQRzlwWElvR0NsR3loZw?oc=5",
@@ -1101,12 +1083,12 @@
       "mentions": 17
     },
     {
-      "name": "삼성전자",
-      "mentions": 12
+      "name": "SK하이닉스",
+      "mentions": 11
     },
     {
-      "name": "SK하이닉스",
-      "mentions": 12
+      "name": "삼성전자",
+      "mentions": 9
     },
     {
       "name": "마이크로소프트",
