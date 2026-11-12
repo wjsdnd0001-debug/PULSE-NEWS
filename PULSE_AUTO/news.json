@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-12T19:00:27.799990+00:00",
+  "updated_at": "2026-11-12T20:55:56.596298+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "젠슨 황 사임에 엔비디아 4%대 하락…외국인, 삼성전자 7449억 사고 SK하이닉스 8720억 팔았다 - 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RVVdmSTBoX3NkTXNJSC1wVzlKV0NUUTVxaGl4NVRTUXlqazdCM0ZfWlZfNldnRGdzczlFYWlBLTRGQ0Z3bGtpcVdGUDVXZWRsbnVsVTZLNVlqZ01tZzVuekdNV1dRNUdT?oc=5",
+      "source": "녹색경제신문",
+      "published": "2026-11-12T20:07:27+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "“외국인 7조 가까이 팔았는데”…앤트로픽 120조 IPO, 삼성전자·SK하이닉스 반전 기회? - 데일리25",
@@ -39,16 +57,11 @@
     },
     {
       "type": "us",
-      "title": "Nvidia Holds Support Ahead of Earnings as Nasdaq 100 Rebounds - FOREX.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTZYaGdvWGtWR1RPWjRwS2JrMUpUbG9xU0RSOTJtaXhHeXpzbTktY1pLeWdzemw2N1RyNlh0eWhGMVBDbzBjN0w0VkJyTDR2M1FWT1AwV09JaGRPZXM2NlM2X0tmSndLTUVOZDl0b3VXVkoyRUJJMkZhNEV1QWFVWnpLbkVyYzNMaVBtazdqVlFZRE9VVGhndWprdEJ1bHdpMGVwTzIxRThmSWlC?oc=5",
-      "source": "FOREX.com",
-      "published": "2026-11-12T12:08:41+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        }
-      ],
+      "title": "Liberty Capital (NASDAQ:GLIB.A) Strong Profits May Be Masking Some Underlying Issues - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWxVYW5jdkduYURTNWMzWF85UnNKaW1uZ280a0lISXN2M1V3NEtGRUxJLUVHSHNLVkFwZE9LWWd5YmFZVzlBQkt0eUVya3RVTE9hTTV6UVdMVFNnazdpWHJIMG91cXB0WEJlNG9LNDh4UjVnVEVETUU2WFhaYVJianU4ZkJUbnF5MnR6SHAtUUNJX2NTVTB6ZkN5elZiZVpsd2k1VXNjclRUTkhJUWVGTkpKcHowdVhtTmo3MkNCWmRlMEJhNHBLQ1ZxSWFTTkxl0gHWAUFVX3lxTFBRWjUxc2Q0UGtfc1V0VkVRbGYyNkZDZlpHX0VWTTNfczdoeTI4YzZKZFBmQTRRQkdfVGZMbWQwRXh6NURFM29HNVVYR3g1SVhFeDg1YTR5emRpYUVEV3RWMXZJby1VWFNJdVJ6RTJGVU1ZcElRaG93N0FtdkgyQVVMR3dSMVpUQ1oxNWp1eGNqTm4zVDRJZ3Y0ZDI2Y0R5LXAzSXRGeDkzeE03UHM5WU1WcHdVSHJrZ28xTDlJcHhSSWFxNnFudmc4dVpHZWNQNmE0blUzblE?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-12T11:31:32+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -148,6 +161,15 @@
           "ticker": "000660"
         }
       ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "[마감시황] 코스피·코스닥 나란히 하락…젠슨 황 리스크에 AI 투자심리 위축 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xWEVEXzd4aE15OVhqbnN2WWFZVEZmNXo0aDh3Z2laMC1BODAzVHdTcTNHcEV1dUM4MTlqUEpJaGFhbWlvd2tVYlB3eXo2Z1FoWDJfbG1uQkJSVUln?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-11-12T06:58:00+00:00",
+      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -261,20 +283,6 @@
     },
     {
       "type": "us",
-      "title": "NVIDIA Earnings Could Put Your 401(k) to the Test - NVIDIA (NASDAQ:NVDA) - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGNhcVpETHF4U2lra3JnZmZqd05nUVlOTnhEa0ZGbVRMcW5qWi0zVU9jS2ctc1FFWTlveTh4LVZKR1dKMTJLT0djMHlEWnZKT0ZBMGdYcVdhbjRYbXBqRGRUbG5sWmVaTEFzZWt5bFZyODRWdk5hMXJNSnUwUUt4YU9GN0F1M0NxSlZuYmpUYUtQcmg2eVlv?oc=5",
-      "source": "Benzinga",
-      "published": "2026-11-11T18:26:29+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Nasdaq Jumps as CoreWeave Earnings Revive AI Stocks - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHZDcE41U3hsT3JHdFM3amxBZ2V6SUg0NnQ4UnZscUdqU2M5cWZkUUJQUUxpZ2Rpbk1hR3hjb2RRZHNBaGRpVnkyajNhSDhmYk5aQTdRaTNlLWRNVHFobnNROFBSWEIyVnpxYm01dDBNLWFHRGFkdUhyQjE4dExpeG5GNGlYaXg0?oc=5",
       "source": "TipRanks",
@@ -325,20 +333,6 @@
       "source": "Yahoo Finance",
       "published": "2026-11-11T10:07:10+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성·SK하이닉스 빠진 앤스로픽 반도체 동맹…TSMC·마이크론은 대규모 투자 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kamtkWWVieGZ3LXdEd2NPTjh6ZXk5cGJLSFBiVmxnZ0QxNWVYaXYtZXZ6ZUFPRjloeGZ5dHRZRVdlb1dnZmRhM2ZGQ0Q3SklIb2lWaFVXWXNuZ1M1?oc=5",
-      "source": "뉴스핌",
-      "published": "2026-11-11T02:10:00+00:00",
-      "stocks": [
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -490,6 +484,15 @@
       "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
       "source": "Reuters",
+      "published": "2026-10-22T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5",
+      "source": "Yahoo Finance",
       "published": "2026-10-22T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
@@ -1082,21 +1085,12 @@
       "published": "2024-08-06T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "6월 한국증시 성적 세계 '꼴찌'…하락률 코스닥 1위·코스피 2위 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lVlNVOEhvNXF3Sm0zREQzNF81VnJMWEdrTFo3TFVHZjZMZDQ3Z1RKY254M2FTLTVVWVN1UDMtZlh3MF9fQmdMeTZIaDN5NHU0V3lTWXkzTWdwWVnSAWBBVV95cUxQSzN0N0hkUVdocWR1elJjYmttMks1ZmMweUFicERsdmx2eVYzMVE3TUtMNHFOZDlSMl90YURGRFFjZWtyaVFPUmd0OERfZWRCOEtXcjhDQU1Lc3hXVTMwNlQ?oc=5",
-      "source": "연합뉴스",
-      "published": "2022-06-26T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
     }
   ],
   "top_stocks": [
     {
       "name": "엔비디아",
-      "mentions": 22
+      "mentions": 20
     },
     {
       "name": "애플",
@@ -1107,12 +1101,12 @@
       "mentions": 17
     },
     {
-      "name": "SK하이닉스",
+      "name": "삼성전자",
       "mentions": 12
     },
     {
-      "name": "삼성전자",
-      "mentions": 11
+      "name": "SK하이닉스",
+      "mentions": 12
     },
     {
       "name": "마이크로소프트",
