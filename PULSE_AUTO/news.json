@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-13T02:54:16.666727+00:00",
+  "updated_at": "2026-11-13T05:04:31.224298+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "[긴급진단下]AI 반도체 '다극화' 속도…삼성 기회·SK하닉 여파 미미 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yQWhKNWdVRHE0aklKc2dZN0tOMzJCUXhTNWszMkJPeWRlNWZQc083YnRjc2JuNl8yZkJZUlVDcVJ0VTR6a3ZCbGdHZk1LR3pMeHVfUzQ0QUh0R2FLOGVVbDB1cDg?oc=5",
+      "source": "뉴스1",
+      "published": "2026-11-13T04:17:18+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "젠슨 황 퇴진, 엔비디아 독주 흔들리나…삼성전자·SK하이닉스·국내 AI 반도체 새로운 기회 - 데일리연합",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLXzl3MTRIdlhQamhJZFhHUS01SnFYdHdEN2V0UkFYSXN2SjhMeDI1eU05WmIxRWdJLVZCaERVRDktTVRmak1YMDNpT0lxZWNQWTE3S3k4bTA4eGFZTVE?oc=5",
+      "source": "데일리연합",
+      "published": "2026-11-13T03:34:58+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "엔비디아 ‘황의 시대’ 막 내렸다…삼성·SK, HBM 공급망 재편 촉각 - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lVHF0MkVRblpaMmJnTmxzT1RnVWxzVVpyWVcxT2ZCbjFRemVUVy13ZXFlYkhFNnZ4MmFMY3RsMzNuRmJCcHV0NWsxM3Brc1NJbXhYNW5uRmN0eHM?oc=5",
+      "source": "에너지경제신문",
+      "published": "2026-11-13T03:03:01+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "“삼성전자 41% 빠졌는데 41% 오르면 본전?”…투자자들이 놓친 계산법 - 데일리25",
@@ -26,24 +62,6 @@
     },
     {
       "type": "kr",
-      "title": "반도체 업계 만난 노동부 장관…사회적 대화 논의에 참고 - 대한경제",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xWEVzcHlmN2lsNnRTYVZoczNPV2xzWC1tWW5QM0w3Y1BVMDI3Zld0MDlnOWdrQ0FaR1dwV3hkbGsxZ3RpRVVSczR0NURLa3R0dE5sd3NvZ0tsRlFpNXdkV3RoUFFtcWZMLUhWcVNybkw0MVFM?oc=5",
-      "source": "대한경제",
-      "published": "2026-11-13T02:21:32+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "[포토] 반도체 산업 근로시간제도 간담회 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUEx4X1RzellPXzR3N1hGV1V6Tk9KWFBKRWxxd09qcmlwNFA5QzBwVS1hLWpmeVJuTDIwSnFxSE9DZzdFOEJGTWtJU0xXMVNTQXFyLUE1RmlRQQ?oc=5",
-      "source": "한국경제",
-      "published": "2026-11-13T02:15:25+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "김영훈 고용노동부 장관, 반도체 산업 근로시간제도 간담회 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0a1g4c2pRYnhKS0NUU2RBM184azgxN0dFYmk3YjF5TWFGSVlubUlhQzJFOGVsYzBsVmk1X1pHS3hMOERoSHprbjVNd1FOZjdpeC11Z1FpTnJYZzBm?oc=5",
       "source": "뉴스핌",
@@ -53,33 +71,28 @@
     },
     {
       "type": "kr",
-      "title": "박수치는 최원준 삼성전자 부사장 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UWHZGdE03N3V2THI0QUUxQ1JjTUVFUmxNYm1ydF9XcXVHekdwek5ROXNsTTBocXRoc3YxUDd2RnpXZzBfY21ZV2tyM3M2LWNSeC1EaHVSM3phVTVr?oc=5",
-      "source": "뉴스핌",
-      "published": "2026-11-13T01:24:00+00:00",
+      "title": "[특징주] 엔비디아 쇼크에도 삼성전자·SK하이닉스 동반 강세…2%대 상승 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMaGRONEVNY2VTd2RpZUFKb3oyekhHOGlDdEZmMVpFcnF6M1doN2ZJNjF2eXFzWmVyZkNfSjg5NW9VQlVtZmN0NVZTQUFjYlVleU5DLXNnQThjd9IBWEFVX3lxTE9fYnNtM1YwcUt0UW5wOC1pSTUwXzZfNkl1ZGZ6YkhZRTFGQy1Qc2hROEhUV2cya2RZT044ZTVvRmtaanlXUVk1eWotV1VZZ05TSW9rZ2pOQS0?oc=5",
+      "source": "아주경제",
+      "published": "2026-11-13T00:44:36+00:00",
       "stocks": [
         {
           "name": "삼성전자",
           "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
         }
       ],
       "sentiment": "중립/불명"
     },
     {
       "type": "kr",
-      "title": "반도체 간담회 참석한 김영훈 고용노동부 장관 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVZkJMXzl2alBEMzRJWDhxV19RVnJlQTE2YXZhY2xpWnoxUTZjcnRoQ3FYcERvbnNZTXhIZTBqbTNPS20xYXUtVXRGN1lVd2hQZmx4MW1TZkZhWHdm?oc=5",
-      "source": "뉴스핌",
-      "published": "2026-11-13T01:23:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "[특징주] 엔비디아 쇼크에도 삼성전자·SK하이닉스 동반 강세…2%대 상승 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMaGRONEVNY2VTd2RpZUFKb3oyekhHOGlDdEZmMVpFcnF6M1doN2ZJNjF2eXFzWmVyZkNfSjg5NW9VQlVtZmN0NVZTQUFjYlVleU5DLXNnQThjd9IBWEFVX3lxTE9fYnNtM1YwcUt0UW5wOC1pSTUwXzZfNkl1ZGZ6YkhZRTFGQy1Qc2hROEhUV2cya2RZT044ZTVvRmtaanlXUVk1eWotV1VZZ05TSW9rZ2pOQS0?oc=5",
-      "source": "아주경제",
-      "published": "2026-11-13T00:44:36+00:00",
+      "title": "[특징주] 젠슨 황 사임 여파 '미미'⋯삼성전자·SK하이닉스 '강세' - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xS1Fza3ZyLWs4cWNoRktSdzlpWGl0eWlVYnNYQ3BucmNUdG9pMHpWN0Y1ZlcyMlBSejA1OWZBM2plTXlIT3VkUmhDcw?oc=5",
+      "source": "아이뉴스24",
+      "published": "2026-11-13T00:25:15+00:00",
       "stocks": [
         {
           "name": "삼성전자",
@@ -203,6 +216,24 @@
     },
     {
       "type": "kr",
+      "title": "젠슨 황 사임에 엔비디아 4%대 하락…외국인, 삼성전자 7449억 사고 SK하이닉스 8720억 팔았다 - 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RVVdmSTBoX3NkTXNJSC1wVzlKV0NUUTVxaGl4NVRTUXlqazdCM0ZfWlZfNldnRGdzczlFYWlBLTRGQ0Z3bGtpcVdGUDVXZWRsbnVsVTZLNVlqZ01tZzVuekdNV1dRNUdT?oc=5",
+      "source": "녹색경제신문",
+      "published": "2026-11-12T20:07:27+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
       "title": "물·전기 끌어와도 \"지을 사람이 없어\"...반도체 공장 건설 '비상' - 머니투데이 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YVmlvaFVvOFRQRTNuSjJSLTlqZXBRYzNPN2Rnb0xldm50Mm9VcmVfRmtyR2hCMGxrTnhkZXFPU1UzRUhQMjhZTS14bTlfdFRqVlNfVWxaVFNPcG9RajJSaHYzV1BON1lfU2fSAW9BVV95cUxNSDZhRnlhcWpiYzFzbnRyUzRweTM0WkcwWXAxNzVhcVZIQ3p5TEtkc1BQQTljRl9YWlI4NnR2UzlmSmVIWFpILTZRZUFnU1lzY1JDWDVCNkVxdEYxYUc1eXphWWRNX09hTVhobjFTdDQ?oc=5",
       "source": "머니투데이",
@@ -235,6 +266,20 @@
       "source": "Benzinga",
       "published": "2026-11-12T17:21:15+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Nvidia Holds Support Ahead of Earnings as Nasdaq 100 Rebounds - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzE0SjVEQ1ZxWDVpTzgxdmhTT3VlZ1JOUUZpX3ZMX0xBUFR4QWNzaVpvVUhWMkxjRDliSkRzZWdfLUlIUUpoajNUVTVLYVF3NnlNYlpfRXNJQWhXNkxYQVpMa21Ic3ltd2tGRDlSTjdKUlMtYkNHcWRHTkhKODAwTUlDaGpuR0doSTNqd09Td0lvbHlocDZReEZTQ0xKQXJFOTJHSXo1TVo5Rkxt?oc=5",
+      "source": "FOREX.com",
+      "published": "2026-11-12T16:42:58+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -343,29 +388,6 @@
     },
     {
       "type": "us",
-      "title": "Nvidia Holds Support Ahead of Earnings as Nasdaq 100 Rebounds - FOREX.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzE0SjVEQ1ZxWDVpTzgxdmhTT3VlZ1JOUUZpX3ZMX0xBUFR4QWNzaVpvVUhWMkxjRDliSkRzZWdfLUlIUUpoajNUVTVLYVF3NnlNYlpfRXNJQWhXNkxYQVpMa21Ic3ltd2tGRDlSTjdKUlMtYkNHcWRHTkhKODAwTUlDaGpuR0doSTNqd09Td0lvbHlocDZReEZTQ0xKQXJFOTJHSXo1TVo5Rkxt?oc=5",
-      "source": "FOREX.com",
-      "published": "2026-11-11T19:34:38+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "CoreWeave Earnings Beat Expectations; Nasdaq Jumps Over 1.5% at Open While Dow Posts Only Modest Gain - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SWTdxSmlURWZCREdzcjV2U3lFU2VGRmNXcjJPWW5WY0Y1NWtqQlQ0QXN5OFVEMlJsWlV4NGtuUHd4Nk44UWpoZWhnMmNGT0Uyc0luVDZ2VmlxcFpQcEp0eENIeDBLeW40UVRuWUJKbjlKUGhvVnc?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-11-11T16:05:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "US Stocks Split on AI Earnings; Nasdaq Jumps 1.59% While Dow Gains Just 254 Points - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VMmstODgxSm5TZHZpcDJBMUUtZEpqYjBlZk5XdXFCYnFERVoyOWlFeDdaZHEyaTQyYzE5ckpMbnZEWE5vUUlJeTBzZFJrNzFRd0NESmhBanFxcXFpLVM2RWQ3NXU0YUJmN0EyQ3NiOUJpalg4THc?oc=5",
       "source": "BigGo Finance",
@@ -407,24 +429,6 @@
       "source": "Yahoo Finance",
       "published": "2026-11-11T10:07:10+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "미국 AI 데이터센터 업황 불안해도 반도체주는 '저평가', 삼성전자 SK하이닉스 반등 가능성 - 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XRmFhVzN0YUtqZ1psTnc1T2RXNThoWWRUNzAtRHY2dVVYbG16MlYwVktJckRGdTF1Qjk4bjROel9NOF9fTjdDaVJxOGhCWldYMmNLNW5pS3RxaWpIZVhiTmZNdFpZWWdhWE5GaWgtMmMxalk?oc=5",
-      "source": "비즈니스포스트",
-      "published": "2026-11-11T01:14:18+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        },
-        {
-          "name": "SK하이닉스",
-          "ticker": "000660"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -491,6 +495,15 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nbmY4cU9scXZncS14TFg3dWZWN21tQS16UktNazZTRFZEWWx0QjlWZ0dySlhTbXpiSENmODJNMV8xWTctZGNxb0dXd2xudUVhc0FqOFpobWt2b2JJ?oc=5",
       "source": "뉴스핌",
       "published": "2026-10-21T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "\"계좌 보기 무섭다\" 또 패닉…코스피·코스닥 '동반 서킷브레이커' [종합] - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWE1kNnBBOHU4NXVOd19VbVh1ZGVSZkZtekd1T2hfZUxlZHdqMHhNWlI2MS1OMVBqT19UTURHWWY2SExTSk56Y0Nlb1Z2MUJKTFo3SGx1WjFJZw?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-15T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -783,15 +796,6 @@
     },
     {
       "type": "kr",
-      "title": "코스피·코스닥 이틀째 동반 서킷브레이커…국내 증시 ‘패닉 장세’ - 산경투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0waC1aOHN4MHRMdnV3Vi1SLV9sTGlvZGpJYjJuMTVuTWVSOUlaSVJZc3p6WkI2dTBVazluQTBZZEE3TkkySDdMTm5uWTRORVJrNVJBTWZ2bnBZRHQ4Wm9Sc1BXOVFfRjVhRE5wckYwSlHSAXRBVV95cUxPS055bTY3V0JnZlhydWtnYkRpcHJMZ2NJcFF1Q3I1eFVmNFlkbXJ4MzNrSDBLVTRhYkpZV3dqSjdKdzIxbERrS204czNYNTZfN0pFOGFrQmtwMFJYSFRHOElTRVZYZzA5N3pxTUgwaUtBd3ZwXw?oc=5",
-      "source": "산경투데이",
-      "published": "2026-07-29T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "[주식시황]\"역대급 증시 패닉\"…코스피·코스닥 8% 폭락, 사상 첫 이틀 연속 서킷브레이커 - 남도일보",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05UVhDRHJvSXlUSTlLTzRtMHIzUk9JNlIwWGx5Zlg4a0I2ckszR0lOWkUzU1N5dERxTVQxYnU2MzhoaS1xX0VONWczZzVFUGhuX2ltWDF2c2VrV0hIay1fNEtxdWZPOWoxdmhKVtIBcEFVX3lxTE9Vby1oLTRMb0FxVTFFT0hPSXUzM3VkeUFFNHZjMFFVa0F3cVVMT0luTmhGZ093bUlqSUJYVGlybkMtM3ZlYlFBRXNNXzZwMXYxb0xUY1lia202MXhwRWRUMHc3VFBSbE9VQ0hLMHRZcnU?oc=5",
       "source": "남도일보",
@@ -881,6 +885,15 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYdUR3Rk1MNG4xWHpBU3ZicWs3WHFSR0hxTjJwWk5Ta25jNTQ3cnlDajd6LWNuQjBpSVAwTlc5eW9MbzBlWGY5eVcyZFlZRTg0R3VXTVdJM1o2UQ?oc=5",
       "source": "네이버페이 머니스토리",
       "published": "2026-05-06T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "April 2026 Review and Outlook - Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00LW02d2dnbXFqSlZIdTBibDlfYUJxTXZidUd6QlRvN2pIUTh1U0o3aVlKSUtkQlJIbXJHRmlBT3FNdGNGQjgwR2FRa0xEWHlPaHg3YU9xNmMtYnNBQkpVbkFtOUdFUmlBSEZrRjhR?oc=5",
+      "source": "Nasdaq",
+      "published": "2026-05-04T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1086,11 +1099,11 @@
     },
     {
       "name": "삼성전자",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "name": "SK하이닉스",
-      "mentions": 9
+      "mentions": 11
     },
     {
       "name": "마이크로소프트",
