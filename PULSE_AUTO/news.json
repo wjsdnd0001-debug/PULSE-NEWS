@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-13T09:04:20.215084+00:00",
+  "updated_at": "2026-11-13T11:06:37.255888+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "“22조 적자의 교훈”…삼전닉스, 메모리 증설 공식 뒤집는다 - 한양경제",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03aS1uUDRGT0V2Q0VsY2t0bmIyeDdsZHFUZjdVQmZVQnBNQWVfczBhbXBUYi1fV01lY0gzM1kydFN0YmYxZXprcllXNHl4dl9MNWU5cU5BZmV5dHE2TlpUV3dULXRpZFVHVGVOdm85U1k3QQ?oc=5",
+      "source": "한양경제",
+      "published": "2026-11-13T10:56:30+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "삼성전자 DS, 협력사 1000명과 AI 반도체 기술 공유 - 아이뉴스24",
@@ -45,20 +54,6 @@
     },
     {
       "type": "kr",
-      "title": "삼성전자·하이닉스·삼성전기 다 팔았다던 계약서 괜찮나? - 주간현대",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE55SklNV3JmcENGMU5ESE9qYThZblgxR1pMNklHcUFrb1JUOWNpSTJ1dXJoczdRV0lhNFNVdHlmV1ZCOFE?oc=5",
-      "source": "주간현대",
-      "published": "2026-11-13T06:35:00+00:00",
-      "stocks": [
-        {
-          "name": "삼성전자",
-          "ticker": "005930"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "엔비디아 위기, 삼성·SK엔 기회…HBM 공급망 재편 촉각 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40LVRjX3FHVDNWN1FtOWFSTUNPSG50U1RkSXBHeFl1bmFxT2t4YXhwVU0yRHdfTkFFYjBSVDFJS2hQelpKM0VCdGJjdnprWFRFakwwWnduZjMxU0Vk?oc=5",
       "source": "뉴스핌",
@@ -86,8 +81,17 @@
     },
     {
       "type": "kr",
+      "title": "엔비디아 떨어져도 오르는 ‘삼전닉스’…“관건은 AI 투자 지속 여부” - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiZTJjclJpaDlfblJGcDNtcm4zZUxyR25ReXFTZXJLZE5nckZTWF94UkZ5V3pKYU9uVEp1RVdyT2RjR2xKVHF0X1czamd0QjVxakE?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-11-13T04:18:51+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
       "title": "젠슨 황 퇴진, 엔비디아 독주 흔들리나…삼성전자·SK하이닉스·국내 AI 반도체 새로운 기회 - 데일리연합",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLXzl3MTRIdlhQamhJZFhHUS01SnFYdHdEN2V0UkFYSXN2SjhMeDI1eU05WmIxRWdJLVZCaERVRDktTVRmak1YMDNpT0lxZWNQWTE3S3k4bTA4eGFZTVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZmxSTDNFRF9DeXdRc2xORERWSk15cVFlSHdta2R1M1AtclpacWo3UHNLWTJDQ0NMal9HREV6VFlwbkdNeHpkRm5mTTZsQW5McmhtUTFCbXdrYnM?oc=5",
       "source": "데일리연합",
       "published": "2026-11-13T03:34:58+00:00",
       "stocks": [
@@ -155,15 +159,6 @@
           "ticker": "005930"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "반도체 산업 간담회 참석한 박건수-진보건 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBadVI1QzltVTgwZ1BVQUVOZGVEc3hkOU1VVEkyVWQwaFlwNG1XZVMyaXVpc0xaajZaVV84VEtFMWllaWtRNi13ckhzLS1HcUQydVBiZ1g1NVd4Q2Va?oc=5",
-      "source": "뉴스핌",
-      "published": "2026-11-13T01:24:00+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -291,6 +286,20 @@
       "source": "Benzinga",
       "published": "2026-11-12T17:21:15+00:00",
       "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Nvidia Holds Support Ahead of Earnings as Nasdaq 100 Rebounds - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzE0SjVEQ1ZxWDVpTzgxdmhTT3VlZ1JOUUZpX3ZMX0xBUFR4QWNzaVpvVUhWMkxjRDliSkRzZWdfLUlIUUpoajNUVTVLYVF3NnlNYlpfRXNJQWhXNkxYQVpMa21Ic3ltd2tGRDlSTjdKUlMtYkNHcWRHTkhKODAwTUlDaGpuR0doSTNqd09Td0lvbHlocDZReEZTQ0xKQXJFOTJHSXo1TVo5Rkxt?oc=5",
+      "source": "FOREX.com",
+      "published": "2026-11-12T16:42:58+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -811,15 +820,6 @@
     },
     {
       "type": "us",
-      "title": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-14T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Best Investments Over the Last 100 Years? Almost All Are Tech Companies. - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2hnNmFnZlBldWxlYmRFVFVpQzJWRjM0eUpERE9fN0VIbWI2Rm1icmpNN2MwbnA4R29yT0E3WWs5VVpDbVVjQXVjZEE4anFWVHRTUUJOZE0wb1NfM1I2Wl9Ld2tUVkJ4QjQ2SElZQldZUUYwU1YxQnBEam80ZVctXzg2MnpfM01jZHB3STNOa252QTFadUFGbGJTMA?oc=5",
       "source": "The New York Times",
@@ -1071,7 +1071,7 @@
   "top_stocks": [
     {
       "name": "엔비디아",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "name": "애플",
@@ -1083,7 +1083,7 @@
     },
     {
       "name": "삼성전자",
-      "mentions": 13
+      "mentions": 12
     },
     {
       "name": "SK하이닉스",
