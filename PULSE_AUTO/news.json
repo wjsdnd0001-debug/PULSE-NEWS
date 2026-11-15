@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T16:48:55.471321+00:00",
+  "updated_at": "2026-11-15T18:52:10.526103+00:00",
   "articles": [
     {
       "type": "us",
@@ -44,28 +44,6 @@
       "source": "뷰어스",
       "published": "2026-11-15T12:00:10+00:00",
       "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUzRJY1ljTU1BbmJLSUhpZXFiUFZuVjJIazZZeFh5Z2VObWtveUhTSkxndjA2ZlVnTnFVRDd5VWM2V1dxcG1URnlpMFBNODdEVFU5SG9qV0RSemI2UndvLTNuZmlvdXI2U1FJYnlMemFCVG96d3RSNTM2b3hNN1pSMkpibHEtYjJmMUlnZTdsLWlESnE1TzZ3VmtpNTJZT2hwSUNMakpvcHNqSEg1YTdqaXdxZEJXU3BYNE1QQXdZdjBmYzYtcWFKelJVY2t1aEY1OUdDSHFlQXNHZzBqX3V5WjZpTEVzNkFieHVhY1pySnI3eXhyTEdrbWExeURYNXNBemxwbG1YdERxUlV4SzVHbURRckY4bUk?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-11-15T11:30:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
-        },
-        {
-          "name": "마이크로소프트",
-          "ticker": "MSFT"
-        }
-      ],
       "sentiment": "중립/불명"
     },
     {
@@ -318,34 +296,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "US Futures Slip as Nvidia Leadership Transition Draws Attention, While Cisco and Applied Materials Issue Higher Forecasts: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMTYwVVpGa2V0QlRJLTQ3WjZ6eVVfa1JLV3Vya0ZlV25mdFlxYV9pQlRXR2dnUnJhOTZVTEg1ZUhpWEpTcWUzcmZwSUtrNm5ISUlQelhBMlA1dGpiVzN3UjhETHhEQnRSVVdETEk1bEthcTg3eDQzc1R2dDVyTkJOTG8zOWI1V05zQnc?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-11-13T09:55:47+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "US Stock Futures Edge Lower as Nvidia Leadership Changes Offset Cisco and Applied Materials Forecasts: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWk1fam4tWGxsSWI3dGV0WnVKTnN2bV82ZFBULXZRY3BZbzVpQklkRTZ2ZUt5R3JaRkczOWdUMzJremRjdWdUM1dyb1ZXaml4RFFpY09USTdnaGhFcWtvS1J1UnhyOE1kVm16WHNYYVlkd1pSUWM2WElrSzRRRGNQSXc4dGtDWTZNRkhZa2cwNW01U3JiX01R?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-13T09:54:55+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "'젠슨 황 공백'은 삼성전자 SK하이닉스에도 대형 악재일까 : '엔비디아 독주' 차질 생겨도 AI 반도체 업황은 견고하다 - 허프포스트코리아",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCOG5EclJRWE1KcmhHa3hMd043eGRMY0tYNzRJM1lnZ3o2MFhsVFY3d0xZVVgtMzBINElJUl92dk5FRFlQRDlfdjVFa2pfUFZGQlFpMWNDVQ?oc=5",
@@ -531,11 +481,29 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-22T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "[개장시황] 코스피·코스닥 1%대 상승 출발…급락 딛고 반등 시도 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nbmY4cU9scXZncS14TFg3dWZWN21tQS16UktNazZTRFZEWWx0QjlWZ0dySlhTbXpiSENmODJNMV8xWTctZGNxb0dXd2xudUVhc0FqOFpobWt2b2JJ?oc=5",
       "source": "뉴스핌",
       "published": "2026-10-21T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-13T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -667,28 +635,6 @@
         {
           "name": "마이크로소프트",
           "ticker": "MSFT"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUVBb0NRS25CbXRBTG1vV2tlamo3eTB1WWxvU3RLd29XemhLN2xJRDh4eDBGMUR2NHNJWmI3R1FpYVZwY2ptc2ZKVFRJOFBuY0l2RllhOW1ndjZvU00tWXUwUGFrY0UxOXJ1V3BkamJvQy1xaU81M1NNVjZvOGYxR2VqSzRldlV0TW9tTlBSX2pwd2o2dVExSHdndHkwUU0?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-18T07:00:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
         }
       ],
       "sentiment": "중립/불명"
@@ -882,6 +828,15 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT21BbEYyM2ZUU1h5XzV5R2NBY1pOa056MUc5Q0xqbTFwYzg4cFFrMnk5bVBLcm4wQlhGb3lqTUJGYnlzLWRBZ0x5VXVJNWpHU0hIaEFxM2YtV1JJVHJxVTR4YUQtT3FzNXpWeTNYb29fTi1oQ295aDdyQXZlMjlXVmRMNkxBTTdtZjFKcHg5c1JKb0N5YTQzN0QtY2Y3YTF6R0R3bnpveHpjX25KRFBIVWJtbi1BTVE?oc=5",
       "source": "Goldman Sachs",
       "published": "2026-05-28T07:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Trump discloses thousands of stock trades, some in companies directly influenced by his policies - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXlQYld1aF9MeWJHRmVOMkJELTFKaXJHXzJvakFxeUs1bjE5N2JhVTJQX3FYYl9tU0tZUkplRU55bkszODdPbHVhS0dfaEZWeVBsM2YwanpmcUlaa2NPR1pFVXlNZ3ZUZE9XWnQ0bXVna2tONlg5MEJ4elV5MEU4MDlGdkNrbHNqSnVkcG1sb212WXZnbU1EcDVzSThJTU40a0E?oc=5",
+      "source": "AP News",
+      "published": "2026-05-19T07:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -1112,6 +1067,15 @@
       "sentiment": "중립/불명"
     },
     {
+      "type": "us",
+      "title": "Magnificent Seven Stocks To Watch In December 2025 - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vczl3TzE3eWRaa2lRT3VfcWVIZnk0Z29tRU1NNTZSN3RNVUUzcC1tVUxxU2Nka0tSSXdEblczajNtZW9IbFRobzQyVHJTM20wb2VWY242c3dBdmI4Y1BJTTZXcGlFWjRRSXdLeE1DRjRxc0EzOXpQaDl3YW9WUXc?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2025-12-12T08:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
       "type": "kr",
       "title": "‘검은 수요일’ 맞은 한국 증시, 코스피∙코스닥 모두 사이드카 발동 (11.05) - 네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zYktFRURlSDZHMW9lU2toQlpNZ1Y2akFUbkhwODlxY24tbEprOFZiWXg0eWJsYkttODhjMGlVemxmN1ZuamtfUWN5SDAybTQ1Q1hiOTZNUGo?oc=5",
@@ -1124,18 +1088,18 @@
   "top_stocks": [
     {
       "name": "엔비디아",
-      "mentions": 23
+      "mentions": 19
     },
     {
       "name": "애플",
-      "mentions": 20
-    },
-    {
-      "name": "테슬라",
-      "mentions": 16
+      "mentions": 18
     },
     {
       "name": "삼성전자",
+      "mentions": 15
+    },
+    {
+      "name": "테슬라",
       "mentions": 15
     },
     {
@@ -1144,7 +1108,7 @@
     },
     {
       "name": "마이크로소프트",
-      "mentions": 3
+      "mentions": 2
     }
   ]
 }
