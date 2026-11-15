@@ -1,13 +1,36 @@
 {
-  "updated_at": "2026-11-15T08:56:33.294216+00:00",
+  "updated_at": "2026-11-15T10:50:42.010831+00:00",
   "articles": [
     {
       "type": "kr",
-      "title": "반도체 변동성에 흔들리는 증시…빚투·ELS·대기자금까지 '경고등' - ER 이코노믹리뷰",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfbTlLcnBhQzhQNXhlX0ZHc01aaFJiOWNRTDBJSGdpaS1vZkNmUGZoT0VhYUxZdzRTU2FBZW4zT2c4V0hXTUZ6NnFmd0kxcmZxemxOdnBBbUNqaTVJM2dhMmFRUm5LRmVRdTh0bw?oc=5",
-      "source": "ER 이코노믹리뷰",
-      "published": "2026-11-15T08:37:25+00:00",
-      "stocks": [],
+      "title": "코스피 하락…삼성전자·현대차 강세 삼성전기 약세, 엔비디아 경영 불확실성 주목 - CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yRGRxS3VYRGtCcDhKcnNVWFBUdFFQOXQ2d253Zk1kcGVEYXRYNDdiQXBjR2NYcnRpZjBQTzJHQzRqd3lWZC01WEU3cHJraUt3bV90bzNpVVl4blFpMDduOWl1bHg5dkJh?oc=5",
+      "source": "CBC뉴스",
+      "published": "2026-11-15T09:29:42+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "젠슨 황 떠난 엔비디아…삼성전자 웃고, SK하이닉스 울게 될까 - 뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15SVBXMWtsQ3JLMmVvMEVlcHdkODZNQ1FXQW05dl9wLWFhSlVocUdHZElqWElZSWNON0hOVEpJeW9aQWR3WGQtS3RPLVdsTFpUNnpneHUtbnBNSkNaUWpzUk9yRUdTZzY1ZEZJLWVRRdIBc0FVX3lxTE80THRLRXJZX3BDT3ZGSzZkVlVCN0dMVGZKRTlLZXRDN0F2VHkzWU1UbHBhcEhwck8yZXpNcUw5VElGRkdsVFd3eS1NX3FEdVFzMnJjbWpKUFR4UUdlSmtyeEhFYnJKR1hXQWctN1lkR3NhY0E?oc=5",
+      "source": "뉴스웍스",
+      "published": "2026-11-15T09:00:00+00:00",
+      "stocks": [
+        {
+          "name": "삼성전자",
+          "ticker": "005930"
+        },
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
       "sentiment": "중립/불명"
     },
     {
@@ -183,19 +206,19 @@
     },
     {
       "type": "kr",
-      "title": "\"구글·AMD가 엔비디아 치고 올라와도\"…웃는 건 결국 삼전닉스인 이유 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVWDd1SlhtZ2NLNW9pOE1kWktlN0NaeTIzWnY4UlFHWkFWSDFWUmo4TThWNk9Lb013MnNrT3VEc1AyUl9WZ0FodERlTzd4Wk1MeEh5eFZsMmV5bWZDelNwetIBeEFVX3lxTFA3andtQkUtc1YxRkEzRWVyYXFTSEFhSzJSdUVtZTAyWjVLRzRTNUNXcDZHcUlWVVRWaFdNekZoTmt4MnVfLS12eWVJOFk0cGdmRUZwaWZmQnk0YWN0aEtCaWFLMXp3bnVkVnVsZkV5Wi1KZjFzSm00Tg?oc=5",
-      "source": "뉴시스",
-      "published": "2026-11-14T19:12:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
       "title": "\"하이닉스 160만원 vs 470만원\"…반도체주 반등에 월가 전망 '극과 극' - 더구루",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NSUFGZHIzSnZ2aGJnamY5RERaMkw3UE56V0tLeFo1VXFteGFHa21hOFRjTTZyd0JPTUJPSWNNM0FpeEtYUUxZZExqb1VCclQ0LThBbTFDekdyc0oxMmc?oc=5",
       "source": "더구루",
       "published": "2026-11-14T15:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "We Like Shoals Technologies Group's (NASDAQ:SHLS) Earnings For More Than Just Statutory Profit - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT3FpSXB3WjhKVzdSRWpzMkVxNjlGeWg5Q2lnRGE2c1BZV3ZoNWlNckV0YmdQT09zeVByLWNLNy10NDR5Yy1vMUp0dmhSLU9DczFwSmx0eEZQeGN4RmcxdGtBeTctVmJNaER2T0JvZDhHSzJiVy1uN3pwZ29fUXNsekJ2bXhrZm9DQmoyR1o4ZFNwZFBEcEVWNHBfVHNQVzVhSHVFVHljb05Ta2JFdW51Z1ZUV29IZ21pWE5JQW9qV24wck1SWEtYMVkwUlJWMThLTnl1Ui1lR25EZEgwVjVxSlNuRdIB6AFBVV95cUxPOXB4NUwxRkRFckV3WDZyY0FNN1Npbk5aMkFYYVhjTjR1VXRrN3p0TXFPcTNGVTA3ODhrX1ZseUNPSlBZa0EySFZPX3ZxT2pGNjJaVVBsS2FuMV9WanEyR3V4MTZiVEFsYmxZY0ZwQ1FxYjItNmFZR3VRLWFDd1BwX1VPdHBlOEhfRkNicDJnWktVZG5tcHNDVjUtczVYa3pKMkd6aS1vMVYwczFqOWRGaE9Mc29waDRDYy1XbGtiR093UGR1Z3ZNSlB0WlNPYnY4d2tzbmFGSnp6UG5JUjBoRkVzS2xSQXZp?oc=5",
+      "source": "Simply Wall St",
+      "published": "2026-11-14T14:36:57+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -383,15 +406,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BejVHcjNHeTNLVkx5WmtKVzE3T1VBYVBGSWFwZE1BMDYyQnJ1Y0UwOW4tQjBYY25iYlR4X1VXNlA0VHNUT2N1MHk5ZUE2RmJJMUZZZDFERGFLYjlB?oc=5",
       "source": "뉴스핌",
       "published": "2026-11-12T00:27:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Stocks end higher as CoreWeave results ease AI spending worries - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGJ5bkNDcEt5YkZVaWdNQzhNVWRYSF9SUWZDY05Mc2lOMzRGeGw5N3BjZnJLeGl2ZmlmNTkzNGRBSU83OVFzeTltWHNDM3BDOUlrNmRUcUNfYjVTdi1WZXVjX1NjRjBuZGRIWDZoX3J3ZjJwMl8xVHNUUjJSdENTT0s2cy01WmdHenZwbG9IWmp3WVJN?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-11T21:25:25+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -998,32 +1012,6 @@
     },
     {
       "type": "us",
-      "title": "Palantir Billionaire Peter Thiel Dumped Nvidia, Tesla, Microsoft, and Apple. What Stocks Does He Own for 2026? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmNULS1DSmMyVTJSTDFrRkthdXZ6aDhMQVVZMG9zcGl3Z1JGaGs3NDA5OUw5Z3NZSklCTG5UV3hNNVdjMUVwN1QtT2g5WWcya2VKRE5KVHF2d045UGt1MHNSRlhGcXZFWlFIUWQzazZxeWh5aU43S2lRcXpMWHZ5bUpMakZUVDMzd1diYzhOM3JZNUhYcEFNbw?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-02-25T08:00:00+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        },
-        {
-          "name": "테슬라",
-          "ticker": "TSLA"
-        },
-        {
-          "name": "애플",
-          "ticker": "AAPL"
-        },
-        {
-          "name": "마이크로소프트",
-          "ticker": "MSFT"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Palantir Billionaire Peter Thiel Dumped Nvidia, Tesla, Microsoft, and Apple. What Stocks Does He Own for 2026? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3QtZmc3MHdlWmtfS18yUTBfc0RHOVNPSVBpRGs1Z19iZHpVVW5qSWxtVkRPeEpkS25zczRRRkU3V1l5MXZ3QXp5QWJFTks5R0hKUUVOamVfTjNXNmIyZVlyNVFpMEd4UHdWYWF0NnM1UThjYnJXWFNRNTNMTmY1Si1KUllFRVdNbk81TUpB?oc=5",
       "source": "Yahoo Finance",
@@ -1078,32 +1066,41 @@
       "published": "2026-01-23T08:00:00+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Magnificent Seven Stocks To Watch In December 2025 - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vczl3TzE3eWRaa2lRT3VfcWVIZnk0Z29tRU1NNTZSN3RNVUUzcC1tVUxxU2Nka0tSSXdEblczajNtZW9IbFRobzQyVHJTM20wb2VWY242c3dBdmI4Y1BJTTZXcGlFWjRRSXdLeE1DRjRxc0EzOXpQaDl3YW9WUXc?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2025-12-12T08:00:00+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
     }
   ],
   "top_stocks": [
     {
       "name": "엔비디아",
-      "mentions": 22
+      "mentions": 21
     },
     {
       "name": "애플",
-      "mentions": 19
+      "mentions": 18
     },
     {
       "name": "테슬라",
-      "mentions": 16
+      "mentions": 15
     },
     {
       "name": "삼성전자",
-      "mentions": 11
+      "mentions": 13
     },
     {
       "name": "SK하이닉스",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "name": "마이크로소프트",
-      "mentions": 3
+      "mentions": 2
     }
   ]
 }
