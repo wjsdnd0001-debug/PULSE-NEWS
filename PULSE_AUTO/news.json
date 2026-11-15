@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-11-15T18:52:10.526103+00:00",
+  "updated_at": "2026-11-15T20:46:30.325920+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "젠슨 황 떠난 엔비디아…삼성·SK하이닉스 'HBM 공급망' 판도 바뀌나 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RM3pGcU55enZLYW5fUDFqLW1wZVQ3RnFudFVWSXYzSTR3MmpuM2FlNXNwcjBOMk5LR3NRSzc0bkNCcXZ5ekRuM3VOcjVUZ1Q2dEVZb1o2UlhUUWZsYm5RY9IBeEFVX3lxTE1IYzVWUkMwdl9TbG16TGZnckxXRml0STBSTWZEam5mQXpYeTk0YXB0bHEzMk5EWUFPbVB2bnIybzBDS0pkODR6ay0yNTZ0dGdWWVdSU0lFYzNGWHpYVEN3bFRTbGl5cjBBZlVNaDhIeFlsQWJiVnMycg?oc=5",
+      "source": "뉴시스",
+      "published": "2026-11-15T20:10:00+00:00",
+      "stocks": [
+        {
+          "name": "SK하이닉스",
+          "ticker": "000660"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "kr",
+      "title": "삼성, 반도체 성공 AI 데이터센터로 확장 추진…FT “계열사 통합·수익성 검증 과제” - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVV9fVFhoU1ZfMkhXSUd0NWM4LVZSWGlvVWZ5RlREM2FKb1lmeW4tbE1KXzl3TEM1eFVjdlRpMWlxTmQyb3MtQzd4ejBISWhZZVpDTGkzZEQ0RW53bFZreWZsT19sV2E5ek1KMVdn?oc=5",
+      "source": "아시아투데이",
+      "published": "2026-11-15T19:49:20+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "US Stock Market Week Ahead: Can Nvidia Earnings and Fed Minutes Spark a Nasdaq Rally? - Stocks Down Under",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZDNOM285d3hOT0VJV0N4R2cxTWhFcFlzb2VLbVY0U2xiU21xX01hUnN1VDRrZ1lIOUkwRlFkcHdndnpUQ0hXZWZydlVMMmo5N2w5eWZZWjNmeVJ6dHJFZHROSk5jNFBKTFpzeWZqS2UyQkdRR1kwNmRHcFI1Nk0?oc=5",
+      "source": "Stocks Down Under",
+      "published": "2026-11-15T19:12:42+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "Palo Alto Networks (NASDAQ:PANW) Earnings Preview: Can AI Security Push Revenue Past $3.3 Billion? - Stocks Down Under",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42RERCTjB2b3Yzd2k0NWo4Y2RlVjdKalFvTDdkYnN5Zy1SOVpTcUJzTU1rdF9Nbjh3bHJnOW11TGlzZW0tYmx0UXNwLVYwYWw1MGtMQmtMN29ZMUdTR2ZpT0I4eHluWXJXdk9Fbmw1Ulh6a29mRkN2X2Fia2JZWEU?oc=5",
+      "source": "Stocks Down Under",
+      "published": "2026-11-15T18:35:01+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "us",
       "title": "Walmart (NASDAQ:WMT) Stock Faces Major Earnings Test as US Consumer Spending Comes Into Focus - Stocks Down Under",
@@ -26,15 +72,6 @@
           "ticker": "000660"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼성·SK 반도체 공장 건설 본격화…용인·청주 JTX 등 광역철도망 구축 일정은 미확정 - 광교신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QbzY1V3NPTk4zbEg2azZtVFhIbmJRQkI0a0RVOHJUY0dVQmk5OThXTGRiSkdPS2dBc1NSN2k3WFQwVnBiRC1lbE9wOWoxTTcyazc4T2lpQTQ5emlYTEpoWmRYdU5malNB?oc=5",
-      "source": "광교신문",
-      "published": "2026-11-15T12:57:22+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -102,15 +139,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NV0ZMVV9EMk83M1dGSTZ6X19kbnBma2d5VE9JcFgyTF9IWW5mRjllVVVVcEN3eU1JNnlZbGlXU0U4UVYxMER1RzBPZUJLeXBjTkNDQldmY2hjQVVwdVBBUENR?oc=5",
       "source": "이코노미스트",
       "published": "2026-11-15T08:23:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "젠슨 황 퇴진에 AI 칩 지각변동 조짐…삼성·SK, 고객 확보 경쟁 본격화 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xMVoxczhja2MxYkhHSlAwODJRQ2J2RlZiQjVKcW5aem5Obk5fcHVWQTNid2lhbDdZdEtoeU5GWWctQkVtUGFWbVktYjhBVVFFRmY0Mm1halRnb3BFRE9EV05YZkw?oc=5",
-      "source": "매일일보",
-      "published": "2026-11-15T06:46:02+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -261,15 +289,6 @@
           "ticker": "NVDA"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Chartstopper: November 13, 2026 - Nasdaq",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LWDA4Qm1RbU56VVBTaFFJZGZCTlplVXljV3dfNlNJMkREQnZGR2lYcHpwSUt0ZFJCV3ZWWTN0RkxsMnRjbEJjdTN3MzVLV3JTQmxHRGo3dXVQM0xBUzdyemR2VVhHOXlqSHA1TzNn?oc=5",
-      "source": "Nasdaq",
-      "published": "2026-11-13T21:52:00+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
@@ -824,15 +843,6 @@
     },
     {
       "type": "us",
-      "title": "The S&P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher - Goldman Sachs",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT21BbEYyM2ZUU1h5XzV5R2NBY1pOa056MUc5Q0xqbTFwYzg4cFFrMnk5bVBLcm4wQlhGb3lqTUJGYnlzLWRBZ0x5VXVJNWpHU0hIaEFxM2YtV1JJVHJxVTR4YUQtT3FzNXpWeTNYb29fTi1oQ295aDdyQXZlMjlXVmRMNkxBTTdtZjFKcHg5c1JKb0N5YTQzN0QtY2Y3YTF6R0R3bnpveHpjX25KRFBIVWJtbi1BTVE?oc=5",
-      "source": "Goldman Sachs",
-      "published": "2026-05-28T07:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
       "title": "Trump discloses thousands of stock trades, some in companies directly influenced by his policies - AP News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXlQYld1aF9MeWJHRmVOMkJELTFKaXJHXzJvakFxeUs1bjE5N2JhVTJQX3FYYl9tU0tZUkplRU55bkszODdPbHVhS0dfaEZWeVBsM2YwanpmcUlaa2NPR1pFVXlNZ3ZUZE9XWnQ0bXVna2tONlg5MEJ4elV5MEU4MDlGdkNrbHNqSnVkcG1sb212WXZnbU1EcDVzSThJTU40a0E?oc=5",
       "source": "AP News",
@@ -1037,6 +1047,32 @@
     },
     {
       "type": "us",
+      "title": "Palantir Billionaire Peter Thiel Dumped Nvidia, Tesla, Microsoft, and Apple. What Stocks Does He Own for 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmNULS1DSmMyVTJSTDFrRkthdXZ6aDhMQVVZMG9zcGl3Z1JGaGs3NDA5OUw5Z3NZSklCTG5UV3hNNVdjMUVwN1QtT2g5WWcya2VKRE5KVHF2d045UGt1MHNSRlhGcXZFWlFIUWQzazZxeWh5aU43S2lRcXpMWHZ5bUpMakZUVDMzd1diYzhOM3JZNUhYcEFNbw?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-02-25T08:00:00+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        },
+        {
+          "name": "테슬라",
+          "ticker": "TSLA"
+        },
+        {
+          "name": "애플",
+          "ticker": "AAPL"
+        },
+        {
+          "name": "마이크로소프트",
+          "ticker": "MSFT"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "Dow Jones Futures: Nvidia, AMD, Tesla, Broadcom, Apple Are Big Movers - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMVFuLW9RVWVTV09IMmxQM3ZJMWtUbUNzUXl3VmUteERhTElyeUlvTzNhZ1hJcXlSM0VNSDVnbXUzUzlhTUlfWlF5T3FEcU1mMHAxeUZUMndZT0hTMlFVQXJzNUtCa3hDdXdCWVBwMTlnb2VUR2gtN1l0TkthNFBfck1OYXVuOEJqaHd5ZURUd3pRZ2pXVVR4U1pxbkZMLU15MVBOZ1FfbG1FQV9KSDgwV0ZRWUI?oc=5",
       "source": "Investor's Business Daily",
@@ -1067,15 +1103,6 @@
       "sentiment": "중립/불명"
     },
     {
-      "type": "us",
-      "title": "Magnificent Seven Stocks To Watch In December 2025 - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vczl3TzE3eWRaa2lRT3VfcWVIZnk0Z29tRU1NNTZSN3RNVUUzcC1tVUxxU2Nka0tSSXdEblczajNtZW9IbFRobzQyVHJTM20wb2VWY242c3dBdmI4Y1BJTTZXcGlFWjRRSXdLeE1DRjRxc0EzOXpQaDl3YW9WUXc?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "2025-12-12T08:00:00+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
       "type": "kr",
       "title": "‘검은 수요일’ 맞은 한국 증시, 코스피∙코스닥 모두 사이드카 발동 (11.05) - 네이버페이 머니스토리",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zYktFRURlSDZHMW9lU2toQlpNZ1Y2akFUbkhwODlxY24tbEprOFZiWXg0eWJsYkttODhjMGlVemxmN1ZuamtfUWN5SDAybTQ1Q1hiOTZNUGo?oc=5",
@@ -1088,27 +1115,27 @@
   "top_stocks": [
     {
       "name": "엔비디아",
-      "mentions": 19
+      "mentions": 21
     },
     {
       "name": "애플",
-      "mentions": 18
+      "mentions": 19
+    },
+    {
+      "name": "테슬라",
+      "mentions": 16
     },
     {
       "name": "삼성전자",
       "mentions": 15
     },
     {
-      "name": "테슬라",
-      "mentions": 15
-    },
-    {
       "name": "SK하이닉스",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "name": "마이크로소프트",
-      "mentions": 2
+      "mentions": 3
     }
   ]
 }
