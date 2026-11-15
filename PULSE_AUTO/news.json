@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-15T12:58:43.924803+00:00",
+  "updated_at": "2026-11-15T14:50:38.443077+00:00",
   "articles": [
+    {
+      "type": "kr",
+      "title": "삼성·SK 반도체 공장 건설 본격화…용인·청주 JTX 등 광역철도망 구축 일정은 미확정 - 광교신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QbzY1V3NPTk4zbEg2azZtVFhIbmJRQkI0a0RVOHJUY0dVQmk5OThXTGRiSkdPS2dBc1NSN2k3WFQwVnBiRC1lbE9wOWoxTTcyazc4T2lpQTQ5emlYTEpoWmRYdU5malNB?oc=5",
+      "source": "광교신문",
+      "published": "2026-11-15T12:57:22+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
     {
       "type": "kr",
       "title": "[손기호의 일본탐방] 미쓰이화학, JSR 인수…삼성·SK 소재 공급망 영향은? - 뷰어스",
@@ -124,15 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2ZwVmxMUk1BS3JfTWtzZjIwcUc5VWE5TGhfYUo2RFJBYkV0cU15UTdfS09DOUxJS1VOS0czaFJ0cUtoVHUzWDFMVk9BR1V0NDBMeElsSktjS21zVGlibi12d3VuaTMzSXpWNVRyb2FXQzVyQS0tVnlfYkk2VUZnOWJTcGpxaHB2WlJYcHlESUEzbFBDOUtMVVZ5d2dTV3FkTGI0?oc=5",
       "source": "Seeking Alpha",
       "published": "2026-11-15T04:25:27+00:00",
-      "stocks": [],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "kr",
-      "title": "삼전·닉스, ‘빚투’ 7조원 육박…증시 변동성 확대 부담 - 산경투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CR2w0cWVCOXNoS1YtdGkxakJaWmRLRk92SUVJNko1Ukh3dmpNWnRpclktaFlsWnRUTHd6SmRmYmRLeFFfZHZzemlJZksyNlczUEtPb2VobnJxWHhkWElNeG9mM3ltaks5TmNnR1VHY3jSAXRBVV95cUxPQUkzMnV1OUF6X0VGZndhSk55NG1IM0Y2SzFydnBkSEZqM2NrUDNiMjlRS09EeXVxY0YyU3VWS1JJOFRQZEZlcnRWWWIyNEt3emJuc2wtQmFNVmNwY1M1bFZmQ2FMOUhKTi16bWs3Qm9KZEtrcQ?oc=5",
-      "source": "산경투데이",
-      "published": "2026-11-15T03:15:01+00:00",
       "stocks": [],
       "sentiment": "중립/불명"
     },
@@ -278,10 +278,33 @@
     },
     {
       "type": "us",
+      "title": "Earnings Calendar and Analysis for This Week (November 16-20) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT2JlZjF1QU9yZTBqNVJ4aXJUUjVFMDA4SWxPdEVienI3d2dFcFF4Z3BVNE40LWxmOHV1REljUVFaSFY3X2FrQm1xV2NMYWY3SHRoOFdhMXc2ZWFyZGtYTGV3Ul9lY1htRExZOFpMLXJGRWVRSWU1dTBUcjVSc0lEckdXTEhkck45Ujh3?oc=5",
+      "source": "Kiplinger",
+      "published": "2026-11-13T17:38:49+00:00",
+      "stocks": [],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
       "title": "The Nvidia Earnings Report Could Wreck The Market (NASDAQ:NVDA) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS2M1WUNyUmZodU9hNGMtZFd3ZVhrNWxFUkdKMFJWZDRONmo0ZU1LYnQ3UmplNFQ5c0xKQ1h3aU5MVXlxVHc0TXFDZTFhNS1PSWdrMkRxYjJDWnlYamstTHM1bnJOOV9mdlRZVVpJYXZOOWVwN09QaUoxQzBJTGpXVnZ2enByN1RLaGx2dnpHOA?oc=5",
       "source": "Seeking Alpha",
       "published": "2026-11-13T13:00:45+00:00",
+      "stocks": [
+        {
+          "name": "엔비디아",
+          "ticker": "NVDA"
+        }
+      ],
+      "sentiment": "중립/불명"
+    },
+    {
+      "type": "us",
+      "title": "US Futures Slip as Nvidia Leadership Transition Draws Attention, While Cisco and Applied Materials Issue Higher Forecasts: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMTYwVVpGa2V0QlRJLTQ3WjZ6eVVfa1JLV3Vya0ZlV25mdFlxYV9pQlRXR2dnUnJhOTZVTEg1ZUhpWEpTcWUzcmZwSUtrNm5ISUlQelhBMlA1dGpiVzN3UjhETHhEQnRSVVdETEk1bEthcTg3eDQzc1R2dDVyTkJOTG8zOWI1V05zQnc?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-11-13T09:55:47+00:00",
       "stocks": [
         {
           "name": "엔비디아",
@@ -360,24 +383,10 @@
     },
     {
       "type": "us",
-      "title": "Nasdaq Futures Fall as Nvidia Leadership Uncertainty and China Chip Restrictions Weigh on Markets: Dow Jones, S&P, Wall Street - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZFJFM2RNdHpXTjlabFBaem5VWWZuazhjRjFIamd0cE9vU2pZOFVkZFdpeHp6VzRfaHNuaWNDbkJYTk1WcmN0S0hMYzFwQl9oTHJLeFRjUHFTb1I3YlNkaG5qVnZBMElScWx2eHpWeHpUSkRjZlhibzNmLVFyU1NqZTVwYnk5ZXJFNjh4cWk0VQ?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-11-12T10:04:47+00:00",
-      "stocks": [
-        {
-          "name": "엔비디아",
-          "ticker": "NVDA"
-        }
-      ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "US Stock Futures Decline as Nvidia Leadership Reports Weigh on Technology Shares: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNk0tOXNfczg0T19janZkOXpvWXBBWlJpRGFRTlJhWi1wd3NDUzhyaTU2WFNoYkxfUV96QlliUC05eFpHTngxcGw4LXZXU3psV21hXzJWVXpyWFRDX2dyb1daWmNVdVNGU3dOWTNiZlo5bjBvMm5RRkdsSlFJbG83UFpUWlNkRFNzUkx2N05wbU45a1FuckxnR2I4dlo?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-11-12T10:03:23+00:00",
+      "title": "Stock Market Today: Nasdaq Drops; Nvidia Slumps After CEO's Exit With Earnings Report On Tap - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONV8tXy0yZEc1RDdzZFJiSURHcEVKQ2VGWTRFVzdSWHZ0TERtX1IwN2g2NXpNZktvbS1TdEdZTTZwbjNwTWswUUtfQWVMMXRweXlkOU1Hck90Tk5tZ25NUUtKSkpjNFE5SUgxYUxGU0twZUdvYzdKRGtTZmZMMVBtOHowSjVSaXFTOWdRTHFkQXFhY1FEeUZUbVJmdzlmaUhwQlRsd2R2a1JaS201?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-11-12T21:34:00+00:00",
       "stocks": [
         {
           "name": "엔비디아",
@@ -483,15 +492,6 @@
           "ticker": "AAPL"
         }
       ],
-      "sentiment": "중립/불명"
-    },
-    {
-      "type": "us",
-      "title": "Nasdaq slides over 5% for worst month since March 2025 as AI trade suffers - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3BsVkRQZGpDVUx3bC1nOVUxZFVxcTdNdWk5ZHB6SFJpNjlRNjBoNUNFME9TUENNZXVNczFjeFNHM1c0Wloya2dXenBtSlNHRmV5QTc4bUxLaUJIeTc1ZjFBbFpUNHVUNXJOMl95M3QtZGxOcEpmYWJSczExdVNUeF9sOEhWTUlJMVFCOWhzVU9qcS10SkFF?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-29T07:00:00+00:00",
-      "stocks": [],
       "sentiment": "중립/불명"
     },
     {
